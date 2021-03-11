@@ -17,8 +17,8 @@
 Before you join a server as a new player
 - please check out at least the chapters [Before Joining A Game](#before-joining-a-game) and [Rifleman](#rifleman),
 - practice on Jensen's Range and the linked Steam Workshop maps,
-- take a look at various new player guides on YouTube (links below in the "YouTube Channels" chapter).
-- This game has its own language. Take a look at the "Abbreviations/Lingo" chapter if you don't know a term.
+- take a look at various new player guides on YouTube (links below in the [YouTube Channels](#youtube-channels) chapter).
+- This game has its own language. Take a look at the [Abbreviations, Lingo](#abbreviations-lingo) chapter if you don't know what a term means.
 
 
 ************************************************************************
@@ -498,17 +498,17 @@ Your Team    Opposite Team        Event
 
 ## Training
 - Do the training. Then do it again.
-- Practice on Jensen's range and practice a lot! Try weapons, mortars, tanks, fly the helicopter, have fun and explore everything. Get used to rifle optics and see how far you can shoot.
-- If you want to train on a different map than Jensen's Range, open your console and type AdminChangeLayer - a list will show up with all maps and game modes and you can choose one of them. If the map has a timer that prevents you from getting into a vehicle or flying the helicopter open your console and type AdminSlomo 150, which will speed up time. You can set time back to normal speed with AdminSlomo 1.
-- You can explore a map with Shift + P. Move around with your usual movement keys. Find more information below under ## Admin Camera.
-- Want to check out being a Squad Leader? Create a squad in the deployment menu (just name a squad and you'll be SL). Make sure to grab a SL kit. You can use map markers and place structure foundations (though you'll need a non-SL role to build them (the SL does not have a shovel).
+- Practice on Jensen's range and practice a lot! Try weapons, mortars, tanks, fly the helicopter, have fun and explore everything. Get used to rifle optics and see how far you can hit targets.
+- If you want to train on a different map than Jensen's Range, open your console and type AdminChangeLayer. A list will show up with all maps and game modes and you can choose one of them. If the map has a timer that prevents you from getting into a vehicle or flying the helicopter open your console and type AdminSlomo 150, which will speed up time. You can set time back to normal with AdminSlomo 1.
+- You can explore a map with Shift + P. Move around with your usual movement keys. Find more information below under [Admin Camera](#admin-camera).
+- Want to check out being a Squad Leader? Create a squad in the deployment menu (just name a squad and you'll be SL). Make sure to grab the SL kit from an ammo box. You can use map markers and place structure foundations (though you'll need a non-SL role to build them. The SL does not have a shovel).
 - Want to be a Commander and call in air strikes? Create a squad first, then click on "Volunteer as Commander" and get your binos out, open your radial menu and click on "Request Tactical Support from Commander". Then go to the deployment screen and approve the request (right mouse click on the target area).
 
 [Back to top](#squad-field-manual)
 
 
 ## Steam Workshop Maps
-- The Squads Steam Workshop contains several training maps. Here are two maps that you might like.
+-Squad's Steam Workshop contains several training maps. Here are two maps that you might like.
 - Access the link below and subscribe to either map. Then restart Squad.
 - ERENEJ's Aim Training - https://steamcommunity.com/sharedfiles/filedetails/?id=2065975972&searchtext=training
     - To play this map open the console and type AdminChangeLayer AimTrainingMod
@@ -522,14 +522,14 @@ Your Team    Opposite Team        Event
 - Rifleman (suggested role for your first few games)
 - Medic
 - Automatic Rifleman
-- Do logi runs (bring build/ammo points from main to your squad's FOB). Tell your SL that you volunteer for logi runs. Sometimes the SL wants you to fight and does the runs himself. Learn how to drive a truck first and how you can load/unload it.
+- Do logi runs (bring construction/ammo points from main to your squad's FOB). Tell your SL that you volunteer for logi runs. Sometimes the SL wants you to fight and does the runs himself. Learn how to drive a truck first and how you can load/unload it.
 
 [Back to top](#squad-field-manual)
 
 
 ## Finding a Server
-- First join Jensen's Range (the map where you train). Then search for a server. Most good servers are usually full and have a waiting list and you have to wait a few minutes. While you wait for the server to connect, you can train on Jensen's Range. The game will connect you automatically to the server once it's your turn.
-- For your first game: Jump on a full server (you might need to wait a few minutes in the Queue, that's fine, don't join if the queue is > 5ppl). Preferably you should join a server in your native language to make communication easy. Join a Squad. If none are open, be patient, there will be one available in a few minutes. Have fun! Tell your Squad Leader you are new and need guidance, do as the says, kick ass.
+- First join Jensen's Range (the map where you train). Then search for a server. Most good servers are usually full and have a waiting list and you have to wait a few minutes. While you wait for the server to connect, you can train on Jensen's Range. The game will connect you automatically to the server once you can join.
+- For your first game: Jump on a full server (you might need to wait a few minutes in the Queue, that's fine, don't join if the queue is > 5ppl). Preferably you should join a server in your native language to make communication easy. Join a Squad. If none are open, be patient, there will be one available in a few minutes. Have fun! Tell your Squad Leader you are new and need guidance, do as they say, kick ass.
 - Ping is not super important in Squad. You will still have a good experience with a 150 ping.
 - Many servers specifically say something like "New Players Welcome". Those are a good place to start.
 - Pick a server with the gamemode AAS or RAAS. Maps usually change every round. You will most likely join an ongoing game.
@@ -538,25 +538,25 @@ Your Team    Opposite Team        Event
 
 
 ## Server Rules
-- Be aware that all servers have rules. Make sure to follow those rules. Violations can result in bans.
+- Be aware that all servers have rules. Make sure to follow these rules. Violations can result in bans.
 - If other people are harassing you, you can send admins a message (open console and type ChatToAdmin <message>) or ask your SL for help.
 - Most servers' rules most likely are similar to the ones below:
     - Be friendly, stay calm, help new people, have fun.
     - Squad leaders must use a mic, speak English and make an effort to communicate.
     - Do not teamkill or intentionally wound a friendly player. Mistakes happen. If it was an accident, immediately apologize in all chat.
-    - All vehicles requiring the crewman kit need to be 2 manned (unless RTB).
+    - All vehicles requiring the crewman kit need to be 2 manned (unless they are being returned to base).
     - We have zero tolerance for racism or griefing or confrontation. Do not make things personal, degrading or confrontational on our server.
     - No locked 1 man squads (except logistics).
     - Do not open a squad in the beginning of the round if you do not intend to lead it.
-    - If you want to use a vehicle, but there are other people waiting; Get in line and wait your turn
+    - If you want to use a vehicle, but there are other people waiting, get in line and wait your turn.
 
 [Back to top](#squad-field-manual)
 
 
 # Joining a Squad
-- Join a Squad that has "INF" in its title, or does not have "ARMOR" or "HELI" in its title. If a squad has a not so serious name it's usually a good team to join. Those are often led by experienced SLs that just want to have a good time. Should you end up in the wrong squad the SL will most likely let you know and you can switch to another one.
+- Join a Squad that has "INF" in its title, or does not have "ARMOR" or "HELI" in its title. If a squad has a not so serious name it's usually a good team to join. Those are often led by experienced SLs that just want to have a good time. Should you end up in the wrong squad, the SL will most likely let you know and you can switch to another one.
 - Do not create your own Squad yet, unless you know the game inside out. Play all roles in live games first before you lead a Squad.
-- Pick the rifleman kit. This kit comes with an ammo bag that you can share with your team (e.g. your medic to get more bandages or LAT to get more rockets).
+- Pick the rifleman kit. This kit comes with an ammo bag that you can share with your team (e.g. your medic can refill their bandages and HAT/LAT can get more rockets).
 - Get a weapon with a magnified optic on it. You will be at a severe disadvantage without a magnified optic. For close quarter battles an iron sight may be better, but don't worry about this yet.
 - Find a good squad that is talking and is willing to help. If you find that people don't communicate (especially SL) consider joining another squad. However, sometimes it's fun to stay in these Squads and to join random firefights, to explore the map and try new kits.
 - You can tell if your SL is good based on
@@ -567,7 +567,7 @@ Your Team    Opposite Team        Event
     - Telling people to swap kits to round out the squad
     - Helping you guys adding value to the team
 - There are rarely toxic people in Squad. If you come across anyone being too noisy you can mute them in the scoreboard. There's a little speaker by their name on the list. Click on it.
-- If people are racist/abusive let your SL know. Also, report them to the servers admin. Those people usually get banned. To reach an admin type this in your console: ChatToAdmin <Message>
+- If people are racist/abusive let your SL know. Also, report them to the servers admin. Those people usually get banned. To reach an admin type this in your console: ChatToAdmin your message here.
 - If the game is already going on, ask SL where you should spawn, before you deploy.
 - When you join a game and a squad at game start, don't instantly spawn in. Wait a polite 10-20 seconds for the squad to fill and the SL to open his mouth. For a number of reasons. (1) The SL may be a shitbag that passes the kit over in 5 seconds that results in a hot potato squad and ruins the match start. (2) The SL may be micless and/or clueless. You want to avoid that. (3) The SL may have plans that don't involve all 9 squad members spawning straight away, you take this option away by running out and spamming F on a logi to... wait another 130 seconds in it.
 - Ask SL for vehicle permission BEFORE spawning at main during a game. If your SL doesn’t want you to use it and/or wants you somewhere else you are either stuck at main waiting for a ride or have to waste a ticket to respawn.
@@ -584,7 +584,7 @@ Your Team    Opposite Team        Event
 - Ask questions. People are usually willing to help.
 - If someone talks to you, talk back. Act like you're in the real world and not a video game.
 - Chit chatting and making jokes while you're on your way to the first objective is usually fine. But listen to your SL if they want to tell you about the objective.
-- Tell your SL/Team if you had a good time. Squad leading is hard work and showing some appreciation can brighten someone's day. Also, you can ask your SL if they're leading again next round again if you want to continue gaming.
+- Tell your SL/Team if you had a good time. Squad leading is hard work and showing some appreciation can brighten someone's day. Also, you can ask your SL if they're leading again next round in case you want to continue gaming.
 
 [Back to top](#squad-field-manual)
 
@@ -600,7 +600,7 @@ Your Team    Opposite Team        Event
 
 
 ## I Cannot Speak (I Am A Mute)
-- If you're mute we want you to join Squad nonetheless! We won't leave anyone behind! You're one of us!
+- If you're a mute we want you to join Squad nonetheless! We won't leave anyone behind! You're one of us!
 - If anything, send a quick message to your squad when you join that you can't use your voice due to medical reasons.
 - You can add [MEDICALLY MUTE] to your name to let people know that you won't be talking.
 - If you run into an asshole, let the admins know.
@@ -608,17 +608,18 @@ Your Team    Opposite Team        Event
 - While speaking is helpful, even more important is following orders and playing as a squad.
 - There are plenty of squads without speaking. These are the squads where the SL is just a filler and isn't really a squad leader. They don't care if you can speak or not.
 - Be aware that not a lot of people read text chat a whole lot or quickly enough. Text chat can also be disabled in the UI, so some people won't see chat messages at all.
-- You could set up a soundboard to play the most common phrases (take a look at the "Callouts" chapter).
+- You could set up a soundboard to play the most common phrases (take a look at the [Callouts](#callouts) chapter).
 
 [Back to top](#squad-field-manual)
 
 
 ## Callouts
-- Before you use voice chat remember this: A.B.C. Accuracy Brevity Clarity. Your squad leader will thank you, and the rest of the squad will too.
-- Always check your map if you're looking at an enemy or friendly soldier.
-- Don't ever say "101 degrees" in Squad Chat. Any degree direction in squad chat is just useless, anybody not in local range will just get a confusing direction to look at. Stick to local chat for degree information.
-- The grid is the numbers and letters on the edge of the map, A1 being top left and J10 being bottom right. Keypad is a subdivision of the grid location which is numbered like the layout of a keypad on your PC keyboard. 1 is bottom left, 3 is bottom right, 7 is the top left, 9 is the top left and 5 is the center, just like the 1-9 on your keyboard numpad. It allows you to very quickly give a precise location without needing to reference a lot more numbers on a grid and is easy for the SL to find the location fast.
-- Grid locations should be used rarely. It's time consuming to bring up the map to figure out what grid you're referring to. Better to say "Enemy BTR north-west of the objective, on the road" rather than "Enemy BTR A5-6-4". Grid coordinates are handy though when there's an enemy HAB somewhere without any landmarks to reference.
+- Before you use voice chat remember this: A.B.C. Accuracy, Brevity, Clarity. Your squad leader will thank you, and the rest of the squad will too.
+- Always check your map to see if you're looking at an enemy or friendly soldier.
+- Don't ever say "101 degrees" in squad chat. Any degree direction in squad chat is useless and anybody not in local range will just get a confusing direction to look at. Stick to local chat for degree information.
+- The map is split up in grids. A grid is a network of evenly spaced horizontal and vertical lines used to identify locations on a map.  Each grid has a number and a letter, which you can see on the edge of the map, A1 being top left and J10 being bottom right. 
+- Each of these grids have their own grid, called keypad. Keypad is a subdivision of the grid location which is numbered like the layout of a keypad on your PC keyboard. 1 is bottom left, 3 is bottom right, 7 is the top left, 9 is the top left and 5 is the center, just like the 1-9 on your keyboard numpad. It allows you to very quickly give a precise location.
+- Grid locations should be used rarely. It's time consuming to bring up the map and to figure out what grid you're referring to. Better to say "Enemy BTR north-west of the objective, on the road" rather than "Enemy BTR A5-6-4". Grid coordinates are handy though when there's an enemy HAB somewhere without any landmarks to reference.
 - Call vehicles out to teammates and SL with the minimum information you actually know. Does it have tracks? Mention that. Which way is it moving? Etc.
 - The more effective you can communicate the location of the enemy, the more quickly and more efficiently that you and your team can deal some death in their direction. Weight of fire and accuracy of fire wins firefights.
 - The basic format of a target indication is simple
@@ -678,7 +679,7 @@ Your Team    Opposite Team        Event
 - Learn to sing the songs below (very badly is fine) or keep the lyrics handy :)
 
 - Take Me Home, Country Roads - John Denver
-
+```
     Almost Heaven, West Virginia
     Blue Ridge Mountains, Shenandoah River
     Life is old there, older than the trees
@@ -715,9 +716,9 @@ Your Team    Opposite Team        Event
 
     Take me home, (Down) country roads
     Take me home, (Down) country roads
-
+```
 - Fortunate Son - Creedence Clearwater Revival
-
+```
     Some folks are born made to wave the flag
     Ooh, they're red, white and blue
     And when the band plays Hail to the Chief
@@ -751,6 +752,7 @@ Your Team    Opposite Team        Event
     I ain't no fortunate one, no no no
     It ain't me, it ain't me
     I ain't no fortunate son, no no no
+```
 
 [Back to top](#squad-field-manual)
 
@@ -2006,6 +2008,7 @@ HAB location - needs some cover next to it (rotate with arrow keys to fit in tig
 - Roger Dodger - Message received and understood but better
 - Rotate - to change positions
 - RP - Rally Point - A spawn point for your squad only. One squadmate within 8 meters of you is required to place a rally. If an enemy gets closer than 10 meters to your RP it will be destroyed.
+- RTB - Return to base
 - RU - Russia
 - RV - Rendezvous Point
 
