@@ -8,7 +8,8 @@
 - I never planned to share this guide, however as it grew in size I realized that others might benefit from it as well.
 - This guide contains the collected wisdom of many experienced Squad players from various sources. Their contributions are often copy-pasted into this guide. If you find content in this guide that you wrote I want to say "Thank you" for sharing your wisdom on the Squad Wiki, Reddit, in various manuals and strategy guides, the old Squad forum (offline now), Steam, YouTube and other sources. I've listed most sources below.
 - If you want to say "hi" my Squad in-game name is Munster. Feel free to add me on Steam https://steamcommunity.com/id/Munster101/
-- This guide is still work in progress, but I am trying to be less of a perfectionist and just get it out there. 
+- This guide is still work in progress, but I am trying to be less of a perfectionist and just wanted to get it out there. 
+- Why is this guide on Github? I am not a fan of PDFs (pain to read on mobile) and rather have all information in a single text file. It's easier to search and you can copy-paste what you need. You can download this repo to your computer. Maybe people like to contribute and add information to this guide and GitHub is a great place to collaborate. 
 - This guide was last updated March 11, 2021.
 
 
@@ -123,6 +124,9 @@ Before you join a server as a new player
 - [Sources and Resources](#sources-and-resources)
     - [Websites](#websites)
     - [YouTube Channels](#youtube-channels)
+
+[Back to top](#squad-field-manual)
+
 
 ************************************************************************
 # Installation, Setup
@@ -403,6 +407,8 @@ Your Team    Opposite Team        Event
 - The most common game modes are Advance and Secure, Random Advance and Secure, Skirmish and Invasion.
 - Games can last up to 2 hours.
 - The team with 0 tickets or the least amount of tickets at the end of the game will lose.
+
+[Back to top](#squad-field-manual)
 
 
 ## (Random) Advance and Secure
@@ -2245,6 +2251,7 @@ HAB location - needs some cover next to it (rotate with arrow keys to fit in tig
 - There are a lot of great videos online to learn more about every aspect of Squad.
 - Search for "squad new player guide", "squad sl guide", "squad tank guide", etc.
 - Here are a few YouTube channels that you might like (in alphabetical order):
+    - Bastion Black Performance (This channel contains real-life small unit tactics. It's not Squad specific, but still interesting.) - https://www.youtube.com/channel/UCHuwc9VESIqSNQzkCwVePdQ/playlists
     - Captain - https://www.youtube.com/c/BHMCaptain/playlists
     - Cwarfighter - https://www.youtube.com/channel/UCVqaQzElqtR_0A5oXk0uzBw/playlists
     - Gorlami14 - https://www.youtube.com/c/Gorlami14/playlists
