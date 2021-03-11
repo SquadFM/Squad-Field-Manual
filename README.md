@@ -678,8 +678,9 @@ Your Team    Opposite Team        Event
 - Imagine at the start of the match you and your squad loads up in a truck and you're heading off down the road. After a little chit chat someone starts softly singing "Take Me Home, Country Roads" from the very beginning of the song. Everyone stops talking, then someone joins in. By the time he gets to the chorus literally everyone in the truck is singing along... Your whole squad just road tripping through a forest singing together. Beautiful moments like these make Squad a very special game.
 - Learn to sing the songs below (very badly is fine) or keep the lyrics handy :)
 
-- Take Me Home, Country Roads - John Denver
 ```
+Take Me Home, Country Roads - John Denver
+
     Almost Heaven, West Virginia
     Blue Ridge Mountains, Shenandoah River
     Life is old there, older than the trees
@@ -717,8 +718,10 @@ Your Team    Opposite Team        Event
     Take me home, (Down) country roads
     Take me home, (Down) country roads
 ```
-- Fortunate Son - Creedence Clearwater Revival
+
 ```
+Fortunate Son - Creedence Clearwater Revival
+
     Some folks are born made to wave the flag
     Ooh, they're red, white and blue
     And when the band plays Hail to the Chief
