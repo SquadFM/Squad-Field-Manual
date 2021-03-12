@@ -1792,6 +1792,10 @@ HAB location - needs some cover next to it (rotate with arrow keys to fit in tig
 ************************************************************************
 # Abbreviations, Lingo
 
+Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](#g), [H](#h), [I](#i), [J, K](#j-k), [L](#l),  [M](#m), [N](#n), [O](#o), [P](#p), [Q](#q), [R](#r), [S](#s), [T](#t), [U](#u), [V](#v), [W, X, Y](#w-x-y), [Z](#z)
+
+
+## 0-9
 * .50 Cal - In reference to the .50 Cal HMG
 * 10-4 - Copy or Yes, I understand your message
 * 1HK - One Hit Kill
@@ -1800,6 +1804,11 @@ HAB location - needs some cover next to it (rotate with arrow keys to fit in tig
 * 2/ic - Second in command
 * 30 Mike - refers to vics with 30 millimeter guns like the BMP-2 and BTR
 * 40 Mike-Mike - An M203 40mm grenade launcher, usually mounted under an M-16 or similar weapon.
+
+Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](#g), [H](#h), [I](#i), [J, K](#j-k), [L](#l),  [M](#m), [N](#n), [O](#o), [P](#p), [Q](#q), [R](#r), [S](#s), [T](#t), [U](#u), [V](#v), [W, X, Y](#w-x-y), [Z](#z) - [Back to top](#squad-field-manual)
+
+
+## A
 * AA - anti aircraft
 * AAS - Advance and Secure
 * ACC - Accuracy
@@ -1824,6 +1833,10 @@ HAB location - needs some cover next to it (rotate with arrow keys to fit in tig
 * Azimuth - The degree in which the mortar is facing. If thinking North as 0 degrees, and the enemy is direct South of the mortar emplacement, you would point the mortar 180 degrees from North with an azimuth of 180 degrees.
 * Azimuth Check - Ensuring that you are on the correct path or that the task is being done according to procedure
 
+Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](#g), [H](#h), [I](#i), [J, K](#j-k), [L](#l),  [M](#m), [N](#n), [O](#o), [P](#p), [Q](#q), [R](#r), [S](#s), [T](#t), [U](#u), [V](#v), [W, X, Y](#w-x-y), [Z](#z) - [Back to top](#squad-field-manual)
+
+
+## B
 * Bad Splash - Bad Mortar/Rocket Rounds, expect further orders - Means the rounds weren't on target, so expect new bearings to clock into the mortar. Can also mean the rounds hit friendlies. New bearings are usually said right after this phrase. In reference when mortars or other artillery are used on a current position, then squads are supposed to assault said position. Once the mortar rounds splash, then your men are supposed to assault the location.
 * Back Cap - Staying behind on an already captured flag (defense flag) while the rest of the team is attacking the next offensive flag. You make sure that the defense flag is not neutralized by the enemy.
 * Bad nade - grenade landed too close to friendlies
@@ -1845,6 +1858,9 @@ HAB location - needs some cover next to it (rotate with arrow keys to fit in tig
 * BS - Bullshit
 * BTR - The BTR-80 ("Armoured Transporter") is an 8x8 wheeled amphibious armoured personnel carrier (APC) designed in the USSR
 
+Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](#g), [H](#h), [I](#i), [J, K](#j-k), [L](#l),  [M](#m), [N](#n), [O](#o), [P](#p), [Q](#q), [R](#r), [S](#s), [T](#t), [U](#u), [V](#v), [W, X, Y](#w-x-y), [Z](#z) - [Back to top](#squad-field-manual)
+
+## C
 * Cap/capped - Capture flags, captured flags
 * Capping - Capturing
 * Capped - Captured
@@ -1873,6 +1889,10 @@ HAB location - needs some cover next to it (rotate with arrow keys to fit in tig
 * CROWS - Common Remotely Operated Weapon Station. In reference to the MG that is mounted on some fire support vehicles, it is remotely operated within the vehicle hull and doesn’t require a man to manually control it directly. In most common reference to the mounted HMG on fire support vehicles that can shred men and light armor, and can take down medium armor.
 * C-Wire - Razor Wire
 
+Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](#g), [H](#h), [I](#i), [J, K](#j-k), [L](#l),  [M](#m), [N](#n), [O](#o), [P](#p), [Q](#q), [R](#r), [S](#s), [T](#t), [U](#u), [V](#v), [W, X, Y](#w-x-y), [Z](#z) - [Back to top](#squad-field-manual)
+
+
+## D
 * Danger Close - CAS or artillery support within 600m of friendlies
 * Dismount - Leave the vehicle
 * DMR - Designated Marksman Rifle
@@ -1882,6 +1902,10 @@ HAB location - needs some cover next to it (rotate with arrow keys to fit in tig
 * Dropped 2 - Killed 2 enemy soldiers - Said immediately after you kill the said soldiers
 * Due North - Direct North - North can be replaced with North, South, East, or West, or the North East, NW, SE, or SW. Can mean to go precisely North, South, or etc. Can mean enemies are moving precisely North, South, or etc.
 
+Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](#g), [H](#h), [I](#i), [J, K](#j-k), [L](#l),  [M](#m), [N](#n), [O](#o), [P](#p), [Q](#q), [R](#r), [S](#s), [T](#t), [U](#u), [V](#v), [W, X, Y](#w-x-y), [Z](#z) - [Back to top](#squad-field-manual)
+
+
+## E
 * EAC - Enhanced Armament Carrier (e.g. HMMWV)
 * Egress - Exit
 * Empty the (full) Load - Reference to mortar support means, to shoot off all the rockets or mortars in the current mag
@@ -1889,6 +1913,10 @@ HAB location - needs some cover next to it (rotate with arrow keys to fit in tig
 * ETA - Estimated Time of Arrival
 * Exfil - Extraction
 
+Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](#g), [H](#h), [I](#i), [J, K](#j-k), [L](#l),  [M](#m), [N](#n), [O](#o), [P](#p), [Q](#q), [R](#r), [S](#s), [T](#t), [U](#u), [V](#v), [W, X, Y](#w-x-y), [Z](#z) - [Back to top](#squad-field-manual)
+
+
+## F
 * Faction - Team - One of the 2 groups fighting each other
 * Fast Mover - Slang for a Jet Fighter. Aptly named due to the rapidity of a Jet Fighter's movement.
 * Fire for effect - the final command used in a full fire order after a ranging shot(s) has found the mark.
@@ -1908,6 +1936,10 @@ HAB location - needs some cover next to it (rotate with arrow keys to fit in tig
 * Fuck 'Em Up! - Clear to engage but better
 * full cap - flag that has been successfully captured (takes 2 minutes)
 
+Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](#g), [H](#h), [I](#i), [J, K](#j-k), [L](#l),  [M](#m), [N](#n), [O](#o), [P](#p), [Q](#q), [R](#r), [S](#s), [T](#t), [U](#u), [V](#v), [W, X, Y](#w-x-y), [Z](#z) - [Back to top](#squad-field-manual)
+
+
+## G
 * G2G - Got to go
 * GG - Good Game
 * GJ - Good job
@@ -1922,6 +1954,10 @@ HAB location - needs some cover next to it (rotate with arrow keys to fit in tig
 * Gun - Term for a mortar or artillery piece. Must never be used within the military to describe a pistol or rifle.
 * Gunner - A servicemember who operates a crew-served weapon, such as a piece of artillery or ship's cannon.
 
+Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](#g), [H](#h), [I](#i), [J, K](#j-k), [L](#l),  [M](#m), [N](#n), [O](#o), [P](#p), [Q](#q), [R](#r), [S](#s), [T](#t), [U](#u), [V](#v), [W, X, Y](#w-x-y), [Z](#z) - [Back to top](#squad-field-manual)
+
+
+## H
 * HAB - Hesco Accommodation Bunker - Spawn point
 * Hang Fire - Hold fire until told to do so
 * Hard contact = I see an enemy and they're shooting at me. (Soft contact = I see an enemy but nothing's happened yet. No one is shooting.)
@@ -1941,6 +1977,10 @@ HAB location - needs some cover next to it (rotate with arrow keys to fit in tig
 * HP - Health Point
 * HMMWV - High-Mobility Multipurpose Wheeled Vehicle (also: Humvee)
 
+Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](#g), [H](#h), [I](#i), [J, K](#j-k), [L](#l),  [M](#m), [N](#n), [O](#o), [P](#p), [Q](#q), [R](#r), [S](#s), [T](#t), [U](#u), [V](#v), [W, X, Y](#w-x-y), [Z](#z) - [Back to top](#squad-field-manual)
+
+
+## I
 * I have visual - Means you have eyes on the current objective or a specific object.
 * I’m Out - Out of ammo in current magazine
 * I want 360 security - Make a perimeter
@@ -1953,6 +1993,10 @@ HAB location - needs some cover next to it (rotate with arrow keys to fit in tig
 * INS - Insurgent forces, designed after insurgent forces you see in the middle east
 * INS - Insurgency game mode
 
+Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](#g), [H](#h), [I](#i), [J, K](#j-k), [L](#l),  [M](#m), [N](#n), [O](#o), [P](#p), [Q](#q), [R](#r), [S](#s), [T](#t), [U](#u), [V](#v), [W, X, Y](#w-x-y), [Z](#z) - [Back to top](#squad-field-manual)
+
+
+## J, K
 * K/D - Kills per Death
 * Kek - means LOL; "You Kek" means you are making fun of someone, like saying "Loser"
 * KIA - Killed in Action
@@ -1962,6 +2006,10 @@ HAB location - needs some cover next to it (rotate with arrow keys to fit in tig
 * Kornet - 9M133 Kornet is a modern Russian man-portable anti-tank guided missile intended for use against main battle tanks
 * KPM - Kills Per Minute
 
+Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](#g), [H](#h), [I](#i), [J, K](#j-k), [L](#l),  [M](#m), [N](#n), [O](#o), [P](#p), [Q](#q), [R](#r), [S](#s), [T](#t), [U](#u), [V](#v), [W, X, Y](#w-x-y), [Z](#z) - [Back to top](#squad-field-manual)
+
+
+## L
 * LAT - Light Anti-Tank
 * LAV - LAV-25 (Light Armored Vehicle), an eight-wheeled amphibious armored reconnaissance vehicle used by US Army/Marines
 * LAW - Light Anti-Tank Weapon; M72-LAW, US-specific LAT weapon
@@ -1973,6 +2021,10 @@ HAB location - needs some cover next to it (rotate with arrow keys to fit in tig
 * Logi - Logistics Truck
 * LOL - Lots of laugh/laugh out loud
 
+Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](#g), [H](#h), [I](#i), [J, K](#j-k), [L](#l),  [M](#m), [N](#n), [O](#o), [P](#p), [Q](#q), [R](#r), [S](#s), [T](#t), [U](#u), [V](#v), [W, X, Y](#w-x-y), [Z](#z) - [Back to top](#squad-field-manual)
+
+
+## M
 * M240 Bravo - refers to the FN M240B LMG
 * Made Contact - Means you're either engaging the enemy or your on the site of your team's current objective
 * Mag(s) - refers to the magazine that holds bullets, mortars, or rockets
@@ -1994,11 +2046,19 @@ HAB location - needs some cover next to it (rotate with arrow keys to fit in tig
 * MTLB - a Soviet multi-purpose fully amphibious auxiliary armored tracked vehicle
 * MVP - Most Valuable player
 
+Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](#g), [H](#h), [I](#i), [J, K](#j-k), [L](#l),  [M](#m), [N](#n), [O](#o), [P](#p), [Q](#q), [R](#r), [S](#s), [T](#t), [U](#u), [V](#v), [W, X, Y](#w-x-y), [Z](#z) - [Back to top](#squad-field-manual)
+
+
+## N 
 * Nades - Fragmentation Grenades or Rifle Grenades
 * Need Backup - Need men on my location. Used when enemy soldiers have overrun a squad or specific location.
 * Neutral flag - A flag that has not yet been captured by either faction.
 * NLAW - Next Generation Light Anti-Tank Weapon an anti-tank guided missile
 
+Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](#g), [H](#h), [I](#i), [J, K](#j-k), [L](#l),  [M](#m), [N](#n), [O](#o), [P](#p), [Q](#q), [R](#r), [S](#s), [T](#t), [U](#u), [V](#v), [W, X, Y](#w-x-y), [Z](#z) - [Back to top](#squad-field-manual)
+
+
+## O
 * OBJ - Objective - Usually the point you're trying to capture or defend
 * OHK - One Hit Kill
 * On the money - On target
@@ -2011,6 +2071,10 @@ HAB location - needs some cover next to it (rotate with arrow keys to fit in tig
 * OWI - Offworld Industries
 * Oxygen Thief - A biting piece of slang for someone who's useless or talks too much.
 
+Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](#g), [H](#h), [I](#i), [J, K](#j-k), [L](#l),  [M](#m), [N](#n), [O](#o), [P](#p), [Q](#q), [R](#r), [S](#s), [T](#t), [U](#u), [V](#v), [W, X, Y](#w-x-y), [Z](#z) - [Back to top](#squad-field-manual)
+
+
+## P
 * Peek - The act of checking a doorway/choke where you're in plain sight of the other team. Often used in a cautionary way, it's how players get sniped/killed before a team fight even starts. (Ex. “Don’t peek”, “Stop peeking” and “No peek”)
 * Pick - The act of achieving a quick kill
 * PIC - Pilot in Command
@@ -2033,8 +2097,16 @@ HAB location - needs some cover next to it (rotate with arrow keys to fit in tig
 * Push mid - attack the middle flag
 * Push offense - move to the next attack flag and capture it
 
+Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](#g), [H](#h), [I](#i), [J, K](#j-k), [L](#l),  [M](#m), [N](#n), [O](#o), [P](#p), [Q](#q), [R](#r), [S](#s), [T](#t), [U](#u), [V](#v), [W, X, Y](#w-x-y), [Z](#z) - [Back to top](#squad-field-manual)
+
+
+## Q
 * QRF - Quick Reaction Force. Squad under the direct command of the Commander. Commander is the only one authorized to direct this unit unless he sheds command of the squad to other officers. Meant to rapidly respond to developing situations. Meant to quickly backup pinned down squads and get them out of a dire situation. The desired vehicle would be a helo, but anything fast like a Humvee or Technical that can get in and out quickly can be used.
 
+Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](#g), [H](#h), [I](#i), [J, K](#j-k), [L](#l),  [M](#m), [N](#n), [O](#o), [P](#p), [Q](#q), [R](#r), [S](#s), [T](#t), [U](#u), [V](#v), [W, X, Y](#w-x-y), [Z](#z) - [Back to top](#squad-field-manual)
+
+
+## R
 * RAAS - Random Advance and Secure
 * Radio - Radio is dropped by SL. Within a radius of 150m around the radio structures can be placed.
 * Rally - A mobile spawn point that the SL can drop.
@@ -2062,6 +2134,10 @@ HAB location - needs some cover next to it (rotate with arrow keys to fit in tig
 * RU - Russia
 * RV - Rendezvous Point
 
+Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](#g), [H](#h), [I](#i), [J, K](#j-k), [L](#l),  [M](#m), [N](#n), [O](#o), [P](#p), [Q](#q), [R](#r), [S](#s), [T](#t), [U](#u), [V](#v), [W, X, Y](#w-x-y), [Z](#z) - [Back to top](#squad-field-manual)
+
+
+## S
 * Salt - Being aggravated, upset, or annoyed
 * SAS - Special Air Service - a special forces unit of the British Army
 * SAW - Squad automatic weapon
@@ -2098,6 +2174,10 @@ HAB location - needs some cover next to it (rotate with arrow keys to fit in tig
 * Super-FOB - Too many structures in one spot. Needs a lot of resources to build. Can be easily destroyed by an airstrike. Rather build 2-3 FOBs instead of 1 Super-FOB to distribute risk.
 * SVD - Dragunov sniper rifle
 
+Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](#g), [H](#h), [I](#i), [J, K](#j-k), [L](#l),  [M](#m), [N](#n), [O](#o), [P](#p), [Q](#q), [R](#r), [S](#s), [T](#t), [U](#u), [V](#v), [W, X, Y](#w-x-y), [Z](#z) - [Back to top](#squad-field-manual)
+
+
+## T
 * TANDEM Round - Refers specifically to the tandem HEAT round used to defeat heavily armored vehicles
 * Tango - Target
 * Tango Down - Target Down
@@ -2121,16 +2201,28 @@ HAB location - needs some cover next to it (rotate with arrow keys to fit in tig
 * TTK - Time To Kill, time needed to kill someone
 * TTPs - Tactics/Techniques/Procedures (e.g. US Army Mortar TTPs)
 
+Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](#g), [H](#h), [I](#i), [J, K](#j-k), [L](#l),  [M](#m), [N](#n), [O](#o), [P](#p), [Q](#q), [R](#r), [S](#s), [T](#t), [U](#u), [V](#v), [W, X, Y](#w-x-y), [Z](#z) - [Back to top](#squad-field-manual)
+
+
+## U
 * UE4 - Unreal Engine 4
 * Un-Ass - To move immediately or leave one's current position.
 * UP - Under Powered
 * US - United States
 
+Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](#g), [H](#h), [I](#i), [J, K](#j-k), [L](#l),  [M](#m), [N](#n), [O](#o), [P](#p), [Q](#q), [R](#r), [S](#s), [T](#t), [U](#u), [V](#v), [W, X, Y](#w-x-y), [Z](#z) - [Back to top](#squad-field-manual)
+
+
+## V
 * VBIED - Vehicle-borne improvised explosive device
 * VC - Voice Chat. This refers to the voice chat channel that is available in-game.
 * Vic - Vehicle
 * VOIP - Voice over IP
 
+Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](#g), [H](#h), [I](#i), [J, K](#j-k), [L](#l),  [M](#m), [N](#n), [O](#o), [P](#p), [Q](#q), [R](#r), [S](#s), [T](#t), [U](#u), [V](#v), [W, X, Y](#w-x-y), [Z](#z) - [Back to top](#squad-field-manual)
+
+
+## W, X, Y 
 * Wait - Hold position or Hold previous relay
 * Wait out - useful for putting someone on 'hold' when you have other priorities to deal with first. (like taking cover!)
 * Want you to thump that enemy - Want you to launch rifle grenades on that enemy. Order given to the squad member with rifle grenades. Always understood as HE grenades unless said otherwise.
@@ -2138,9 +2230,14 @@ HAB location - needs some cover next to it (rotate with arrow keys to fit in tig
 * Wilco - Will Comply or Roger (that)
 * WOOT - A chant to show approval
 
+Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](#g), [H](#h), [I](#i), [J, K](#j-k), [L](#l),  [M](#m), [N](#n), [O](#o), [P](#p), [Q](#q), [R](#r), [S](#s), [T](#t), [U](#u), [V](#v), [W, X, Y](#w-x-y), [Z](#z) - [Back to top](#squad-field-manual)
+
+
+## Z
 * Zoning - Forcing the enemy away from a certain location
 
-[Back to top](#squad-field-manual)
+Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](#g), [H](#h), [I](#i), [J, K](#j-k), [L](#l),  [M](#m), [N](#n), [O](#o), [P](#p), [Q](#q), [R](#r), [S](#s), [T](#t), [U](#u), [V](#v), [W, X, Y](#w-x-y), [Z](#z) - [Back to top](#squad-field-manual)
+
 
 ************************************************************************
 # NATO Phonetic Alphabet
