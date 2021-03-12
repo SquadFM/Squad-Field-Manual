@@ -2082,14 +2082,14 @@ HAB location - needs some cover next to it (rotate with arrow keys to fit in tig
 - Vic - Vehicle
 - VOIP - Voice over IP
 
-- Wait - Hold position or Hold previous relay
-- Wait out - useful for putting someone on 'hold' when you have other priorities to deal with first. (like taking cover!)
-- Want you to thump that enemy - Want you to launch rifle grenades on that enemy. Order given to the squad member with rifle grenades. Always understood as HE grenades unless said otherwise.
-- We’re (I’m) Mounted - refers to you and/or your squad on the transport truck or APC you’re assigned to for the mission
-- Wilco - Will Comply or Roger (that)
-- WOOT - A chant to show approval
+* Wait - Hold position or Hold previous relay
+* Wait out - useful for putting someone on 'hold' when you have other priorities to deal with first. (like taking cover!)
+* Want you to thump that enemy - Want you to launch rifle grenades on that enemy. Order given to the squad member with rifle grenades. Always understood as HE grenades unless said otherwise.
+* We’re (I’m) Mounted - refers to you and/or your squad on the transport truck or APC you’re assigned to for the mission
+* Wilco - Will Comply or Roger (that)
+* WOOT - A chant to show approval
 
-- Zoning - Forcing the enemy away from a certain location
+* Zoning - Forcing the enemy away from a certain location
 
 [Back to top](#squad-field-manual)
 
