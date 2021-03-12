@@ -132,9 +132,9 @@ Before you join a server as a new player
 # Installation, Setup
 
 ## Installation
+- Squad runs natively on Windows, but it also runs great on Linux (through Steam and Proton).
 - If you're using Windows you can skip this chapter. You can simply install the game in Steam and you're good to go.
 - Since I play exclusively under Linux I wanted to share the setup process to make the life of other Linux users easier.
-- Squad runs natively on Windows, but it also runs great on Linux (through Steam and Proton).
 - I am using Manjaro, but the process should be the same on all distros.
 
 - Go to Steam and download Squad.
@@ -305,15 +305,16 @@ In the console type:
 
 ## Tickets
 - To win a round, one of the teams must reduce the enemy's tickets to zero or have more tickets than the enemy by the end of the round (a round lasts up to 2 hours).
-- Tickets are essentially the team's available "reinforcements" during the battle, as the number of tickets a team has denotes the number of times a team's players can collectively respawn. If a team's tickets are reduced to zero or are lower than the enemy's by the end of the round timer, they lose the match.
+- Tickets are essentially the team's available "reinforcements" during the battle, as the number of tickets a team has denotes the number of times a team's players can collectively respawn. If a team's tickets are reduced to zero or are lower than the enemy's by the end of the round, they lose the match.
 - Both teams are given a limited number of tickets.
 - Certain events during a match will result in either team gaining or losing tickets. Below you can see the ticket change on your and the opponents team for certain events.
 
-Your Team    Opposite Team        Event
-0        0            Player goes into incapacitated state
--1        0            Player dies or gives up
--2        0            Commander dies or gives up
-60        -10            Capture a Control Point in game mode X
+| Your Team | Opposite Team | Event |
+| --------: | ------------: | ----: | 
+|         0 |             0 | Player goes into incapacitated state |
+|        -1 |             0 | Player dies or gives up |
+|        -2 |             0 | Commander dies or gives up |
+|        60 |           -10 | Capture a Control Point in game mode X |
 
 - Losing Vehicles - Ticket costs for your team
     - [- 5] Logi, Transport
@@ -765,7 +766,7 @@ Fortunate Son - Creedence Clearwater Revival
 - The radio hub can be incapacitated by firepower above a certain caliber or dug down by a holding down right-mouse-click with the Entrenching tool (shovel). Satchel charges set by a Combat Engineer and Sapper or the improvised explosive device set by a Sapper are also very effective at lowering the health of the radio hub. Deconstructing the radio hub to below 75% will make the Spawn Bunker unspawnable.
 - Once incapacitated the friendly team has 60 seconds to rebuild the radio before it is destroyed. The timer can be stopped by building the radio back up to a certain threshold, the radio does not have to be rebuilt fully in the 60 seconds. During this time the enemy team cannot destroy the radio and must defend the radio while the timer is running, friendlies are the only players able to destroy the radio while this timer is running.
 - Once destroyed, all tech structures and emplacements placed within a radio hub's build vicinity will be destroyed as well. Fortifications such as sandbags and HESCO blocks will remain. If an enemy player destroys your radio hub, your team will lose 10 tickets.
-- Only a Squad Leader with a Squad Leader kit can place a radio hub and is accessed through the deployables menu by pressing T. In order to place a radio hub, the Squad Leader requires one other member from the team to be nearby and a logistics vehicle to be within 30-meters. In addition, a radio hub cannot be placed within 300-meters from another radio hub. This radius can be displayed on the map from the drop-down menu. Once placed, the radio hub can then be supplied by a logistics vehicle with construction and ammo points. These points are seen in the top right corner when a player is within the 150-meter build radius. Unlike deployable assets, a radio hub does not need to be constructed with an Entrenching tool.
+- Only a Squad Leader with a Squad Leader kit can place a radio hub and is accessed through the deployables menu by pressing T. In order to place a radio hub, the Squad Leader requires one other member from the team to be nearby and a logistics vehicle to be within 30 meters. In addition, a radio hub cannot be placed within 300 meters from another radio hub. This radius can be displayed on the map from the drop-down menu. Once placed, the radio hub can then be supplied by a logistics vehicle with construction and ammo points. These points are seen in the top right corner when a player is within the 150-meter build radius. Unlike deployable assets, a radio hub does not need to be constructed with an Entrenching tool.
 - If construction points are available, the Squad Leader can then place deployable assets within the 150-meter build radius, which then need to be constructed by other team members with the Entrenching tool. When construction and ammo points are depleted, a logistics vehicle will need to deliver supplies from the main base in order to continue building and resupplying ammunition.
 
 [Back to top](#squad-field-manual)
@@ -773,7 +774,7 @@ Fortunate Son - Creedence Clearwater Revival
 
 ## Building Deployables
 - Deployables are structures that Squad Leaders can deploy within the 150-meter build radius of a Forward Operating Base. 
-- Your SL can only place the structure foundation and will need your help to build it. Approach the foundation and get your shovel out and start building with your left mouse button. The right mouse button removes the structure (don't do that unless told to by your SL).
+- Your SL can only place the structures' foundation and will need your help to build it. Approach the foundation and get your shovel out and start building with your left mouse button. The right mouse button removes the structure (don't do that unless told to by your SL).
 - For each FOB you will most likely build a HAB and an ammo box. The radio, as mentioned above, does not need to be build.
 - You can help other squad mates to build a structure. More shovels build faster.
 - If you see enemy structures you can remove them with your shovel. Approach the structure and use your right mouse button.
@@ -1764,7 +1765,7 @@ HAB location - needs some cover next to it (rotate with arrow keys to fit in tig
 - 203s - M203 grenade launcher is a single-shot 40mm under-barrel grenade launcher designed to attach to a rifle.
 - 2-to-1 advantage - having twice the manpower than the enemy (e.g. on an objective)
 - 2/ic - Second in command
-- 40 Mike-Mike - An M203 grenade launcher, usually mounted under an M-16 or similar weapon.
+- 40 Mike-Mike - An M203 40mm grenade launcher, usually mounted under an M-16 or similar weapon.
 - AA - anti aircraft
 - AAS - Advance and Secure
 - ACC - Accuracy
@@ -2121,9 +2122,9 @@ HAB location - needs some cover next to it (rotate with arrow keys to fit in tig
 * U - Uniform
 * V - Victor
 * W - Whiskey
-* X - X-ray
-* Y - Yankee
-* Z - Zulu
+- X - X-ray
+- Y - Yankee
+- Z - Zulu
 
 [Back to top](#squad-field-manual)
 
