@@ -10,7 +10,7 @@
 - If you want to say "hi" my Squad in-game name is Munster. Feel free to add me on Steam https://steamcommunity.com/id/Munster101/
 - This guide is still work in progress, but I am trying to be less of a perfectionist and just wanted to get it out there. 
 - Why is this guide on Github? I am not a fan of PDFs (pain to read on mobile) and rather have all information in a single text file. It's easier to search and you can copy-paste what you need. You can download this repo to your computer. Maybe people like to contribute and add information to this guide and GitHub is a great place to collaborate. 
-- This guide was last updated March 11, 2021.
+- This guide was last updated March 12, 2021.
 
 
 # NEW PLAYERS PLEASE READ
@@ -621,6 +621,22 @@ In the console type:
 - Before you use voice chat remember this: A.B.C. Accuracy, Brevity, Clarity. Your squad leader will thank you, and the rest of the squad will too.
 - Always check your map to see if you're looking at an enemy or friendly soldier.
 - Don't ever say "101 degrees" in squad chat. Any degree direction in squad chat is useless and anybody not in local range will just get a confusing direction to look at. Stick to local chat for degree information.
+- Don't say "Enemy on me". Not in local chat and especially not in squad chat. Other players do not know who said "On me". If they are quick enough to spot your name in the voice chat notification they would still have to open their map and then find where you are. Say at least "Enemy on YOURNAMEHERE's position" and give some indication on where you are. 
+To describe where you are use:
+	- landmarks (e.g. bridge, village, mountain)
+	- features of the map (water tower, radio antenna, police station, main road, etc.)
+	- your SLs position
+	- cap zones
+	- on where you are relative to your other squad members
+For example:
+	- "I am west of the brigde"
+	- "I am 50m south of SLs position"
+	- "Enemy armour spotted, south of Market, aprox. 100 meters"
+	- "Enemy squad approaching our defense flag from the west"
+	- "Enemy vehicle north of squad leader"
+	- "I am the most northern squad member"
+- If you're incapacitated you could say "I'm down. Enemy on YOURNAMEHERE's position" on local voice chat. Your SL or FTL can use their map and look for a faded arrow (faded green if it's someone from your own squad, otherwise faded blue) and hover over it to see if it's you and mark it. However it's usually best to give some indication on where you are (especially over squad chat).
+- FTLs should mark any callouts on the map to decrease SL load.
 - The map is split up in grids. A grid is a network of evenly spaced horizontal and vertical lines used to identify locations on a map.  Each grid has a number and a letter, which you can see on the edge of the map, A1 being top left and J10 being bottom right. 
 - Each of these grids have their own grid, called keypad. Keypad is a subdivision of the grid location which is numbered like the layout of a keypad on your PC keyboard. 1 is bottom left, 3 is bottom right, 7 is the top left, 9 is the top left and 5 is the center, just like the 1-9 on your keyboard numpad. It allows you to very quickly give a precise location.
 - Grid locations should be used rarely. It's time consuming to bring up the map and to figure out what grid you're referring to. Better to say "Enemy BTR north-west of the objective, on the road" rather than "Enemy BTR A5-6-4". Grid coordinates are handy though when there's an enemy HAB somewhere without any landmarks to reference.
@@ -885,6 +901,7 @@ Fortunate Son - Creedence Clearwater Revival
 - You can hold T to open the radial menu and place markers on the map (e.g. attack marker).
 - You can give fireteam lead to someone else on your fireteam.
 - Leap frog with the other fireteam on your squad to move around.
+- Mark any callouts you hear over voice vom on the map to decrease SL load.
 
 [Back to top](#squad-field-manual)
 
@@ -1895,6 +1912,7 @@ HAB location - needs some cover next to it (rotate with arrow keys to fit in tig
 
 * HAB - Hesco Accommodation Bunker - Spawn point
 * Hang Fire - Hold fire until told to do so
+* Hard contact = I see an enemy and they're shooting at me. (Soft contact = I see an enemy but nothing's happened yet. No one is shooting.)
 * HAT - Heavy Anti-Tank
 * HBAR - Heavy Barrel
 * HC - Hardcore
@@ -2047,6 +2065,7 @@ HAB location - needs some cover next to it (rotate with arrow keys to fit in tig
 * Smokes - Smoke Grenades
 * SNAFU - (a variant of FUBAR) = Situation Normal, All F***ed Up
 * Snipes - Sniper
+* Soft contact = I see an enemy but nothing's happened yet. No one is shooting. (Hard contact = I see an enemy and they're shooting at me.)
 * Soft Flank - Flanking the enemy but with easy access to an escape back to your own team.
 * SP - Spawn Point
 * SP - Single Player
@@ -2251,8 +2270,7 @@ HAB location - needs some cover next to it (rotate with arrow keys to fit in tig
 - I tried to list as many sources as possible. 
 - I'd like to encurage you to read the Squad Wiki for more detailed information on various topics.
 - Since Squad's predecessor Project Reality is a Battlefield 2 mod, you can also find information in Battlefield related forums.
-- Also, I learned a lot from watching various YouTube videos.
-- I will also share guides from other Squad players in this GitHub repo.
+- Watch YouTube videos. It's great to see experienced Squad players in action.
 
 
 ## Websites
