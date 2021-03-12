@@ -480,7 +480,10 @@ In the console type:
 - The Anchor Hex is the starting point of the team's capture chain. This hex has an anchor icon on it. Other hexes must be connected to the Anchor Hex in order to not be cut off. Capturing the enemies Anchor Hex will prevent the enemy team from taking new territory and contesting any hex. 
 - Enemy hexes take 45 seconds to neutralize, and neutral hexes take 40 seconds to capture.
 - Capturing a hex unlocks all adjacent (bordering) hex zones for capture.
-- Bleed: For every two hex zones captured beyond owning 60% of all hexes, the enemy will start bleeding 1 ticket per minute with a maximum of 5 tickets per minute for 10+ hexes captured beyond 60%. Once a team captures >= 95% of all tiles ticket bleed will increase to ~120 tickets pr minute (has to be confirmed in-game or by OWI).
+- Bleed: 
+	- For every two hex zones captured beyond owning 60% of all hexes, the enemy will start bleeding 1 ticket per minute with a maximum of 5 tickets per minute (team must cap 10+ hexes or beyond 60% of all hexes). 
+	- Once a team captures >= 95% of all tiles ticket bleed will increase to ~120 tickets pr minute (has to be confirmed in-game or by OWI).
+	- Example: Al Basrah has 20 hexes in total. 60% = 12 hexes, 95% = 19 hexes.
 - Hex capture status is invisible until you capture an adjacent hex zone (fog of war).
 - Each team has a 'key territory' hex marked with a shield, at the base of their grid.
 - If any (group of) hexes owned by your team gets disconnected from that key territory (because the enemy captures hexes in between), you will not be able to attack bordering hexes from them until their connection to your key territory is restored.
