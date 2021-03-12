@@ -310,7 +310,7 @@ In the console type:
 - Certain events during a match will result in either team gaining or losing tickets. Below you can see the ticket change on your and the opponents team for certain events.
 
 | Your Team | Opposite Team | Event |
-| --------: | ------------: | ----: | 
+| --------: | ------------: | :---- | 
 |         0 |             0 | Player goes into incapacitated state |
 |        -1 |             0 | Player dies or gives up |
 |        -2 |             0 | Commander dies or gives up |
@@ -2122,9 +2122,9 @@ HAB location - needs some cover next to it (rotate with arrow keys to fit in tig
 * U - Uniform
 * V - Victor
 * W - Whiskey
-- X - X-ray
-- Y - Yankee
-- Z - Zulu
+* X - X-ray
+* Y - Yankee
+* Z - Zulu
 
 [Back to top](#squad-field-manual)
 
