@@ -6,17 +6,17 @@
 - If you're a vet THANK YOU FOR YOUR SERVICE and making this a great game.
 - When I first started to play Squad I was feeling overwhelmed. This game has a steep learning curve and I had no clue what to do during my first few games. The in-game training only teaches you so much. Therefore I started this document to write down my own learnings and those from other players.
 - I never planned to share this guide, however as it grew in size I realized that others might benefit from it as well.
-- This guide contains the collected wisdom of many experienced Squad players from various sources. Their contributions are often copy-pasted into this guide. If you find content in this guide that you wrote I want to say "Thank you" for sharing your wisdom on the Squad Wiki, Reddit, in various manuals and strategy guides, the old Squad forum (offline now), Steam, YouTube and other sources. I've listed most sources below.
+- This guide contains the collected wisdom of many experienced Squad players from various sources. Their contributions are often copy-pasted into this guide. If you find content in this guide that you wrote I want to say "Thank you" for sharing your wisdom on the Squad Wiki, Reddit, in various manuals and strategy guides, the old Squad forum (offline now), Steam, YouTube and other sources. You can find a list of most sources under ([Sources and Resources](#sources-and-resources)).
 - If you want to say "hi" my Squad in-game name is Munster. Feel free to add me on Steam https://steamcommunity.com/id/Munster101/
 - This guide is still work in progress, but I am trying to be less of a perfectionist and just wanted to get it out there. 
-- Why is this guide on Github? I am not a fan of PDFs (pain to read on mobile) and rather have all information in a single text file. It's easier to search and you can copy-paste what you need. You can download this repo to your computer. Maybe people like to contribute and add information to this guide and GitHub is a great place to collaborate. 
-- This guide was last updated March 12, 2021.
+- Why is this guide on Github? I am not a fan of PDFs (pain to read on mobile) and rather have all information in a single text file. It's easier to search and you can copy-paste what you need. You can download this repo to your computer. If you'd like to contribute and add information to this guide and GitHub is a great place to collaborate. Alternatively, you can also post a comment on Reddit: https://old.reddit.com/r/joinsquad/comments/m2rzjj/squad_field_manual_available_now/
+- This guide was last updated on March 12, 2021.
 
 
 # NEW PLAYERS PLEASE READ
 Before you join a server as a new player
 - Please check out at least the chapters [Before Joining A Game](#before-joining-a-game) and [Rifleman](#rifleman),
-- Practice on Jensen's Range and the [Steam Workshop Maps](#steam-workshop-maps),
+- Practice on Jensen's Range (see [Training](#training)) and the [Steam Workshop Maps](#steam-workshop-maps),
 - Take a look at various new player guides on YouTube (links below in the [YouTube Channels](#youtube-channels) chapter).
 - This game has its own language. Take a look at the [Abbreviations, Lingo](#abbreviations-lingo) chapter if you don't know what a term means.
 
@@ -231,7 +231,7 @@ Before you join a server as a new player
 - Controls
     - Map - You will need the map A LOT. If you have a mouse with a thumb button this would be a good place to access the map. Or use TAB or any other key you can access without moving away from WASD too much.
     - Lean keys: use Q to lean right, E to lean left - makes it easier to strafe at the same time.
-    - For my other controls please see my keyboard and mouse binds doc in my Github repo.
+    - For my other controls please see my keyboard and mouse binds doc in my Github repo: https://github.com/SquadFM/Squad-Field-Manual/blob/main/Squad%20Keybinds.pdf
 
 [Back to top](#squad-field-manual)
 
@@ -920,7 +920,7 @@ Fortunate Son - Creedence Clearwater Revival
 - If your squad leader leaves the squad the first person that joined the squad will automatically be given SL. This usually happens if your SL was an asshat. Best practice would have been for the SL to ask who wants to be the new SL instead of just abandoning the squad.
 - If you're a new player, ask your team who wants to be SL and hand it over to them in the deployment menu (right click on their name).
 - If you want to remain SL, get an SL kit ASAP. Additionally, teach the person who gave you SL a lesson and kick them from your squad.
-- Also, see Squad Lead tips below.
+- Also, check out the [Squad Leading](#squad-leading) tips below.
 
 [Back to top](#squad-field-manual)
 
@@ -1102,7 +1102,7 @@ Fortunate Son - Creedence Clearwater Revival
 - Rockets specific to the HAT role include the M3 MAAWS 84mm Tandem rocket and 84mm High Explosive Anti-Tank rocket, (US Army), RPG-7 40mm RPG-7V2 Tandem Heavy Anti-Tank rocket (Russian Ground Forces, Irregular Militia, and Insurgents), and RPG-29 105mm Tandem Heavy Anti-Tank round (Irregular Militia, Insurgents).
 - The minimum arming distance of HAT rockets is 40 meters. This means your target must be at a distance of greater than the arming distance in order to explode. Heavy Anti-Tank players need to be able to visually know how far the arming distance is in-game so as to not waste a rocket by firing on an enemy vehicle that is too close. The RPG-29 has a greater arming distance, closer to 25 meters.
 - When playing as the Heavy Anti-tank, it is imperative that you know where enemy vehicles are on the map. Players in a squad and Squad Leaders themselves need to communicate with one another regarding the location of enemy vehicles, particularly Main Battle Tanks. Enemy vehicle markers should be placed by Squad Leaders whenever possible and deleted when unnecessary.
-- HAT is one of the most valuable roles on the battlefield given its ability to destroy heavy enemy armor. The most important skills a Heavy Anti-Tank player can acquire is proper ranging and use of the Russian PGO-7 2.8x optic. Practice on the Shooting Range before playing on a server. Similarly, the same can be done with the M3 MAAWS of the US Army, with the only difference being that the sights can be adjusted to fit the target range, and the range markers on the sight change depending on the type of round that is loaded. Please refer to the RPG-7 page for information on how to properly range targets using the PGO-7 2.8x reticle, and the M3 MAAWS page.
+- HAT is one of the most valuable roles on the battlefield given its ability to destroy heavy enemy armor. The most important skills a Heavy Anti-Tank player can acquire is proper ranging and use of the Russian PGO-7 2.8x optic. Practice on Jensen's Range before playing on a server. Similarly, the same can be done with the M3 MAAWS of the US Army, with the only difference being that the sights can be adjusted to fit the target range, and the range markers on the sight change depending on the type of round that is loaded. Please refer to the RPG-7 page for information on how to properly range targets using the PGO-7 2.8x reticle, and the M3 MAAWS page.
 - When possible, have a Rifleman remain close to the Heavy Anti-Tank, especially if heavy armor such as a Main Battle Tank is nearby. This will allow the Heavy Anti-Tank player to quickly reload using the Rifleman's ammo bag in order to fire another rocket if necessary.
 - The Heavy Anti-Tank is often abbreviated as HAT.
 - Helicopters may be hit mid-air with practice. For a 100m target flying straight at normal speed, one must aim 2-3 helicopter lengths ahead. Helicopters may seem closer than they actually are.
@@ -1337,7 +1337,7 @@ Let someone else drive your bike into the enemy radio or positions as they can s
 - This is the vehicles section of the guide, which gives a brief description of each vehicle type in Squad.
 - APC: Wheeled with .50 cal (Armored Personnel Carrier). APCs are usually wheeled, some have tracks, but they have a smaller gun than other vics. Medium armored with armament that can pierce other APCs and other vehicles with lower armament ratings; can carry a squad of men; includes Stryker with CROW, BTR-80, and most MT-LB variants. Have 600 ammo for resupply.
 - AT vehicle: Techie/MRAP w/ ATGMs (Anti-Tank Guided Missile)
-- Helicopter (Helo) - a flying machine used for resupply, FOB creation, and troop transport. Can also do recon or provide light CAS, but weak in terms of armor and armament. More on helicopters in the next chapter.
+- Helicopter (Helo) - a flying machine used for resupply, FOB creation, and troop transport. Can also do recon or provide light CAS, but weak in terms of armor and armament. More on helicopters in the next chapter: [Helicopter](#helicopter)
 - IFV: Tracked or wheeled with canon above .50 cal (Infantry Fighting Vehicle). The Russians have a BTR IFV (wheeled) and a BMP IFV (tracked) (Russian Armored Transporter). IFVs are usually tracked, with a lot of good offensive options. Medium to high armor with armament that can pierce other IFVs and other vehicles with lower armament ratings; some have HAT capabilities with ATGM systems (Anti-Tank Guided Missile); include Bradley, MT-LB with 30mm, and BTR-82A. The difference between APCs and IFVs is a little bit of a gray area since IFVs are technically a subclass of APCs.
 - Logistics Truck - open roofed truck with supplies in the back; include Ural and M939 variants that can hold 10 people and 3000 supplies.
 - MBT: Tracked with one big fat gun (Main Battle Tank). Heavily armored fighting vehicles that carry heavy armaments able to pierce other MBTs and other vehicles with lower armament ratings; sacrifice men capacity for armor and armament; include the M1 Abrams and T-72 B3.
@@ -1392,6 +1392,7 @@ Let someone else drive your bike into the enemy radio or positions as they can s
 - Also, avoid being spotted or being too close to enemy infantry, these can ruin a tank run.
 - Talk to command and ask for enemy armored locations helps but it is usually called out anyways for all squads to know (and marked on the map). Use this knowledge to guess the enemy's intent based on location (to objectives or friendly's) will aid in your survival and their death.
 - Tanks can ram and move smaller vehicles.
+- A Stryker can ram and flip a BTR provided that the BTR is also moving forward.
 - Kill infantry with HE rounds and machine guns.
 - Check your map , anything relevant will probably appear there right.
 - Use your zoom optic.
