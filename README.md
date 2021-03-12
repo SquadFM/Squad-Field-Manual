@@ -191,7 +191,7 @@ Before you join a server as a new player
     - Lens Flares: No
     - Motion Blur: No
     - Screen Sharpening: 0
-- Audio:
+- Audio: (please use values that are comfortable for you. Check out [Protect Your Hearing](#protect-your-hearing))
     - Audio Quality: Epic (Epic = better locate enemies)
     - Audio Output Device: PulseEffects(apps) (set your output device, in my case I am using the output from the PulseEffects Audio Compressor)
     - Master Volume: 100%
@@ -201,9 +201,9 @@ Before you join a server as a new player
     - Out of Game Volume: 50%
     - Command Voice Volume: 200% (Hearing voice communication is very important in this game)
     - Command Voice Balance: -100 (left ear only)
-    - Squad Voice Volume: 200%
+    - Squad Voice Volume: 200% (you might want to lower this value for your own comfort)
     - Squad Voice Volume: 100% (right ear only)
-    - Local Voice Volume: 200%
+    - Local Voice Volume: 200% (you might want to lower this value for your own comfort)
     - Priority Speaker Ducking: 50%
     - Radio Filter: On
     - Command Beeps: On
