@@ -323,18 +323,18 @@ In the console type:
     - [- 5] Helicopter
     - [-10] Armor Hunters, APC, IFV
     - [-15] Main Battle Tanks
-- The majority (and the biggest and most important) of ticket costs are game mode specific. Therefore, please check the ticket section for each game mode to get the full picture. Ticket values may change in future updates. https://squad.gamepedia.com/Advance_and_Secure
+- The majority (and the biggest and most important) of ticket costs are game mode specific. Therefore, please check the ticket section for each game mode to get the full picture. Ticket values may change in future updates. https://squad.gamepedia.com/Game_Modes
 
 [Back to top](#squad-field-manual)
 
 
 ## Control Points
-- Control Point (CP), also known as "flag" or "cap", is an area on the map that teams need to capture.
+- Control Points (CP), also known as "flag" or "cap", are areas on the map that teams need to capture.
 - A CP is a certain limited area of the battlefield, there is not an actual "flag" in the ground.
 - The capping radius (or even shape) of a CP may differ for each CP on the map.
 - CPs can be either neutral or belong to one of the teams.
 - At least 3 players need to be within the capping radius of a CP to capture it. At the start of a round, a neutral CP can be capped by one player alone.
-- Cap time is approximately 60 seconds.
+- It takes 2 minutes to capture a flag.
 - If players from the opposite team are in the capping radius at the same time, players from the teams will cancel each other out. The team with more players in the radius will gradually take the CP.
 - When you are inside the capping radius of a CP, the Control Point widget will appear. The flag shows who owns the CP and a progress bar shows the current progress of capping or decapping. The widget also shows the name of the CP.
     - Neutral CP show with a white bar,
@@ -346,7 +346,7 @@ In the console type:
 
 
 ## Flags
-- Main - The main base. This is where the game starts. Teams cannot capture the other team's main base. You cannot fire a weapon in a base. You cannot fire into a base (it has an invisible shield that protects it). It is your team's safe harbor.
+- Main - The main base. This is where the game starts. Teams cannot capture the other team's main base. You cannot fire a weapon in main base. You cannot fire into a base (it has an invisible shield that protects it). It is your team's safe harbor.
 - Neutral flags - Flags that have not been captured yet by either side. For example the very first flag once you leave main.
 - Contested flags - Flags that have not been captured yet by either side and both teams are on the objective at the same time and try to capture it. The team with more people on the flag will capture it after 2 minutes. The middle flag often is contested by both teams at the same time.
 - Middle flag - Exists only in map layers with an uneven number of objectives. It's the flag, well, in the middle. This is usually where both teams clash full force.
@@ -871,7 +871,7 @@ Fortunate Son - Creedence Clearwater Revival
 
 ## Tactical Respawning
 - Sometimes it is smarter to die and spawn shift to the next cap, than to sit on a point your team just captured. Ideally, leave all enemies on that useless cap point behind while spawn shifting onto the next offensive point.
-- It takes 60 seconds to run 100m in this game with no stamina, so balance that with respawning. Travelling takes time and sometimes you're needed somewhere else immediately.
+- Walking 100m takes ~30 seconds and sprinting ~20 seconds, so balance that with respawning. Travelling takes time and sometimes you're needed somewhere else immediately.
 - If you're in the middle of nowhere and you need to get back to a FOB, open the console and type Respawn. This will kill you and your team will lose a ticket, but you can spawn where you're needed.
 
 [Back to top](#squad-field-manual)
