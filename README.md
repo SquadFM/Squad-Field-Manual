@@ -482,7 +482,7 @@ In the console type:
 - Capturing a hex unlocks all adjacent (bordering) hex zones for capture.
 - Bleed: 
 	- For every two hex zones captured beyond owning 60% of all hexes, the enemy will start bleeding 1 ticket per minute with a maximum of 5 tickets per minute (team must cap 10+ hexes or beyond 60% of all hexes). 
-	- Once a team captures >= 95% of all tiles ticket bleed will increase to ~120 tickets pr minute (has to be confirmed in-game or by OWI).
+	- Once a team captures >= 95% of all tiles ticket bleed will increase to ~120 tickets per minute (has to be confirmed in-game or by OWI).
 	- Example: Al Basrah has 20 hexes in total. 60% = 12 hexes, 95% = 19 hexes.
 - Hex capture status is invisible until you capture an adjacent hex zone (fog of war).
 - Each team has a 'key territory' hex marked with a shield, at the base of their grid.
