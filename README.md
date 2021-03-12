@@ -1028,6 +1028,7 @@ Fortunate Son - Creedence Clearwater Revival
 - Second medic kit has long range optic.
 - Try to always have a visual on your squad leader. If they go down before they can place a rally or FOB your whole squad will most likely lose the precious ground they just covered.
 - If you go down, the squad goes down.
+- In a firefight with multiple downed friendlies, when reviving, give each person a quick tap with the medic bag (don't full heal). This quick tap allows your friend to begin building stamina, and therefore actually allows them to aim better and help defend while you go and get to another person. Go back when it's clear/everyone is up and then begin full healing them.
 
 [Back to top](#squad-field-manual)
 
