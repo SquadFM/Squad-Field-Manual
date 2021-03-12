@@ -1019,7 +1019,7 @@ Fortunate Son - Creedence Clearwater Revival
 - Be aware of your surroundings, make sure you know where the enemy is so you don't get killed trying to revive a teammate.
 - Prioritize! Revive other fellow medics first, if there are multiple people down, bandage them all at the same time so they don't bleed out.
 - Your safety before others. This means you need to make sure you're not under any fire or threat. Make sure you are safe! No point in trying to revive someone when you're taking MG fire in your direction.
-- Last but not least, communicate! Use your local voice channel to tell those who are down to keep breathing and not go towards the bright light.
+- Communicate! Use your local voice channel to tell those who are down to keep breathing and not go towards the bright light.
 - Medics are important to ensure a victory for your team, as I've had many close games where we end up winning with less than 20 tickets.
 - You have a shovel and can build structures too. Though this shouldn't be your primary objective when your teammates are down.
 - Ask if they know where the shot came from and how much time they have left.
@@ -1755,7 +1755,7 @@ HAB location - needs some cover next to it (rotate with arrow keys to fit in tig
 - Bear in mind most players are not military. Give acknowledgement to your team and other players when they do what you ask. Something as simple as "cheers mate" or "thanks" goes a long way to building loyalty fast.
 - Also when you first get into a match, already have a rough plan in mind and be ready to lay it out the moment your squad is full. Then everyone knows you are competent and will stick close to you rather than lone wolfing.
 - It takes confidence and a decent amount of leadership ability but that is a learned skill and squad is great for it. Listen to your teammates and help them out as best you can, you are there to direct and support them, not just bark orders.
-- Last but not least, no matter how frustrating it gets, always keep your cool. When you are calm, so is your squad and a calm squad will think a lot clearer than one that is getting angry.
+- No matter how frustrating it gets, always keep your cool. When you are calm, so is your squad and a calm squad will think a lot clearer than one that is getting angry.
 - Have a drink.
 - A decent squad leader just makes sure the basics get done well. Get the FOB/HAB down, keep the rally up, give the squad opportunities to get the fighting done.
 - Whenever you get a squad of finely chopped jello just piggyback off another squad. Because when individual manpower lacks, raw numbers compensates. "We're following and assisting squad 1" Because, 19 people is way scarier than 4 guys who know what they're doing. And I'm all about that intimidation factor of making some Auto Rifleman realize his 50 round belt isn't enough and screams into the mic "full enemy team to the west" because let's be honest, when's the last time a rifleman ever gave a proper enemy force count. Make it true for once ;)
