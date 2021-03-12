@@ -622,19 +622,19 @@ In the console type:
 - Always check your map to see if you're looking at an enemy or friendly soldier.
 - Don't ever say "101 degrees" in squad chat. Any degree direction in squad chat is useless and anybody not in local range will just get a confusing direction to look at. Stick to local chat for degree information.
 - Don't say "Enemy on me". Not in local chat and especially not in squad chat. Other players do not know who said "On me". If they are quick enough to spot your name in the voice chat notification they would still have to open their map and then find where you are. Say at least "Enemy on YOURNAMEHERE's position" and give some indication on where you are. 
-To describe where you are use:
-	- landmarks (e.g. bridge, village, mountain)
-	- features of the map (water tower, radio antenna, police station, main road, etc.)
-	- your SLs position
-	- cap zones
-	- on where you are relative to your other squad members
-For example:
-	- "I am west of the brigde"
-	- "I am 50m south of SLs position"
-	- "Enemy armour spotted, south of Market, aprox. 100 meters"
-	- "Enemy squad approaching our defense flag from the west"
-	- "Enemy vehicle north of squad leader"
-	- "I am the most northern squad member"
+	- To describe where you are use:
+		- landmarks (e.g. bridge, village, mountain)
+		- features of the map (water tower, radio antenna, police station, main road, etc.)
+		- your SLs position
+		- cap zones
+		- on where you are relative to your other squad members
+	- For example:
+		- "I am west of the brigde"
+		- "I am 50m south of SLs position"
+		- "Enemy armour spotted, south of Market, aprox. 100 meters"
+		- "Enemy squad approaching our defense flag from the west"
+		- "Enemy vehicle north of squad leader"
+		- "I am the most northern squad member"
 - If you're incapacitated you could say "I'm down. Enemy on YOURNAMEHERE's position" on local voice chat. Your SL or FTL can use their map and look for a faded arrow (faded green if it's someone from your own squad, otherwise faded blue) and hover over it to see if it's you and mark it. However it's usually best to give some indication on where you are (especially over squad chat).
 - FTLs should mark any callouts on the map to decrease SL load.
 - The map is split up in grids. A grid is a network of evenly spaced horizontal and vertical lines used to identify locations on a map.  Each grid has a number and a letter, which you can see on the edge of the map, A1 being top left and J10 being bottom right. 
