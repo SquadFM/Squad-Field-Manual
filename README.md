@@ -15,9 +15,9 @@
 
 # NEW PLAYERS PLEASE READ
 Before you join a server as a new player
-- please check out at least the chapters [Before Joining A Game](#before-joining-a-game) and [Rifleman](#rifleman),
-- practice on Jensen's Range and the linked Steam Workshop maps,
-- take a look at various new player guides on YouTube (links below in the [YouTube Channels](#youtube-channels) chapter).
+- Please check out at least the chapters [Before Joining A Game](#before-joining-a-game) and [Rifleman](#rifleman),
+- Practice on Jensen's Range and the [Steam Workshop Maps](#steam-workshop-maps),
+- Take a look at various new player guides on YouTube (links below in the [YouTube Channels](#youtube-channels) chapter).
 - This game has its own language. Take a look at the [Abbreviations, Lingo](#abbreviations-lingo) chapter if you don't know what a term means.
 
 
@@ -323,7 +323,8 @@ In the console type:
     - [- 5] Helicopter
     - [-10] Armor Hunters, APC, IFV
     - [-15] Main Battle Tanks
-- The majority (and the biggest and most important) of ticket costs are game mode specific. Therefore, please check the ticket section for each game mode to get the full picture. Ticket values may change in future updates. https://squad.gamepedia.com/Game_Modes
+
+- The highest ticket costs are game mode specific. Therefore, please check the ticket section for each game mode to get the full picture. Ticket values may change in future updates. https://squad.gamepedia.com/Game_Modes
 
 [Back to top](#squad-field-manual)
 
@@ -520,10 +521,12 @@ In the console type:
 
 
 ## Good Roles And Jobs For New Players
-- Rifleman (suggested role for your first few games)
-- Medic
-- Automatic Rifleman
-- Do logi runs (bring construction/ammo points from main to your squad's FOB). Tell your SL that you volunteer for logi runs. Sometimes the SL wants you to fight and does the runs himself. Learn how to drive a truck first and how you can load/unload it.
+- [Rifleman](#rifleman) (suggested role for your first few games)
+- [Medic](#medic)
+- [Automatic Rifleman](#automatic-rifleman)
+- Logi Runs
+    - Bring build and ammo supplies to the FOB.
+    - Tell your SL that you volunteer for logi runs. Learn how to drive a truck first and how you can load/unload it.
 
 [Back to top](#squad-field-manual)
 
@@ -775,6 +778,7 @@ Fortunate Son - Creedence Clearwater Revival
 ## Building Deployables
 - Deployables are structures that Squad Leaders can deploy within the 150-meter build radius of a Forward Operating Base. 
 - Your SL can only place the structures' foundation and will need your help to build it. Approach the foundation and get your shovel out and start building with your left mouse button. The right mouse button removes the structure (don't do that unless told to by your SL).
+- Fireteam Leads can also place fortification structures.
 - For each FOB you will most likely build a HAB and an ammo box. The radio, as mentioned above, does not need to be build.
 - You can help other squad mates to build a structure. More shovels build faster.
 - If you see enemy structures you can remove them with your shovel. Approach the structure and use your right mouse button.
@@ -1395,10 +1399,10 @@ Let someone else drive your bike into the enemy radio or positions as they can s
     - Collector at 45% = hovering
     - Pitch at 12-15% up/down = max speed without losing altitude (if pitch at 80-90 degrees heli will crash)
 - Heli binds
-AxisMappings=(AxisName="MoveAileron",Scale=-1.000000,Key=Left)
-AxisMappings=(AxisName="MoveElevator",Scale=1.000000,Key=Up)
-AxisMappings=(AxisName="MoveAileron",Scale=1.000000,Key=Right)
-AxisMappings=(AxisName="MoveElevator",Scale=-1.000000,Key=Down)
+	- AxisMappings=(AxisName="MoveAileron",Scale=-1.000000,Key=Left)
+	- AxisMappings=(AxisName="MoveElevator",Scale=1.000000,Key=Up)
+	- AxisMappings=(AxisName="MoveAileron",Scale=1.000000,Key=Right)
+	- AxisMappings=(AxisName="MoveElevator",Scale=-1.000000,Key=Down)
 
 [Back to top](#squad-field-manual)
 
@@ -1765,6 +1769,7 @@ HAB location - needs some cover next to it (rotate with arrow keys to fit in tig
 * 203s - M203 grenade launcher is a single-shot 40mm under-barrel grenade launcher designed to attach to a rifle.
 * 2-to-1 advantage - having twice the manpower than the enemy (e.g. on an objective)
 * 2/ic - Second in command
+* 30 Mike - refers to vics with 30 millimeter guns like the BMP-2 and BTR
 * 40 Mike-Mike - An M203 40mm grenade launcher, usually mounted under an M-16 or similar weapon.
 * AA - anti aircraft
 * AAS - Advance and Secure
@@ -1804,6 +1809,7 @@ HAB location - needs some cover next to it (rotate with arrow keys to fit in tig
 * Black - When discussing amounts of something, it means you are almost out
 * Black on Ammo - Fully out of ammo/mags
 * Blueberries - Random player on your team but not in your squad
+* BMP - The BMP-1 is a Soviet amphibious tracked infantry fighting vehicle. BMP stands for Boyevaya Mashina Pekhoty 1, meaning "infantry fighting vehicle".
 * Brad - M2 Bradley Armored Personnel Carrier (APC)
 * Bravo Zulu - Good Job
 * BRDM - The BRDM-2 is an amphibious armoured patrol car used by Russia and the former Soviet Union. Also known as BTR-40PB, BTR-40P-2 and -GAZ 41-08.
@@ -1861,7 +1867,7 @@ HAB location - needs some cover next to it (rotate with arrow keys to fit in tig
 * Flag - Control Point
 * FM - Field Manual
 * FO - Forward Observer. Someone who can see the mortar impacts and make adjustments to their impact.
-* FOB - Forward Operating Base (it's the spot where you drop the radio, a HAB and an ammo box)
+* FOB - Forward Operating Base - the entire radius around the radio, within assets can be placed (HABS, mortars, vehicle repair stations, etc)
 * FOV - Field of view
 * FOW - Fog of war - not yet visible areas on the map
 * FPS - Frames Per Second
@@ -1901,6 +1907,7 @@ HAB location - needs some cover next to it (rotate with arrow keys to fit in tig
 * Hold Fire - Stop firing
 * Hold spawn - if you're dead don't spawn right away. Instead, wait for a new spawn to show up. Ask you SL where you should spawn.
 * Hooah - Phonetic spelling of the military acronym HUA, which stands for "Heard Understood Acknowledged." Originally used by the British in the late 1800's in Afghanistan. More recently adopted by the United States Army to indicate an affirmative or a pleased response.
+* Hot - under fire (e.g. landing zone is hot means that enemies are close by)
 * HP - Health Point
 * HMMWV - High-Mobility Multipurpose Wheeled Vehicle (also: Humvee)
 
@@ -1917,6 +1924,7 @@ HAB location - needs some cover next to it (rotate with arrow keys to fit in tig
 * INS - Insurgency game mode
 
 * K/D - Kills per Death
+* Kek - means LOL; "You Kek" means you are making fun of someone, like saying "Loser"
 * KIA - Killed in Action
 * Kit - The role you're playing. For example: Rifleman, Medic, Squad Leader, Pilot, etc. Many kits have unique weapons.
 * Klicks - Kilometers
@@ -1925,7 +1933,8 @@ HAB location - needs some cover next to it (rotate with arrow keys to fit in tig
 * KPM - Kills Per Minute
 
 * LAT - Light Anti-Tank
-* LAW - M72-LAW, US-specific LAT weapon
+* LAV - LAV-25 (Light Armored Vehicle), an eight-wheeled amphibious armored reconnaissance vehicle used by US Army/Marines
+* LAW - Light Anti-Tank Weapon; M72-LAW, US-specific LAT weapon
 * Leapfrogging - One fireteam advances while the other fireteam covers them
 * LEL - Laughing extra loud, Sarcastic lol
 * Lima Charlie - Loud and Clear (as a response when someone asks on the radio how you read them)
@@ -1941,6 +1950,8 @@ HAB location - needs some cover next to it (rotate with arrow keys to fit in tig
 * MBT - Main Battle Tank - Big gun, loud, on tracks
 * Med(s) - Medical Supplies or Medkit
 * Men on me - All men of the squad to their SL. Can be shortened to On me.
+* Macro game - the 10,000 feet command view onto the battlefield; What is the team overall doing? 
+* Micro game - local events, e.g. a squad attacking an enemy logi truck
 * Mid cap - that flag in the middle of the map
 * MFP - Mortar Firing Point
 * Mike Golf - Master Gunner
@@ -1956,6 +1967,7 @@ HAB location - needs some cover next to it (rotate with arrow keys to fit in tig
 * Nades - Fragmentation Grenades or Rifle Grenades
 * Need Backup - Need men on my location. Used when enemy soldiers have overrun a squad or specific location.
 * Neutral flag - A flag that has not yet been captured by either faction.
+* NLAW - Next Generation Light Anti-Tank Weapon an anti-tank guided missile
 
 * OBJ - Objective - Usually the point you're trying to capture or defend
 * OHK - One Hit Kill
@@ -1976,6 +1988,7 @@ HAB location - needs some cover next to it (rotate with arrow keys to fit in tig
 * Pink Mist - A distinct effect created by certain types of gunshot wounds.
 * PKP - refers to the PKP Pecheneg LMG
 * Platoon - a military unit typically composed of two or more squads, sections, or patrols
+* PLOS - Predicted Line Of Sight
 * Point - The objective
 * Pop Smoke - Throw smoke grenades to SL’s desired target
 * Position - Where you're standing or where you're supposed to be standing
@@ -1993,8 +2006,11 @@ HAB location - needs some cover next to it (rotate with arrow keys to fit in tig
 * QRF - Quick Reaction Force. Squad under the direct command of the Commander. Commander is the only one authorized to direct this unit unless he sheds command of the squad to other officers. Meant to rapidly respond to developing situations. Meant to quickly backup pinned down squads and get them out of a dire situation. The desired vehicle would be a helo, but anything fast like a Humvee or Technical that can get in and out quickly can be used.
 
 * RAAS - Random Advance and Secure
+* Radio - Radio is dropped by SL. Within a radius of 150m around the radio structures can be placed.
+* Rally - A mobile spawn point that the SL can drop.
 * Recon - Reconnaissance - The observation of a region to locate the enemy or determine possible strategic features.
 * Recon Element - Reconnaissance Structure. Technically you can recon from anywhere, most likely from a high vantage point, like a cliff, to locate the enemy, but sometimes you might be scouting out the area via a structure. This structure can be very generalized - a house, tower, small bunker, the fourth floor of an apartment, etc.
+* Rekt - get rekt - another way of saying get wrecked
 * Reloading - Replenishing a new magazine to the chamber
 * Rep - Repair
 * Repeat - Repeat the last fire order for IDF systems without adjustment.
@@ -2035,6 +2051,7 @@ HAB location - needs some cover next to it (rotate with arrow keys to fit in tig
 * SP - Spawn Point
 * SP - Single Player
 * Spawn - Refers to the designated area where players spawn (e.g. Main, FOB, Rally Point)
+* Spawn advantage - One team has better HAB placements and is able to reach objectives easier than their enemy
 * Spawn Camp/Kill - The act of keeping the enemy team in their spawn area by killing them as soon as they walk out.
 * Spawn shift - once you're dead spawn at a different HAB (which is closer to your current/next objective)
 * SPM - Score Per Minute
@@ -2045,6 +2062,7 @@ HAB location - needs some cover next to it (rotate with arrow keys to fit in tig
 * Squirt that (location) - Suppress the SL’s desired target
 * Stealth cap - part of a squad sneaks to a flag to capture it
 * Stealth FOB - build a FOB where the enemy cannot see it.
+* Stealth Proxy - a hidden backup FOB that your team can spawn on when the first one gets destroyed
 * Strength Estimate - Estimated number of enemy infantry and/or vehicles. Term used from Commander to Scouting Squad or vice versa. Say the amount of infantry and vehicles in one's view, specifies vehicles and direction.
 * Super-FOB - Too many structures in one spot. Needs a lot of resources to build. Can be easily destroyed by an airstrike. Rather build 2-3 FOBs instead of 1 Super-FOB to distribute risk.
 * SVD - Dragunov sniper rifle
@@ -2058,7 +2076,7 @@ HAB location - needs some cover next to it (rotate with arrow keys to fit in tig
 * TBH - To be honest
 * TC - Territory Control
 * Team - Faction - One of the 2 groups fighting each other
-* Technical or Techni (teck-e) - reference to the Insurgent/Militia force’s Technical Trucks. Can also refer specifically to the Armed Technical Truck.
+* Technical or Techni (teck-e) - reference to the Insurgent/Militia force’s Technical Trucks. Can also refer specifically to the Armed Technical Truck. Usually pickup trucks with guns mounted on the back.
 * Throw Frags - Throw Fragmentation Grenades to SL’s desired target
 * Throwing - The act of losing a game on purpose.
 * Tilted - Being frustrated or put on edge to the point where it hinders your ability to play.
