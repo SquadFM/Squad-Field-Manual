@@ -1769,318 +1769,318 @@ HAB location - needs some cover next to it (rotate with arrow keys to fit in tig
 * AA - anti aircraft
 * AAS - Advance and Secure
 * ACC - Accuracy
-- ACOG - Advanced Combat Optical Gunsight - the official medium-distance engagement optic of the Marine Corps and U.S. Special Operations Forces
-- ADS - Aim down sights (on your rifle)
-- Affirm or Affirmative - Yes
-- AKA - Also known as
-- Ammo - Ammunition
-- AFAIK - As Far As I Know
-- AFAP - As fast as possible
-- AH - Attack Helicopter
-- AOR - Area of responsibility
-- APC - Armoured Personnel Carrier - Small cannon/HMG, fast, on wheels. Has usually enough space inside for crew + one full squad.
-- AR - Automatic Rifleman - one man can carry it, not as heavy as a LMG, think SAW by the US forces
-- AR - Assault Rifle
-- Area is hot - Can be replaced with a specific area of the map. A section of the map is filled with enemies; friendlies are most likely engaged with the enemy and an intense firefight is ensuing.
-- ASAP - As soon as possible
-- Asked as a Command - Affirm my last order in which you would repeat the last order you got from your SL to your SL
-- As you were - Return to your previous task or posture
-- AT - Anti-Tank
-- AWOL - Absent Without Official Leave; leaving post without permission
-- Azimuth - The degree in which the mortar is facing. If thinking North as 0 degrees, and the enemy is direct South of the mortar emplacement, you would point the mortar 180 degrees from North with an azimuth of 180 degrees.
-- Azimuth Check - Ensuring that you are on the correct path or that the task is being done according to procedure
+* ACOG - Advanced Combat Optical Gunsight - the official medium-distance engagement optic of the Marine Corps and U.S. Special Operations Forces
+* ADS - Aim down sights (on your rifle)
+* Affirm or Affirmative - Yes
+* AKA - Also known as
+* Ammo - Ammunition
+* AFAIK - As Far As I Know
+* AFAP - As fast as possible
+* AH - Attack Helicopter
+* AOR - Area of responsibility
+* APC - Armoured Personnel Carrier - Small cannon/HMG, fast, on wheels. Has usually enough space inside for crew + one full squad.
+* AR - Automatic Rifleman - one man can carry it, not as heavy as a LMG, think SAW by the US forces
+* AR - Assault Rifle
+* Area is hot - Can be replaced with a specific area of the map. A section of the map is filled with enemies; friendlies are most likely engaged with the enemy and an intense firefight is ensuing.
+* ASAP - As soon as possible
+* Asked as a Command - Affirm my last order in which you would repeat the last order you got from your SL to your SL
+* As you were - Return to your previous task or posture
+* AT - Anti-Tank
+* AWOL - Absent Without Official Leave; leaving post without permission
+* Azimuth - The degree in which the mortar is facing. If thinking North as 0 degrees, and the enemy is direct South of the mortar emplacement, you would point the mortar 180 degrees from North with an azimuth of 180 degrees.
+* Azimuth Check - Ensuring that you are on the correct path or that the task is being done according to procedure
 
-- Bad Splash - Bad Mortar/Rocket Rounds, expect further orders - Means the rounds weren't on target, so expect new bearings to clock into the mortar. Can also mean the rounds hit friendlies. New bearings are usually said right after this phrase. In reference when mortars or other artillery are used on a current position, then squads are supposed to assault said position. Once the mortar rounds splash, then your men are supposed to assault the location.
-- Back Cap - Staying behind on an already captured flag (defense flag) while the rest of the team is attacking the next offensive flag. You make sure that the defense flag is not neutralized by the enemy.
-- Bad nade - grenade landed too close to friendlies
-- Bang-bang - An Army term describing a pistol or rifle. Also, sometimes referred to as pew pew.
-- Battery and Assault - Wait for the rounds to splash, then attack.
-- BAR - Bolt Action Rifle (a.k.a. Sniper Rifle)
-- Barrage and Assault - An assault preceded by an Offensive Barrage can either be done with a Standing (static) or Creeping (moving) Barrage that either targets a defensive position or moves ahead of advancing troops in order to suppress OPFOR in a given area (like clearing through a patch of forest).
-- BB - Bye bye
-- BCP - Base Control Point (the main base the game starts at)
-- Binos - Binoculars
-- Bird - Helicopter
-- Black - When discussing amounts of something, it means you are almost out
-- Black on Ammo - Fully out of ammo/mags
-- Blueberries - Random player on your team but not in your squad
-- Brad - M2 Bradley Armored Personnel Carrier (APC)
-- Bravo Zulu - Good Job
-- BRDM - The BRDM-2 is an amphibious armoured patrol car used by Russia and the former Soviet Union. Also known as BTR-40PB, BTR-40P-2 and GAZ 41-08.
-- BS - Bullshit
-- BTR - The BTR-80 ("Armoured Transporter") is an 8x8 wheeled amphibious armoured personnel carrier (APC) designed in the USSR
+* Bad Splash - Bad Mortar/Rocket Rounds, expect further orders - Means the rounds weren't on target, so expect new bearings to clock into the mortar. Can also mean the rounds hit friendlies. New bearings are usually said right after this phrase. In reference when mortars or other artillery are used on a current position, then squads are supposed to assault said position. Once the mortar rounds splash, then your men are supposed to assault the location.
+* Back Cap - Staying behind on an already captured flag (defense flag) while the rest of the team is attacking the next offensive flag. You make sure that the defense flag is not neutralized by the enemy.
+* Bad nade - grenade landed too close to friendlies
+* Bang-bang - An Army term describing a pistol or rifle. Also, sometimes referred to as pew pew.
+* Battery and Assault - Wait for the rounds to splash, then attack.
+* BAR - Bolt Action Rifle (a.k.a. Sniper Rifle)
+* Barrage and Assault - An assault preceded by an Offensive Barrage can either be done with a Standing (static) or Creeping (moving) Barrage that either targets a defensive position or moves ahead of advancing troops in order to suppress OPFOR in a given area (like clearing through a patch of forest).
+* BB - Bye bye
+* BCP - Base Control Point (the main base the game starts at)
+* Binos - Binoculars
+* Bird - Helicopter
+* Black - When discussing amounts of something, it means you are almost out
+* Black on Ammo - Fully out of ammo/mags
+* Blueberries - Random player on your team but not in your squad
+* Brad - M2 Bradley Armored Personnel Carrier (APC)
+* Bravo Zulu - Good Job
+* BRDM - The BRDM-2 is an amphibious armoured patrol car used by Russia and the former Soviet Union. Also known as BTR-40PB, BTR-40P-2 and -GAZ 41-08.
+* BS - Bullshit
+* BTR - The BTR-80 ("Armoured Transporter") is an 8x8 wheeled amphibious armoured personnel carrier (APC) designed in the USSR
 
-- Cap/capped - Capture flags, captured flags
-- Capping - Capturing
-- Capped - Captured
-- CAF - Canadian Armed Forces
-- CAS - Close Air Support - defined as air action such as air strikes by fixed or rotary-winged aircraft against hostile targets that are in proximity to friendly forces.
-- CE - Combat Engineer
-- Charlie Mike - Continue Mission; continue with your task
-- Check your Six - Check behind you
-- Clear to Engage? - Am I allowed to attack?
-- Clear to Engage! - You are allowed to attack!
-- Clip(s) - special way to reload a gun involving a literal clip (SKS has this)
-- Charlie Foxtrot - Commonly used expression utilizing the military alphabet to stand for clusterfuck.
-- Coax - Nearly all main battle tanks and most infantry fighting vehicles have a coaxial machine gun mounted to fire along a parallel axis to the main gun. Coaxial weapons are usually aimed by use of the main gun control. It is usually used to engage infantry or other "soft" targets where use of shots from the main gun would be dangerous, ineffective or wasteful.
-- Commander - Commanding SL
-- CN - China
-- CONOPS - Concept of Operations
-- Copy (that) - Information received
-- Contact - callout to make once you spot an enemy, e.g. in local com say "Contact 2-30"
-- Contact Wait Out - "Contact, wait out" is a term military personnel use over the radio to report enemy sightings/attacks. "Contact" means that the enemy has been identified or that you have already been attacked. "wait" means that you have no time to explain the situation right now. "out" means that you are about to end transmission and will call back later.
-- COP - Small base in a combat area, combat outpost
-- CP - Control Point or flag
-- CPs - Construction points
-- CQ - Conquest
-- CQC - Close quarters combat
-- CQB - Close quarters battle
-- CROWS - Common Remotely Operated Weapon Station. In reference to the MG that is mounted on some fire support vehicles, it is remotely operated within the vehicle hull and doesn’t require a man to manually control it directly. In most common reference to the mounted HMG on fire support vehicles that can shred men and light armor, and can take down medium armor.
-- C-Wire - Razor Wire
+* Cap/capped - Capture flags, captured flags
+* Capping - Capturing
+* Capped - Captured
+* CAF - Canadian Armed Forces
+* CAS - Close Air Support - defined as air action such as air strikes by fixed or rotary-winged aircraft against hostile targets that are in proximity to friendly forces.
+* CE - Combat Engineer
+* Charlie Mike - Continue Mission; continue with your task
+* Check your Six - Check behind you
+* Clear to Engage? - Am I allowed to attack?
+* Clear to Engage! - You are allowed to attack!
+* Clip(s) - special way to reload a gun involving a literal clip (SKS has this)
+* Charlie Foxtrot - Commonly used expression utilizing the military alphabet to stand for clusterfuck.
+* Coax - Nearly all main battle tanks and most infantry fighting vehicles have a coaxial machine gun mounted to fire along a parallel axis to the main gun. Coaxial weapons are usually aimed by use of the main gun control. It is usually used to engage infantry or other "soft" targets where use of shots from the main gun would be dangerous, ineffective or wasteful.
+* Commander - Commanding SL
+* CN - China
+* CONOPS - Concept of Operations
+* Copy (that) - Information received
+* Contact - callout to make once you spot an enemy, e.g. in local com say "Contact 2-30"
+* Contact Wait Out - "Contact, wait out" is a term military personnel use over the radio to report enemy sightings/attacks. "Contact" means that the enemy has been identified or that you have already been attacked. "wait" means that you have no time to explain the situation right now. "out" means that you are about to end transmission and will call back later.
+* COP - Small base in a combat area, combat outpost
+* CP - Control Point or flag
+* CPs - Construction points
+* CQ - Conquest
+* CQC - Close quarters combat
+* CQB - Close quarters battle
+* CROWS - Common Remotely Operated Weapon Station. In reference to the MG that is mounted on some fire support vehicles, it is remotely operated within the vehicle hull and doesn’t require a man to manually control it directly. In most common reference to the mounted HMG on fire support vehicles that can shred men and light armor, and can take down medium armor.
+* C-Wire - Razor Wire
 
-- Danger Close - CAS or artillery support within 600m of friendlies
-- Dismount - Leave the vehicle
-- DMR - Designated Marksman Rifle
-- DoD - Dome of Defense (around main base)
-- Double neutral/white - A situation when a defensive flag is neutralised before the offensive one gets fully captured. Only three teammates are required to recapture such a flag, no matter how many enemies are inside the cap zone.
-- Drive On - To keep going
-- Dropped 2 - Killed 2 enemy soldiers - Said immediately after you kill the said soldiers
-- Due North - Direct North - North can be replaced with North, South, East, or West, or the North East, NW, SE, or SW. Can mean to go precisely North, South, or etc. Can mean enemies are moving precisely North, South, or etc.
+* Danger Close - CAS or artillery support within 600m of friendlies
+* Dismount - Leave the vehicle
+* DMR - Designated Marksman Rifle
+* DoD - Dome of Defense (around main base)
+* Double neutral/white - A situation when a defensive flag is neutralised before the offensive one gets fully captured. Only three teammates are required to recapture such a flag, no matter how many enemies are inside the cap zone.
+* Drive On - To keep going
+* Dropped 2 - Killed 2 enemy soldiers - Said immediately after you kill the said soldiers
+* Due North - Direct North - North can be replaced with North, South, East, or West, or the North East, NW, SE, or SW. Can mean to go precisely North, South, or etc. Can mean enemies are moving precisely North, South, or etc.
 
-- EAC - Enhanced Armament Carrier (e.g. HMMWV)
-- Egress - Exit
-- Empty the (full) Load - Reference to mortar support means, to shoot off all the rockets or mortars in the current mag
-- Entrenching tool - shovel - needed to build structures
-- ETA - Estimated Time of Arrival
-- Exfil - Extraction
+* EAC - Enhanced Armament Carrier (e.g. HMMWV)
+* Egress - Exit
+* Empty the (full) Load - Reference to mortar support means, to shoot off all the rockets or mortars in the current mag
+* Entrenching tool - shovel - needed to build structures
+* ETA - Estimated Time of Arrival
+* Exfil - Extraction
 
-- Faction - Team - One of the 2 groups fighting each other
-- Fast Mover - Slang for a Jet Fighter. Aptly named due to the rapidity of a Jet Fighter's movement.
-- Fire for effect - the final command used in a full fire order after a ranging shot(s) has found the mark.
-- Fitty - Slang for an M2 .50 caliber machine gun.
-- Flag - Control Point
-- FM - Field Manual
-- FO - Forward Observer. Someone who can see the mortar impacts and make adjustments to their impact.
-- FOB - Forward Operating Base (it's the spot where you drop the radio, a HAB and an ammo box)
-- FOV - Field of view
-- FOW - Fog of war - not yet visible areas on the map
-- FPS - Frames Per Second
-- FRAG Round - "Fragmentation Round - refers specifically to the fragmentation round used to take on infantry
-- Frags - Fragmentation Grenades
-- Free to Engage - Allowed to attack on contact with the enemy
-- FTL - Fireteam Lead (a squad can be divided into two fireteams)
-- FUBAR - Fuck Up Beyond All Recognition (or Repair)
-- Fuck 'Em Up! - Clear to engage but better
-- full cap - flag that has been successfully captured (takes 2 minutes)
+* Faction - Team - One of the 2 groups fighting each other
+* Fast Mover - Slang for a Jet Fighter. Aptly named due to the rapidity of a Jet Fighter's movement.
+* Fire for effect - the final command used in a full fire order after a ranging shot(s) has found the mark.
+* Fitty - Slang for an M2 .50 caliber machine gun.
+* Flag - Control Point
+* FM - Field Manual
+* FO - Forward Observer. Someone who can see the mortar impacts and make adjustments to their impact.
+* FOB - Forward Operating Base (it's the spot where you drop the radio, a HAB and an ammo box)
+* FOV - Field of view
+* FOW - Fog of war - not yet visible areas on the map
+* FPS - Frames Per Second
+* FRAG Round - "Fragmentation Round - refers specifically to the fragmentation round used to take on infantry
+* Frags - Fragmentation Grenades
+* Free to Engage - Allowed to attack on contact with the enemy
+* FTL - Fireteam Lead (a squad can be divided into two fireteams)
+* FUBAR - Fuck Up Beyond All Recognition (or Repair)
+* Fuck 'Em Up! - Clear to engage but better
+* full cap - flag that has been successfully captured (takes 2 minutes)
 
-- G2G - Got to go
-- GG - Good Game
-- GJ - Good job
-- GL - Grenade Launcher
-- GL - Good luck
-- GLHF - Good Luck, Have Fun
-- Good Splash - Good Mortar/Rocket Rounds. Means the mortar rounds were on target and inflicted enemy damage.
-- GPMG - General Purpose Machine Gun (like PKP, M240, M60...)
-- Grunt - infantryman or foot soldier
-- GTL - Gun Target Line: The azimuth in degrees from the mortars to the target.
-- Guardian Angel - refers to the squad member who hangs back and eyes the squad's movement from a high position, usually a sniper or scout
-- Gun - Term for a mortar or artillery piece. Must never be used within the military to describe a pistol or rifle.
-- Gunner - A servicemember who operates a crew-served weapon, such as a piece of artillery or ship's cannon.
+* G2G - Got to go
+* GG - Good Game
+* GJ - Good job
+* GL - Grenade Launcher
+* GL - Good luck
+* GLHF - Good Luck, Have Fun
+* Good Splash - Good Mortar/Rocket Rounds. Means the mortar rounds were on target and inflicted enemy damage.
+* GPMG - General Purpose Machine Gun (like PKP, M240, M60...)
+* Grunt - infantryman or foot soldier
+* GTL - Gun Target Line: The azimuth in degrees from the mortars to the target.
+* Guardian Angel - refers to the squad member who hangs back and eyes the squad's movement from a high position, usually a sniper or scout
+* Gun - Term for a mortar or artillery piece. Must never be used within the military to describe a pistol or rifle.
+* Gunner - A servicemember who operates a crew-served weapon, such as a piece of artillery or ship's cannon.
 
-- HAB - Hesco Accommodation Bunker - Spawn point
-- Hang Fire - Hold fire until told to do so
-- HAT - Heavy Anti-Tank
-- HBAR - Heavy Barrel
-- HC - Hardcore
-- HE - High Explosive, refers to ammo types
-- HEAT Round - "High Explosive Anti-Tank Round" - refers specifically to the light anti-tank round that can take on most lightly armored vehicles and damage heavier ones
-- HEDP - high-explosive, dual-purpose M430 grenade launcher cartridge
-- Helo - Helicopter
-- HF - Have fun
-- HMG - Heavy Machine Gun .50 Cal
-- Hold Fire - Stop firing
-- Hold spawn - if you're dead don't spawn right away. Instead, wait for a new spawn to show up. Ask you SL where you should spawn.
-- Hooah - Phonetic spelling of the military acronym HUA, which stands for "Heard Understood Acknowledged." Originally used by the British in the late 1800's in Afghanistan. More recently adopted by the United States Army to indicate an affirmative or a pleased response.
-- HP - Health Point
-- HMMWV - High-Mobility Multipurpose Wheeled Vehicle (also: Humvee)
+* HAB - Hesco Accommodation Bunker - Spawn point
+* Hang Fire - Hold fire until told to do so
+* HAT - Heavy Anti-Tank
+* HBAR - Heavy Barrel
+* HC - Hardcore
+* HE - High Explosive, refers to ammo types
+* HEAT Round - "High Explosive Anti-Tank Round" - refers specifically to the light anti-tank round that can take on most lightly armored vehicles and damage heavier ones
+* HEDP - high-explosive, dual-purpose M430 grenade launcher cartridge
+* Helo - Helicopter
+* HF - Have fun
+* HMG - Heavy Machine Gun .50 Cal
+* Hold Fire - Stop firing
+* Hold spawn - if you're dead don't spawn right away. Instead, wait for a new spawn to show up. Ask you SL where you should spawn.
+* Hooah - Phonetic spelling of the military acronym HUA, which stands for "Heard Understood Acknowledged." Originally used by the British in the late 1800's in Afghanistan. More recently adopted by the United States Army to indicate an affirmative or a pleased response.
+* HP - Health Point
+* HMMWV - High-Mobility Multipurpose Wheeled Vehicle (also: Humvee)
 
-- I have visual - Means you have eyes on the current objective or a specific object.
-- I’m Out - Out of ammo in current magazine
-- I want 360 security - Make a perimeter
-- I want 360 security on the roof - Give me eyes on the roof, I want views on all angles
-- IDF - Indirect fire system, e.g. mortar, artillery
-- IED - Improvised Explosive Device
-- IED Bikes - IEDs placed on dirt bikes
-- IFV - Infantry Fighting Vehicle - Medium cannon (25/30 mm), ATGM launcher, tracks, engine in the front. Has enough space inside for crew + one full squad
-- IMO - In my opinion
-- INS - Insurgent forces, designed after insurgent forces you see in the middle east
-- INS - Insurgency game mode
+* I have visual - Means you have eyes on the current objective or a specific object.
+* I’m Out - Out of ammo in current magazine
+* I want 360 security - Make a perimeter
+* I want 360 security on the roof - Give me eyes on the roof, I want views on all angles
+* IDF - Indirect fire system, e.g. mortar, artillery
+* IED - Improvised Explosive Device
+* IED Bikes - IEDs placed on dirt bikes
+* IFV - Infantry Fighting Vehicle - Medium cannon (25/30 mm), ATGM launcher, tracks, engine in the front. Has enough space inside for crew + one full squad
+* IMO - In my opinion
+* INS - Insurgent forces, designed after insurgent forces you see in the middle east
+* INS - Insurgency game mode
 
-- K/D - Kills per Death
-- KIA - Killed in Action
-- Kit - The role you're playing. For example: Rifleman, Medic, Squad Leader, Pilot, etc. Many kits have unique weapons.
-- Klicks - Kilometers
-- KOC - Kill or Capture
-- Kornet - 9M133 Kornet is a modern Russian man-portable anti-tank guided missile intended for use against main battle tanks
-- KPM - Kills Per Minute
+* K/D - Kills per Death
+* KIA - Killed in Action
+* Kit - The role you're playing. For example: Rifleman, Medic, Squad Leader, Pilot, etc. Many kits have unique weapons.
+* Klicks - Kilometers
+* KOC - Kill or Capture
+* Kornet - 9M133 Kornet is a modern Russian man-portable anti-tank guided missile intended for use against main battle tanks
+* KPM - Kills Per Minute
 
-- LAT - Light Anti-Tank
-- LAW - M72-LAW, US-specific LAT weapon
-- Leapfrogging - One fireteam advances while the other fireteam covers them
-- LEL - Laughing extra loud, Sarcastic lol
-- Lima Charlie - Loud and Clear (as a response when someone asks on the radio how you read them)
-- Lima Lima Mike Foxtrot - Lost Like a Motherfucker
-- LMG - Light Machine Gun - one man can carry it; think M240B and PKP, but not a SAW
-- Logi - Logistics Truck
-- LOL - Lots of laugh/laugh out loud
+* LAT - Light Anti-Tank
+* LAW - M72-LAW, US-specific LAT weapon
+* Leapfrogging - One fireteam advances while the other fireteam covers them
+* LEL - Laughing extra loud, Sarcastic lol
+* Lima Charlie - Loud and Clear (as a response when someone asks on the radio how you read them)
+* Lima Lima Mike Foxtrot - Lost Like a Motherfucker
+* LMG - Light Machine Gun - one man can carry it; think M240B and PKP, but not a SAW
+* Logi - Logistics Truck
+* LOL - Lots of laugh/laugh out loud
 
-- M240 Bravo - refers to the FN M240B LMG
-- Made Contact - Means you're either engaging the enemy or your on the site of your team's current objective
-- Mag(s) - refers to the magazine that holds bullets, mortars, or rockets
-- Main - Your team's main spawn point. You spawn with full ammo/supplies. Good place to switch kits if needed.
-- MBT - Main Battle Tank - Big gun, loud, on tracks
-- Med(s) - Medical Supplies or Medkit
-- Men on me - All men of the squad to their SL. Can be shortened to On me.
-- Mid cap - that flag in the middle of the map
-- MFP - Mortar Firing Point
-- Mike Golf - Master Gunner
-- Mils - Milliradian (thousandth of a radian), military unit of measurement for US mortars, describes elevation, There are 2Pi Radians in a circle, being 2*3.14, or 6.283 Radians. Multiply that by 1000mils, and you get 6283mils, with roughly 18mils equaling a degree. Most militaries would simplify this number to 6000mils or 6400mils. Simply speaking, a mil is a finer degree than a typical degree, which allows for more precise mortar drops. Using spotters who can give you rough estimates of distance from you to the target, mils can be translated from meters via the Range to Mils table in the mortar GUI.
-- Mike(s) - Minute(s) or Millimeter(s) or M in the NATO Phonetic Alphabet
-- MG - Machine Gun(er) - an umbrella term for a gun with the following characteristics; can refer to any MG, LMG, or HMG you may encounter such as the SAW, M240B, PKP, .50 Cal, etc. Usually belt fed, but their most notable ability is on-the-move fire support for a squad. Usually sport a bi-pod.
-- Moving Like Pond Water - Moving so slowly that a unique term is required to describe it.
-- MP - Multi-Player
-- MRAP - Mine-Resistant Ambush Protected (vehicle)
-- MTLB - a Soviet multi-purpose fully amphibious auxiliary armored tracked vehicle
-- MVP - Most Valuable player
+* M240 Bravo - refers to the FN M240B LMG
+* Made Contact - Means you're either engaging the enemy or your on the site of your team's current objective
+* Mag(s) - refers to the magazine that holds bullets, mortars, or rockets
+* Main - Your team's main spawn point. You spawn with full ammo/supplies. Good place to switch kits if needed.
+* MBT - Main Battle Tank - Big gun, loud, on tracks
+* Med(s) - Medical Supplies or Medkit
+* Men on me - All men of the squad to their SL. Can be shortened to On me.
+* Mid cap - that flag in the middle of the map
+* MFP - Mortar Firing Point
+* Mike Golf - Master Gunner
+* Mils - Milliradian (thousandth of a radian), military unit of measurement for US mortars, describes elevation, There are 2Pi Radians in a circle, being 2*3.14, or 6.283 Radians. Multiply that by 1000mils, and you get 6283mils, with roughly 18mils equaling a degree. Most militaries would simplify this number to 6000mils or 6400mils. Simply speaking, a mil is a finer degree than a typical degree, which allows for more precise mortar drops. Using spotters who can give you rough estimates of distance from you to the target, mils can be translated from meters via the Range to Mils table in the mortar GUI.
+* Mike(s) - Minute(s) or Millimeter(s) or M in the NATO Phonetic Alphabet
+* MG - Machine Gun(er) - an umbrella term for a gun with the following characteristics; can refer to any MG, LMG, or HMG you may encounter such as the SAW, M240B, PKP, .50 Cal, etc. Usually belt fed, but their most notable ability is on-the-move fire support for a squad. Usually sport a bi-pod.
+* Moving Like Pond Water - Moving so slowly that a unique term is required to describe it.
+* MP - Multi-Player
+* MRAP - Mine-Resistant Ambush Protected (vehicle)
+* MTLB - a Soviet multi-purpose fully amphibious auxiliary armored tracked vehicle
+* MVP - Most Valuable player
 
-- Nades - Fragmentation Grenades or Rifle Grenades
-- Need Backup - Need men on my location. Used when enemy soldiers have overrun a squad or specific location.
-- Neutral flag - A flag that has not yet been captured by either faction.
+* Nades - Fragmentation Grenades or Rifle Grenades
+* Need Backup - Need men on my location. Used when enemy soldiers have overrun a squad or specific location.
+* Neutral flag - A flag that has not yet been captured by either faction.
 
-- OBJ - Objective - Usually the point you're trying to capture or defend
-- OHK - One Hit Kill
-- On the money - On target
-- OP - Overpowered
-- OP - Original post/poster
-- OPFOR - Opposing Force, the enemy
-- Oscar Mike - On the Move
-- Out - Transmission over
-- Over - Waiting for response
-- OWI - Offworld Industries
-- Oxygen Thief - A biting piece of slang for someone who's useless or talks too much.
+* OBJ - Objective - Usually the point you're trying to capture or defend
+* OHK - One Hit Kill
+* On the money - On target
+* OP - Overpowered
+* OP - Original post/poster
+* OPFOR - Opposing Force, the enemy
+* Oscar Mike - On the Move
+* Out - Transmission over
+* Over - Waiting for response
+* OWI - Offworld Industries
+* Oxygen Thief - A biting piece of slang for someone who's useless or talks too much.
 
-- Peek - The act of checking a doorway/choke where you're in plain sight of the other team. Often used in a cautionary way, it's how players get sniped/killed before a team fight even starts. (Ex. “Don’t peek”, “Stop peeking” and “No peek”)
-- Pick - The act of achieving a quick kill
-- PIC - Pilot in Command
-- PDW - Personal Defence Weapon
-- Pink Mist - A distinct effect created by certain types of gunshot wounds.
-- PKP - refers to the PKP Pecheneg LMG
-- Platoon - a military unit typically composed of two or more squads, sections, or patrols
-- Point - The objective
-- Pop Smoke - Throw smoke grenades to SL’s desired target
-- Position - Where you're standing or where you're supposed to be standing
-- PR - Project Reality mod for Battlefield 2 (Squad's predecessor)
-- Projectile - Refers to a weapon type that has a travel time
-- Push - Taking aggressive action as a team to move the other team off of a capture point, by eliminating them or driving them off
-- PTFO - Play The Fucking Objective
-- PTO - Play The Objective
-- PTT - Push to talk. The key that activates your mic.
-- Pub game - A game that's being played on a public server.
-- Push defense - move to a defense flag to prevent enemies from neutralizing it
-- Push mid - attack the middle flag
-- Push offense - move to the next attack flag and capture it
+* Peek - The act of checking a doorway/choke where you're in plain sight of the other team. Often used in a cautionary way, it's how players get sniped/killed before a team fight even starts. (Ex. “Don’t peek”, “Stop peeking” and “No peek”)
+* Pick - The act of achieving a quick kill
+* PIC - Pilot in Command
+* PDW - Personal Defence Weapon
+* Pink Mist - A distinct effect created by certain types of gunshot wounds.
+* PKP - refers to the PKP Pecheneg LMG
+* Platoon - a military unit typically composed of two or more squads, sections, or patrols
+* Point - The objective
+* Pop Smoke - Throw smoke grenades to SL’s desired target
+* Position - Where you're standing or where you're supposed to be standing
+* PR - Project Reality mod for Battlefield 2 (Squad's predecessor)
+* Projectile - Refers to a weapon type that has a travel time
+* Push - Taking aggressive action as a team to move the other team off of a capture point, by eliminating them or driving them off
+* PTFO - Play The Fucking Objective
+* PTO - Play The Objective
+* PTT - Push to talk. The key that activates your mic.
+* Pub game - A game that's being played on a public server.
+* Push defense - move to a defense flag to prevent enemies from neutralizing it
+* Push mid - attack the middle flag
+* Push offense - move to the next attack flag and capture it
 
-- QRF - Quick Reaction Force. Squad under the direct command of the Commander. Commander is the only one authorized to direct this unit unless he sheds command of the squad to other officers. Meant to rapidly respond to developing situations. Meant to quickly backup pinned down squads and get them out of a dire situation. The desired vehicle would be a helo, but anything fast like a Humvee or Technical that can get in and out quickly can be used.
+* QRF - Quick Reaction Force. Squad under the direct command of the Commander. Commander is the only one authorized to direct this unit unless he sheds command of the squad to other officers. Meant to rapidly respond to developing situations. Meant to quickly backup pinned down squads and get them out of a dire situation. The desired vehicle would be a helo, but anything fast like a Humvee or Technical that can get in and out quickly can be used.
 
-- RAAS - Random Advance and Secure
-- Recon - Reconnaissance - The observation of a region to locate the enemy or determine possible strategic features.
-- Recon Element - Reconnaissance Structure. Technically you can recon from anywhere, most likely from a high vantage point, like a cliff, to locate the enemy, but sometimes you might be scouting out the area via a structure. This structure can be very generalized - a house, tower, small bunker, the fourth floor of an apartment, etc.
-- Reloading - Replenishing a new magazine to the chamber
-- Rep - Repair
-- Repeat - Repeat the last fire order for IDF systems without adjustment.
-- Reset - To back out of a fight so you can group up with your team
-- Rev - Revive
-- REZ - Resurrect/revive me
-- Right on top of me - Means the enemy is in the immediate vicinity of your person or dead body
-- RG - Rifle Grenade or HE Rifle Grenade
-- Rocket or Rocke (rock-e) - Rocket Artillery Technical Truck. For the INS forces, each truck can be referred to by color.
-- RPG - Rocket Propelled Grenade
-- RPK - 7.62×39mm light machine gun of Soviet design
-- RPM - Rounds per minute
-- ROF - Rate of Fire
-- Roger (that) - Message received and understood
-- Roger Dodger - Message received and understood but better
-- Rotate - to change positions
-- RP - Rally Point - A spawn point for your squad only. One squadmate within 8 meters of you is required to place a rally. If an enemy gets closer than 10 meters to your RP it will be destroyed.
-- RTB - Return to base
-- RU - Russia
-- RV - Rendezvous Point
+* RAAS - Random Advance and Secure
+* Recon - Reconnaissance - The observation of a region to locate the enemy or determine possible strategic features.
+* Recon Element - Reconnaissance Structure. Technically you can recon from anywhere, most likely from a high vantage point, like a cliff, to locate the enemy, but sometimes you might be scouting out the area via a structure. This structure can be very generalized - a house, tower, small bunker, the fourth floor of an apartment, etc.
+* Reloading - Replenishing a new magazine to the chamber
+* Rep - Repair
+* Repeat - Repeat the last fire order for IDF systems without adjustment.
+* Reset - To back out of a fight so you can group up with your team
+* Rev - Revive
+* REZ - Resurrect/revive me
+* Right on top of me - Means the enemy is in the immediate vicinity of your person or dead body
+* RG - Rifle Grenade or HE Rifle Grenade
+* Rocket or Rocke (rock-e) - Rocket Artillery Technical Truck. For the INS forces, each truck can be referred to by color.
+* RPG - Rocket Propelled Grenade
+* RPK - 7.62×39mm light machine gun of Soviet design
+* RPM - Rounds per minute
+* ROF - Rate of Fire
+* Roger (that) - Message received and understood
+* Roger Dodger - Message received and understood but better
+* Rotate - to change positions
+* RP - Rally Point - A spawn point for your squad only. One squadmate within 8 meters of you is required to place a rally. If an enemy gets closer than 10 meters to your RP it will be destroyed.
+* RTB - Return to base
+* RU - Russia
+* RV - Rendezvous Point
 
-- Salt - Being aggravated, upset, or annoyed
-- SAS - Special Air Service - a special forces unit of the British Army
-- SAW - Squad automatic weapon
-- Say Again - Please repeat the previous order
-- Scratch (that) - Disregard previous immediate order
-- Self-Propelled Sandbags - A derogatory term for a Marine based on their emphasis on fighting on the front lines.
-- Shift spawn - Spawn at a different FOB (the objective might have changed to a different location)
-- Shot-Caller - A leader in the team who directs the team during a fight to maximize team coordination and communication. Usually the SL or fireteam lead
-- Shot Over - notification given that an IDF system has sent a round(s) down range in accordance with a requested fire order alerting the observer to watch for the splash. (SHOT OUT is the confirmation reply from the observer if they have good drills)
-- SL - Squad Leader
-- Soft Car - Unarmored vehicle, like the BRDM-2 Scout Car
-- Splash - Splash Damage - Mortar and Rocket rounds have splash damage that can hurt multiple tangos at once.
-- Smokes - Smoke Grenades
-- SNAFU - (a variant of FUBAR) = Situation Normal, All F***ed Up
-- Snipes - Sniper
-- Soft Flank - Flanking the enemy but with easy access to an escape back to your own team.
-- SP - Spawn Point
-- SP - Single Player
-- Spawn - Refers to the designated area where players spawn (e.g. Main, FOB, Rally Point)
-- Spawn Camp/Kill - The act of keeping the enemy team in their spawn area by killing them as soon as they walk out.
-- Spawn shift - once you're dead spawn at a different HAB (which is closer to your current/next objective)
-- SPM - Score Per Minute
-- SR - Sniper Rifle
-- Squad - Group of up to 9 soldiers. Every squad needs a squad leader. Can be further segmented into fireteams.
-- Squad Lead - Squad Leader
-- Squad, mount (up) - Squad, enter the designated vehicle
-- Squirt that (location) - Suppress the SL’s desired target
-- Stealth cap - part of a squad sneaks to a flag to capture it
-- Stealth FOB - build a FOB where the enemy cannot see it.
-- Strength Estimate - Estimated number of enemy infantry and/or vehicles. Term used from Commander to Scouting Squad or vice versa. Say the amount of infantry and vehicles in one's view, specifies vehicles and direction.
-- Super-FOB - Too many structures in one spot. Needs a lot of resources to build. Can be easily destroyed by an airstrike. Rather build 2-3 FOBs instead of 1 Super-FOB to distribute risk.
-- SVD - Dragunov sniper rifle
+* Salt - Being aggravated, upset, or annoyed
+* SAS - Special Air Service - a special forces unit of the British Army
+* SAW - Squad automatic weapon
+* Say Again - Please repeat the previous order
+* Scratch (that) - Disregard previous immediate order
+* Self-Propelled Sandbags - A derogatory term for a Marine based on their emphasis on fighting on the front lines.
+* Shift spawn - Spawn at a different FOB (the objective might have changed to a different location)
+* Shot-Caller - A leader in the team who directs the team during a fight to maximize team coordination and communication. Usually the SL or fireteam lead
+* Shot Over - notification given that an IDF system has sent a round(s) down range in accordance with a requested fire order alerting the observer to watch for the splash. (SHOT OUT is the confirmation reply from the observer if they have good drills)
+* SL - Squad Leader
+* Soft Car - Unarmored vehicle, like the BRDM-2 Scout Car
+* Splash - Splash Damage - Mortar and Rocket rounds have splash damage that can hurt multiple tangos at once.
+* Smokes - Smoke Grenades
+* SNAFU - (a variant of FUBAR) = Situation Normal, All F***ed Up
+* Snipes - Sniper
+* Soft Flank - Flanking the enemy but with easy access to an escape back to your own team.
+* SP - Spawn Point
+* SP - Single Player
+* Spawn - Refers to the designated area where players spawn (e.g. Main, FOB, Rally Point)
+* Spawn Camp/Kill - The act of keeping the enemy team in their spawn area by killing them as soon as they walk out.
+* Spawn shift - once you're dead spawn at a different HAB (which is closer to your current/next objective)
+* SPM - Score Per Minute
+* SR - Sniper Rifle
+* Squad - Group of up to 9 soldiers. Every squad needs a squad leader. Can be further segmented into fireteams.
+* Squad Lead - Squad Leader
+* Squad, mount (up) - Squad, enter the designated vehicle
+* Squirt that (location) - Suppress the SL’s desired target
+* Stealth cap - part of a squad sneaks to a flag to capture it
+* Stealth FOB - build a FOB where the enemy cannot see it.
+* Strength Estimate - Estimated number of enemy infantry and/or vehicles. Term used from Commander to Scouting Squad or vice versa. Say the amount of infantry and vehicles in one's view, specifies vehicles and direction.
+* Super-FOB - Too many structures in one spot. Needs a lot of resources to build. Can be easily destroyed by an airstrike. Rather build 2-3 FOBs instead of 1 Super-FOB to distribute risk.
+* SVD - Dragunov sniper rifle
 
-- TANDEM Round - Refers specifically to the tandem HEAT round used to defeat heavily armored vehicles
-- Tango - Target
-- Tango Down - Target Down
-- Tango Uniform - Slang for "tits up," which is the position dead bodies tend to face. The term can be applied to the deceased as well as broken pieces of equipment
-- Tank - refers to any armored vehicle that another teammate may see on the map, not specific at all to what it could be. Could refer to any IFV, APC, etc. with tracks. If it's an actual main battle tank, people will usually say it by the tank's name such as Leopard or Abrams, or simply call out "Main Battle Tank!"
-- Tapped - Shot or Hit - Means to be shot and downed or shot and injured. Also, 1-tapping an enemy means killing them using only 1 shot.
-- TBH - To be honest
-- TC - Territory Control
-- Team - Faction - One of the 2 groups fighting each other
-- Technical or Techni (teck-e) - reference to the Insurgent/Militia force’s Technical Trucks. Can also refer specifically to the Armed Technical Truck.
-- Throw Frags - Throw Fragmentation Grenades to SL’s desired target
-- Throwing - The act of losing a game on purpose.
-- Tilted - Being frustrated or put on edge to the point where it hinders your ability to play.
-- TK - Kill someone on your team
-- T/O - Task/Org
-- TOW - Tube-Launched, Optically Tracked, Wireless-Guided BGM-71 TOW is an American anti-tank missile
-- Toxic - Being rude and/or negative
-- Tracking - An aiming style where the player follows a moving target with their crosshairs.
-- Transport(s) - Transport Truck. Can be shortened to Trans.
-- Trickling - When a team goes in one-by-one and dies rather than grouping up.
-- TTK - Time To Kill, time needed to kill someone
-- TTPs - Tactics/Techniques/Procedures (e.g. US Army Mortar TTPs)
+* TANDEM Round - Refers specifically to the tandem HEAT round used to defeat heavily armored vehicles
+* Tango - Target
+* Tango Down - Target Down
+* Tango Uniform - Slang for "tits up," which is the position dead bodies tend to face. The term can be applied to the deceased as well as broken pieces of equipment
+* Tank - refers to any armored vehicle that another teammate may see on the map, not specific at all to what it could be. Could refer to any IFV, APC, etc. with tracks. If it's an actual main battle tank, people will usually say it by the tank's name such as Leopard or Abrams, or simply call out "Main Battle Tank!"
+* Tapped - Shot or Hit - Means to be shot and downed or shot and injured. Also, 1-tapping an enemy means killing them using only 1 shot.
+* TBH - To be honest
+* TC - Territory Control
+* Team - Faction - One of the 2 groups fighting each other
+* Technical or Techni (teck-e) - reference to the Insurgent/Militia force’s Technical Trucks. Can also refer specifically to the Armed Technical Truck.
+* Throw Frags - Throw Fragmentation Grenades to SL’s desired target
+* Throwing - The act of losing a game on purpose.
+* Tilted - Being frustrated or put on edge to the point where it hinders your ability to play.
+* TK - Kill someone on your team
+* T/O - Task/Org
+* TOW - Tube-Launched, Optically Tracked, Wireless-Guided BGM-71 TOW is an American anti-tank missile
+* Toxic - Being rude and/or negative
+* Tracking - An aiming style where the player follows a moving target with their crosshairs.
+* Transport(s) - Transport Truck. Can be shortened to Trans.
+* Trickling - When a team goes in one-by-one and dies rather than grouping up.
+* TTK - Time To Kill, time needed to kill someone
+* TTPs - Tactics/Techniques/Procedures (e.g. US Army Mortar TTPs)
 
-- UE4 - Unreal Engine 4
-- Un-Ass - To move immediately or leave one's current position.
-- UP - Under Powered
-- US - United States
+* UE4 - Unreal Engine 4
+* Un-Ass - To move immediately or leave one's current position.
+* UP - Under Powered
+* US - United States
 
-- VBIED - Vehicle-borne improvised explosive device
-- VC - Voice Chat. This refers to the voice chat channel that is available in-game.
-- Vic - Vehicle
-- VOIP - Voice over IP
+* VBIED - Vehicle-borne improvised explosive device
+* VC - Voice Chat. This refers to the voice chat channel that is available in-game.
+* Vic - Vehicle
+* VOIP - Voice over IP
 
 * Wait - Hold position or Hold previous relay
 * Wait out - useful for putting someone on 'hold' when you have other priorities to deal with first. (like taking cover!)
