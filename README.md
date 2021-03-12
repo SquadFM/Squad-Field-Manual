@@ -1759,16 +1759,16 @@ HAB location - needs some cover next to it (rotate with arrow keys to fit in tig
 ************************************************************************
 # Abbreviations, Lingo
 
-- .50 Cal - In reference to the .50 Cal HMG
-- 10-4 - Copy or Yes, I understand your message
-- 1HK - One Hit Kill
-- 203s - M203 grenade launcher is a single-shot 40mm under-barrel grenade launcher designed to attach to a rifle.
-- 2-to-1 advantage - having twice the manpower than the enemy (e.g. on an objective)
-- 2/ic - Second in command
-- 40 Mike-Mike - An M203 40mm grenade launcher, usually mounted under an M-16 or similar weapon.
-- AA - anti aircraft
-- AAS - Advance and Secure
-- ACC - Accuracy
+* .50 Cal - In reference to the .50 Cal HMG
+* 10-4 - Copy or Yes, I understand your message
+* 1HK - One Hit Kill
+* 203s - M203 grenade launcher is a single-shot 40mm under-barrel grenade launcher designed to attach to a rifle.
+* 2-to-1 advantage - having twice the manpower than the enemy (e.g. on an objective)
+* 2/ic - Second in command
+* 40 Mike-Mike - An M203 40mm grenade launcher, usually mounted under an M-16 or similar weapon.
+* AA - anti aircraft
+* AAS - Advance and Secure
+* ACC - Accuracy
 - ACOG - Advanced Combat Optical Gunsight - the official medium-distance engagement optic of the Marine Corps and U.S. Special Operations Forces
 - ADS - Aim down sights (on your rifle)
 - Affirm or Affirmative - Yes
