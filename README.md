@@ -409,6 +409,7 @@ In the console type:
 - The most common game modes are Advance and Secure, Random Advance and Secure, Skirmish and Invasion.
 - Games can last up to 2 hours.
 - The team with 0 tickets or the least amount of tickets at the end of the game will lose.
+- Please note that game mode rules can change and changes may not be reflected in this guide by the time of the update.
 
 [Back to top](#squad-field-manual)
 
