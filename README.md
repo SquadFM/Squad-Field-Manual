@@ -472,15 +472,21 @@ In the console type:
 
 ## Territory Control (TC)
 - Territory Control (TC) consists of a grid of Hexes (hexagons), which function like capture zones.
-- Hexes require 1 person to capture an initially neutral zone, but 3 people to capture an enemy zone (also after neutralizing it).
-- Enemy hexes take 40 seconds to neutralize, and neutral hexes take 40 seconds to capture.
-- Capturing a hex zone unlocks all adjacent (bordering) hex zones for being captured.
+- The goal of the game mode is to either (A) have the other team run out of tickets or (B) capture 95% of all hexes. As ticket counts are generally high in this game mode, games tend to be very long and drawn out. 
+- It requires 1 person to capture an initially neutral zone.
+- It requires 3 people to capture an enemy zone. This is also true for hexes that were previously captured and then neutralized.
+- If the enemy tries to cap the hex at the same time as you, your team needs one more person than the enemy within the control point to cap it.
+- On initial spawn a few of these hexes will already be captured for both sides and will be connected to neutral hexes which only require one player to capture. Capturable hexes will be slightly less opaque and have a blue border with a friendly owned hex. Enemy hexes will also show this border and less opaqueness but instead are tinted red.
+- The Anchor Hex is the starting point of the team's capture chain. This hex has an anchor icon on it. Other hexes must be connected to the Anchor Hex in order to not be cut off. Capturing the enemies Anchor Hex will prevent the enemy team from taking new territory and contesting any hex. 
+- Enemy hexes take 45 seconds to neutralize, and neutral hexes take 40 seconds to capture.
+- Capturing a hex unlocks all adjacent (bordering) hex zones for capture.
+- Bleed: For every two hex zones captured beyond owning 60% of all hexes, the enemy will start bleeding 1 ticket per minute with a maximum of 5 tickets per minute for 10+ hexes captured beyond 60%.
 - Hex capture status is invisible until you capture an adjacent hex zone (fog of war).
 - Each team has a 'key territory' hex marked with a shield, at the base of their grid.
 - If any (group of) hexes owned by your team gets disconnected from that key territory (because the enemy captures hexes in between), you will not be able to attack bordering hexes from them until their connection to your key territory is restored.
 - If the enemy captures your key territory hex, all your remaining hexes lose their connection to the key territory, so you'll need to recapture your key territory hex to continue capturing enemy territory.
-- For every two hex zones captured beyond owning 60% of all hexes, the enemy will start bleeding 1 ticket per minute, with a maximum of 5 tickets per minute for 10+ hexes captured beyond 60%.
 - When your team captures 95% of all hexes, your team instantly wins.
+- Focus on enemy spawn points and not the hexes themselves. Cutting off spawn-points makes it easier to take hexes.
 
 [Back to top](#squad-field-manual)
 
