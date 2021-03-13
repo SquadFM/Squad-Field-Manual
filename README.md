@@ -348,12 +348,12 @@ In the console type:
 
 ## Flags
 - Main - The main base. This is where the game starts. Teams cannot capture the other team's main base. You cannot fire a weapon in the main base. You cannot fire into a base (it has an invisible shield that protects it). It is your team's safe harbor.
-- Neutral flags - Flags that have not been captured yet by either side. For example, the very first flag once you leave main.
-- Contested flags - Flags that have not been captured yet by either side and both teams are on the objective at the same time and try to capture it. The team with more people on the flag will capture it after 2 minutes. The middle flag often is contested by both teams at the same time.
+- Neutral flag - Flag that has not been captured yet by either side. For example, the very first flag once you leave main.
+- Contested flag - Flag that has not been captured yet by either side and both teams are on the objective at the same time and try to capture it. The team with more people on the flag will capture it after 1-2 minutes. The middle flag often is contested by both teams at the same time.
 - Middle flag - Exists only in map layers with an uneven number of objectives. It's the flag, well, in the middle. This is usually where both teams clash full force.
-- Capped flags (by either team) - A flag that has been successfully captured by a team.
+- Capped flag - A flag that has been successfully captured by a team.
 - Offensive flag - This is the next flag that your team is going to capture. It has a red knife symbol on your map.
-- Defensive flag - This is the flag your team already captured. You can see it being represented on the map by a blue shield symbol. You need to hold these flags. If you lose these flags to the enemy, your team cannot proceed with capturing additional flags. Should you lose a defense flag, your team has to move back and recapture it. Sometimes squads are back capping, which means they are protecting the already captured flags from the enemy. Back capping only needs 1 person on the flag. However, if that one person is being killed by the enemy, you're losing this flag and your offensive cannot continue until you recapture this lost flag.
+- Defensive flag - This is the flag your team already captured. You can see it being represented on the map by a blue shield symbol. You need to hold these flags. If you lose any defensive flags to the enemy, your team cannot capture additional flags. Should your team lose a defense flag, your team has to move back and recapture it. Sometimes squads are back capping, which means they are protecting the already captured flags from the enemy. Back capping only needs 1 person on the flag. However, if that one person is being killed by the enemy, you're losing this flag and your offensive cannot continue until you recapture this lost flag.
 
 [Back to top](#content)
 
