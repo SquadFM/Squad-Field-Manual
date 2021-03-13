@@ -479,7 +479,7 @@ In the console type:
 - If the enemy tries to cap the hex at the same time as you, your team needs one more person than the enemy within the control point to cap it.
 - On initial spawn a few of these hexes will already be captured for both sides and will be connected to neutral hexes which only require one player to capture. Capturable hexes will be slightly less opaque and have a blue border with a friendly owned hex. Enemy hexes will also show this border and less opaqueness but instead are tinted red.
 - The Anchor Hex is the starting point of the team's capture chain. This hex has an anchor icon on it. Other hexes must be connected to the Anchor Hex in order to not be cut off. Capturing the enemies Anchor Hex will prevent the enemy team from taking new territory and contesting any hex. 
-- Enemy hexes take 45 seconds to neutralize, and neutral hexes take 40 seconds to capture.
+- Enemy hexes take 40 seconds to neutralize, and neutral hexes take 45 seconds to capture.
 - Capturing a hex unlocks all adjacent (bordering) hex zones for capture.
 - Bleed: 
 	- For every two hex zones captured beyond owning 60% of all hexes, the enemy will start bleeding 1 ticket per minute with a maximum of 5 tickets per minute (team must cap 10+ hexes or beyond 60% of all hexes). 
@@ -622,7 +622,8 @@ In the console type:
 - While speaking is helpful, even more important is following orders and playing as a squad.
 - There are plenty of squads without speaking. These are the squads where the SL is just a filler and isn't really a squad leader. They don't care if you can speak or not.
 - Be aware that not a lot of people read text chat a whole lot or quickly enough. Text chat can also be disabled in the UI, so some people won't see chat messages at all.
-- You could set up a soundboard to play the most common phrases (take a look at the [Callouts](#callouts) chapter).
+- You could set up a soundboard to play the most common phrases (take a look at the [Callouts](#callouts) chapter). You can download a Soundboard here (free software): https://soundux.rocks/
+
 
 [Back to top](#squad-field-manual)
 
