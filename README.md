@@ -7,10 +7,10 @@
 - When I first started to play Squad I was feeling overwhelmed. This game has a steep learning curve and I had no clue what to do during my first few games. The in-game training only teaches you so much. So I started this document to write down my learnings and those from other players.
 - I never planned to share this guide, but as it grew in size I realized that others might benefit from it as well.
 - This guide contains the collected wisdom of many experienced Squad players from various sources. Their contributions are often copy-pasted into this guide. If you find content in this guide that you wrote I want to say "Thank you" for sharing your wisdom on the Squad Wiki, Reddit, in various manuals and strategy guides, the old Squad forum (offline now), Steam, YouTube, and other sources. You can find a list of most sources under ([Sources and Resources](#sources-and-resources)).
-- If you want to say "hi" my Squad in-game name is Munster. Feel free to add me on Steam https://steamcommunity.com/id/Munster101/
+- If you want to say "hi" my Squad in-game name is Munster. [Add me on Steam](https://steamcommunity.com/id/Munster101/).
 - This guide is still a work in progress, but I am trying to be less of a perfectionist and just wanted to get it out there. 
-- Why is this guide on Github? I am not a fan of PDFs (pain to read on mobile) and rather have all information in a single text file. It's easier to search and you can copy-paste what you need. You can download this repo to your computer. If you'd like to contribute and add information to this guide, feel free to share your thoughts on Github or Reddit: https://old.reddit.com/r/joinsquad/comments/m2rzjj/squad_field_manual_available_now/
-- This guide was last updated on March 13, 2021.
+- Why is this guide on Github? I am not a fan of PDFs (pain to read on mobile) and rather have all information in a single text file. It's easier to search and you can copy-paste what you need. You can download this repo to your computer. If you'd like to contribute please share your thoughts on [Github](https://github.com/SquadFM/Squad-Field-Manual) or [Reddit](https://old.reddit.com/r/joinsquad/comments/m2rzjj/squad_field_manual_available_now/)
+- This guide was last updated on March 15, 2021.
 
 
 # NEW PLAYERS PLEASE READ
@@ -30,6 +30,11 @@ Before you join a server as a new player
     - [Backup Your Settings](#backup-your-settings)
     - [Protect Your Hearing](#protect-your-hearing)
     - [Show FPS, Find Hardware Bottlenecks](#show-fps-find-hardware-bottlenecks)
+    - [Fix Performance Issues](#fix-performance-issues)
+        - [Reset Settings](#reset-settings)
+        - [Sudden FPS Drops/Stuttering](#sudden-fps-dropsstuttering)
+        - [Clear Shader Cache](#clear-shader-cache)
+        - [Steam File Verification](#steam-file-verification)
     - [OBS Setup](#obs-setup)
 - [Game Mechanics](#game-mechanics)
     - [What's this game about?](#whats-this-game-about)
@@ -75,8 +80,8 @@ Before you join a server as a new player
     - [Automatic Rifleman](#automatic-rifleman)
     - [Grenadier](#grenadier)
     - [HAT and LAT](#hat-and-lat)
-        - [HAT](#hat)
-        - [LAT](#lat)
+        - [HAT Tactics](#hat-tactics)
+        - [LAT Tactics](#lat-tactics)
         - [Engaging The Enemy With AT](#engaging-the-enemy-with-at)
     - [Marksman](#marksman)
     - [Combat Engineer and Sapper](#combat-engineer-and-sapper)
@@ -138,7 +143,7 @@ Before you join a server as a new player
 - I am using Manjaro, but the process should be the same on all distros.
 
 - Go to Steam and download Squad.
-- Download Easy Anti Cheat from Valve's Github repo (this is Valve's official repo and you won't get banned playing under Linux): https://github.com/ValveSoftware/Proton/files/4839724/easyanticheat_wine_x64.tar.gz
+- Download Easy Anti Cheat from [Valve's Github repo](https://github.com/ValveSoftware/Proton/files/4839724/easyanticheat_wine_x64.tar.gz) - This is Valve's official repo and you won't get banned for playing under Linux).
 - Extract the files to: /home/username/.local/share/Steam/steamapps/compatdata/393380/pfx/drive_c/users/steamuser/Application Data/EasyAntiCheat/55/
 - Set the /55/ directory to read-only
 - Also, set the following /Temp/ directory to read-only: /home/username/.local/share/Steam/steamapps/compatdata/393380/pfx/drive_c/users/steamuser/Temp/
@@ -231,7 +236,7 @@ Before you join a server as a new player
 - Controls
     - Map - You will need the map A LOT. If you have a mouse with a thumb button this would be a good place to access the map. Or use TAB or any other key you can access without moving away from WASD too much.
     - Lean keys: use Q to lean right, E to lean left - makes it easier to strafe at the same time.
-    - For my other controls please see my keyboard and mouse binds doc in my Github repo: https://github.com/SquadFM/Squad-Field-Manual/blob/main/Squad%20Keybinds.pdf
+    - For my other controls please see my [Keyboard and Mouse Binds](https://github.com/SquadFM/Squad-Field-Manual/blob/main/Squad%20Keybinds.pdf)
 
 [Back to top](#content)
 
@@ -246,7 +251,7 @@ Before you join a server as a new player
     - GameUserSettings.ini
     - Input.ini
 - You can also record a video of your settings in-game using OBS - [OBS Setup](#obs-setup).
-- Some updates may change menu settings, graphic options, etc., and sometimes it is best to start with a clean slate. Press "Empty Cache" in the Game Settings to reset everything to defaults. This will delete all of your keybinds, settings, etc.
+
 
 [Back to top](#content)
 
@@ -280,12 +285,58 @@ In the console type:
 [Back to top](#content)
 
 
+## Fix Performance Issues
+
+- Performance issues can occur after Squad was updated.
+- The following tips can improve performance.
+
+
+### Reset Settings
+- Some updates may change menu settings, graphic options, etc., and sometimes it is best to start with a clean slate. Press "Empty Cache" in the Game Settings to reset everything to defaults. This will delete all of your keybinds, settings, etc.
+- Alternatively, you can reset all Squad settings manually by deleting everything in the following folder. (Make a backup of everything you're going to delete first):
+    - Under Linux: /home/username/.local/share/Steam/steamapps/compatdata/393380/pfx/drive_c/users/steamuser/Local Settings/Application Data/SquadGame/
+    - Under Windows: C:\Users\username\AppData\Local\Squad\
+
+
+### Sudden FPS Drops/Stuttering
+- If you experience sudden frame drops/stuttering (often after a round ends, but also sometimes during the game) type this into your console: HighResShot 1. If this doesn't bring improvement, increase the number by one (e.g. HighResShot 2, HighResShot 3, etc). Strangely, HighResShot 1, HighResShot 2, and HighResShot 4 fix this issue on my end. Whereas HighResShot 3 causes bad FPS drops. Your mileage may vary.
+- Every time you execute HighResShot, a screenshot is being saved into the folder below. If you set the "Screenshots" folder to read-only, you don't have to remember to delete these screenshots.
+    - Under Linux: /home/username/.local/share/Steam/steamapps/compatdata/393380/pfx/drive_c/users/steamuser/Local Settings/Application Data/SquadGame/Saved/Screenshots/
+    - Under Windows: C:\Users\username\AppData\Local\Squad\Saved\Screenshots\
+
+
+### Clear Shader Cache
+- After every Squad update or if you experience performance issues, clear your shader cache. Before doing so, exit Squad. 
+- Under Linux: 
+    - Delete everything in this folder: /home/username/.local/share/Steam/steamapps/shadercache/393380/
+    - You can also use a cronjob to do this automatically every night or week.
+    - There is also a way to disable Shader Pre-Caching in Steam under Settings > Shader Pre-Caching. You can test if turning these options off will enhance performance. 
+- Under Windows: 
+    - Open your Explorer, right­-click on the drive you have Windows installed.
+    - Click on Properties.
+    - Go to the General tab.
+    - Click Disk Cleanup.
+    - Mark the DirectX Shader Cache tickbox and confirm.
+- Under Windows, you can also clear the NVIDIA shader cache
+    - Go to your NVIDIA control panel > Manage 3D Settings > turn off Shader Cache and hit Apply.
+    - Reboot your PC.
+    - Go to %username%\AppData\Local\Temp\NVIDIA Corporation\NV_Cache and delete the contents of the folder (You can paste that address directly into a Windows address bar).
+    - Go back to your NVIDIA control panel > Manage 3D Settings > turn On Shader Cache and hit Apply.
+- Once you start Squad the game may stutter for a moment while the cache is being rebuilt, but this should only take a few seconds.
+
+
+### Steam File Verification
+- If you experience any performance issues, check the integrity of Squad's files.
+- In Steam go to Library > right-click on Squad > Settings > Local Files > Verify integrity of game files
+- This usually takes a few minutes.
+
+
 ## OBS Setup
 - If you don't want to record your games you can skip this chapter.
 - OBS (Open Broadcaster Software) is free software to record your gameplay. You can also use it to stream your games on various platforms.
 - It's not needed to play Squad but I find it helpful to record games to review my performance.
 - Share your Squad games and funny moments with the world on YouTube. We'd love to see them!
-- You can download OBS here (Windows/Linux): https://obsproject.com/
+- You can download OBS for Windows/Linux [here](https://obsproject.com/).
 
 [Back to top](#content)
 
@@ -325,7 +376,7 @@ In the console type:
     - [-10] Armor Hunters, APC, IFV
     - [-15] Main Battle Tanks
 
-- The highest ticket costs are game mode specific. Therefore, please check the ticket section for each game mode to get the full picture. Ticket values may change in future updates. https://squad.gamepedia.com/Game_Modes
+- The highest ticket costs are game mode specific. Therefore, please check the ticket section for each game mode to get the full picture. Ticket values may change in future updates. For further information, [check out the Squad Wiki](https://squad.gamepedia.com/Game_Modes) or [Recent Squad Updates](https://joinsquad.com/updates/).
 
 [Back to top](#content)
 
@@ -448,7 +499,7 @@ In the console type:
 - Every additional flag you own more than them, the bleed stacks.
 - So in a 6 flag match if you own all 6 flags and they own 0 the bleed is pretty intense. Matches end in only a few minutes.
 - Just keep in mind that a ticket loss every 15 seconds means the equivalent of losing a 9-person squad every 2 minutes 15 seconds. That's a squad spawning in and getting killed right away. If you only had 1 flag over them, it's 1 ticket every 30 seconds which is like a whole squad being wiped every 5 minutes. If you visualize ticket losses like that, you can understand why holding flags is so important. In addition to the bleed, capturing a point from the enemy gives you instantly 50 tickets and the enemy loses 20 tickets.
-- RAAS - Even though the next objectives seem to show up randomly, there is a site that can help to predict the next possible objective: https://squadlanes.com
+- RAAS - Even though the next objective seems to show up randomly, [Squadlanes.com](https://squadlanes.com) can help to predict the next possible objective(s).
 
 [Back to top](#content)
 
@@ -498,7 +549,7 @@ In the console type:
 # Before Joining A Game
 
 - If you don't have a mic, get one. This game is all about communication. Also, know that text chat can be disabled. People may not see what you write (or they don't focus on text chat since they're busy attacking the enemy).
-- Get a call sign that can be easily pronounced. It makes communication easier and it can help others to remember you more easily if you're interested in making friends. It's not super important, but it can help in situations where your SL or another friendly needs to address you quickly. Also, it can help with immersion ("CHARGER HIT THAT TANK AT 2-3-0" has a different ring to it, then "Ah man, wow dude, how, what, what's your name... XxxSniperxxX_HD? COME BACK HERE ASAP!"). You can search for "military call sign list" or check out this list here http://www.udxf.nl/MCL.pdf to get some inspiration.
+- Get a call sign that can be easily pronounced. It makes communication easier and it can help others to remember you more easily if you're interested in making friends. It's not super important, but it can help in situations where your SL or another friendly needs to address you quickly. Also, it can help with immersion ("CHARGER HIT THAT TANK AT 2-3-0" has a different ring to it, then "Ah man, wow dude, how, what, what's your name... XxxSniperxxX_HD? COME BACK HERE ASAP!"). You can search for "military call sign list" or check out [this PDF](http://www.udxf.nl/MCL.pdf) to get some inspiration.
 - Try teamwork. It will make for a much better experience for everyone.
 - The game has a learning curve but it's super rewarding once you're in the groove of things.
 - Squad is about playing your role within a team. Sometimes that means rolling in kills, Squad-score, and glory. Sometimes that means sitting on a hill for 30 minutes watching the world go by. Remember: it’s not all about you. The game is not about you.
@@ -522,9 +573,9 @@ In the console type:
 ## Steam Workshop Maps
 - Squad's Steam Workshop contains several training maps. Here are two maps that you might like.
 - Access the link below and subscribe to either map. Then restart Squad.
-- ERENEJ's Aim Training - https://steamcommunity.com/sharedfiles/filedetails/?id=2065975972&searchtext=training
+- [ERENEJ's Aim Training](https://steamcommunity.com/sharedfiles/filedetails/?id=2065975972&searchtext=training)
     - To play this map open the console and type AdminChangeLayer AimTrainingMod
-- Helicopter Training 2.0 - https://steamcommunity.com/sharedfiles/filedetails/?id=1904812886&searchtext=training+helicopter
+- [Helicopter Training 2.0](https://steamcommunity.com/sharedfiles/filedetails/?id=1904812886&searchtext=training+helicopter)
     - To play this map open the console and type AdminChangeLayer Heli
 
 [Back to top](#content)
@@ -622,7 +673,7 @@ In the console type:
 - While speaking is helpful, even more important is following orders and playing as a squad.
 - There are plenty of squads without speaking. These are the squads where the SL is just a filler and isn't really a Squad Leader. They don't care if you can speak or not.
 - Be aware that not a lot of people read text chat a whole lot or quickly enough. Text chat can also be disabled in the UI, so some people won't see chat messages at all.
-- You could set up a soundboard to play the most common phrases (take a look at the [Callouts](#callouts) chapter). You can download a Soundboard here (free software): https://soundux.rocks/
+- You could set up a soundboard to play the most common phrases (take a look at the [Callouts](#callouts) chapter). You can download the Soundux Soundboard [here](https://soundux.rocks/). It's free software for Windows and Linux.
 
 
 [Back to top](#content)
@@ -838,7 +889,7 @@ Fortunate Son - Creedence Clearwater Revival
 - You can use the map coordinate grid for callouts (e.g. "Tank in F-8").
 - Each grid has a smaller sub-grid. The smaller one consists of 9 squares and is called Keypad. It is read from 1 to 9 like the numerical keypad on your PC keyboard. The square in the lower left is 1, the square in the upper right is 9.
 - If you hover with your mouse over a grid you will see the actual position of your mouse. When you open the minimap by running you will see your player position on the left up corner.
-- If you want to see all maps and objectives go to https://squadmaps.com/
+- If you want to see all maps and objectives go to [SquadMaps.com}(https://squadmaps.com/).
 
 [Back to top](#content)
 
@@ -1099,7 +1150,7 @@ Fortunate Son - Creedence Clearwater Revival
 [Back to top](#content)
 
 
-### HAT
+### HAT Tactics
 - The Heavy Anti-Tank is the most effective anti-vehicle role in Squad, equipped with the most powerful and greatest number of rockets. Given the kit's greater firepower compared with LAT, each team is limited to just two Heavy Anti-Tank kits. The primary Heavy Anti-Tank kit is unlocked when a team reaches 15 players and the secondary kit is unlocked when a team reaches 20 players. Each squad requires a minimum of three players to claim each kit. One squad can claim both kits, although allowing two squads to claim a kit is generally preferred. The HAT role falls under the Specialist role type, which is limited to two per team.
 - Rockets specific to the HAT role include the M3 MAAWS 84mm Tandem rocket and 84mm High Explosive Anti-Tank rocket, (US Army), RPG-7 40mm RPG-7V2 Tandem Heavy Anti-Tank rocket (Russian Ground Forces, Irregular Militia, and Insurgents), and RPG-29 105mm Tandem Heavy Anti-Tank round (Irregular Militia, Insurgents).
 - The minimum arming distance of HAT rockets is 40 meters. This means your target must be further away or your rocket won’t explode. Heavy Anti-Tank players need to be able to visually know how far the arming distance is in-game to not waste a rocket by firing on an enemy vehicle that is too close. The RPG-29 has a greater arming distance, closer to 25 meters.
@@ -1113,7 +1164,7 @@ Fortunate Son - Creedence Clearwater Revival
 [Back to top](#content)
 
 
-### LAT
+### LAT Tactics
 - Although LAT is not as powerful as HAT in terms of anti-vehicle capabilities, it is still a crucial role. LAT is a much less restricted kit, offering eight total slots per team compared with just two Heavy Anti-Tank kits. Also, more LAT kits come with a rifle equipped with an optic, making them more effective at long-range engagements as a Rifleman.
 - Each faction offers two types of LAT kits; a primary and a secondary. Every squad is limited to one primary and one secondary kit, unlocked when a squad reaches three and six players respectively. Teams are restricted to four primary kits and four secondary kits total, unlocked when the team reaches six, twelve, eighteen, and twenty-four players total respectively. The Light Anti-Kit kit is considered a Fire Support role, which is restricted to three per squad.
 - The rockets used by LAT are the M72 LAW (US Army and British Army) 66 mm High Explosive Anti-Tank rocket, the RPG-26 (Russian Ground Forces) 83 mm High Explosive Anti-Tank rocket, and the RPG-7 (Russian Ground Forces, Irregular Militia, Insurgents) OG-7V Fragmentation rocket and PG-7V High Explosive Anti-Tank rocket. Please visit a faction's respective Wiki page for more information on specific kit load-outs. These rockets all deal High Explosive Anti-Tank type damage, whereas the rockets exclusive due to the Heavy Anti-Tank deal Heavy Anti-Tank type damage, which is calculated differently based on a vehicle's type and armor.
@@ -1280,9 +1331,9 @@ Let someone else drive your bike into the enemy radio or positions as they can s
     - Spotters, preferably multiple fireteam leaders.
     - Multiple fireteam leaders are very beneficial. If you put a spotter and mortar in each fireteam, the mortars can work independently. It takes lots of weight off your shoulders as the Squad Leader.
 - Make sure you're using a mortar calculator, you're not going to hit much without one. SquadMC is a great one, but you may want to check out some others.
-    - https://squadmc.ende.pro/
-    - https://squadmortar.xyz/
-    - https://mortar.sharkman.info/
+    - [SquadMC](https://squadmc.ende.pro/)
+    - [SquadMortar](https://squadmortar.xyz/)
+    - [Minimalistic Mortar Calculator](https://mortar.sharkman.info/)
 - Basic Firing
     - Mortars disperse by about 15-20 meters from where you aim.
     - This is not enough deviation unless you're shooting static objects.
@@ -1302,7 +1353,7 @@ Let someone else drive your bike into the enemy radio or positions as they can s
     - The best target of all is a HAB. Taking down an enemy HAB puts them in a very difficult position, so long as you keep firing. If your mortars can hit their HAB, you'll usually be able to kill it, so long as you have ammo. Even if enemies stay inside and rebuild it (which is very rare considering how fast HABs will fall to mortars) you'll still be killing everybody else who leaves it, bleeding their tickets. Only two things can stop you: They find your mortars, or you run out of ammo.
     - Killing enemy mortar crews with your mortar crew is kinda fun, too.
 - Complications
-    - Height Offset - One thing to consider with mortars is the height at which you are firing. If you're firing from the top of a mountain to a flat spot on the map, then you may end up overshooting. Calculators such as https://squadmc.ende.pro account for height differences, but you may want to stick to flat areas just in case.
+    - Height Offset - One thing to consider with mortars is the height at which you are firing. If you're firing from the top of a mountain to a flat spot on the map, then you may end up overshooting. Calculators such as [SquadMC](https://squadmc.ende.pro) account for height differences, but you may want to stick to flat areas just in case.
     - Degrees At Range - Say I'm shooting a mortar at 150 meters, then I aim right one more degree. There will be a slight change to where the mortar lands. However, if I fire at 1,000 meters and aim right one degree, the mortar will land significantly farther than before. This is something to keep in mind when you're adjusting fire and is a reason why you may want to use half degrees or quarter degrees.
 - Having a dedicated mortar team with experienced players that understand what they're doing, good drivers that can stick to the route and avoid enemy ambushes to keep the supplies flowing, and good intelligence to feed to other squads from a few guys with optics/AT roaming around behind enemy lines can turn close games into clear wins. These squads are great because they can get players who would otherwise be lone wolves on an important task that contributes directly to victory.
 - Always remember, there's going to be games where your mortars are just useless if your team can't get organized well enough to even use them and you keep getting gunned down trying to FO. You have to be willing to just say screw it, and just send your full squad into the objective when you need it.
@@ -1559,7 +1610,7 @@ The Squad Leader is a command and support role whose primary responsibility is t
 - Formation - you do not always want to be bunched up. Squad Leaders this is where checking your map is important. Always be aware of how your squad is positioned and formed and correct accordingly. I usually have my squad fan out a bit when we are sweeping. You don't want one RPG to take out your whole squad.
 - HELP OTHER SQUADS - You need to be at the ready if there's a squad that needs help. Even if you're moving to the next position you may need to fall back to help another squad out.
 - Be the teacher - If you have a new player to a MilSim or even FPS teach them. Don't just shun them and tell them to go do whatever. Be engaging and help them out. Give them tips, teach them how each role works and where they should be at all times. Make sure you give them the experience that keeps them playing and understand this isn't your average FPS. That you can't just lone wolf and that teamwork wins the game.
-- Make it fun, but maintain control - At the end of the day, you're playing a game. Play tactically and engage with all members of your squad. Include them and offer suggestions for their roles (AR take that building and take a Medic with ya, LAT feel free to go hunt that APC, etc). Talk with your squad, joke with your squad. If someone misses an important LAT shot, don't ridicule, perhaps they're new to the game. Embrace new players and offer help from yourself and other squadmates if they have questions. That being said, keep your squad on task. Continuously monitor what they're doing and if people are running off on their own without communicating to you (and you permitting) as to why turf them from the squad. Very few scenarios will call for a squad to split up, so have everyone stay relatively close.
+- Make it fun, but maintain control - At the end of the day, you're playing a game. Play tactically and engage with all members of your squad. Include them and offer suggestions for their roles ("AR take that building and take a Medic with you", "LAT feel free to go hunt that APC", etc). Talk with your squad, joke with your squad. If someone misses an important LAT shot, don't ridicule, perhaps they're new to the game. Embrace new players and offer help from yourself and other squadmates if they have questions. That being said, keep your squad on task. Continuously monitor what they're doing and if people are running off on their own without communicating to you (and you permitting) as to why turf them from the squad. Very few scenarios will call for a squad to split up, so have everyone stay relatively close.
 - Talk a lot, and realize that you (kinda) don't matter anymore. - Your main priority is utilizing your squad to its best ability. You absolutely must communicate constantly with your squad and other Squad Leaders. Be polite and follow server rules.
 - You will be looking at your map a lot, it's your best friend.
 
@@ -1691,7 +1742,7 @@ HAB location - needs some cover next to it (rotate with arrow keys to fit in tig
 
 
 ### Offensive Squad Tactics
-- Since this game bases its gameplay mechanics around real-world gunfight mechanics it’s unsurprising that some real-world gunfight tactics can be used against your foe with good effect. When using various formations it's important to consider the various needs of each formation. Terrain, dispersion, and concentration. You want to have as much dispersion as you can use without losing concentration. You don't want to be clumped up so that one grenade or full auto burst kills a bunch of your guys but you have to consolidate your guys so that you can overwhelm your opponents 1 or 2 at a time. To clarify, you want to fight them 5v2 then another 5v2 then kill the last guy. Not 5v5 in one big engagement. Check youtube for "Tactical Formations'' or check out https://youtu.be/MuL88_KYcrY
+- Since this game bases its gameplay mechanics around real-world gunfight mechanics it’s unsurprising that some real-world gunfight tactics can be used against your foe with good effect. When using various formations it's important to consider the various needs of each formation. Terrain, dispersion, and concentration. You want to have as much dispersion as you can use without losing concentration. You don't want to be clumped up so that one grenade or full auto burst kills a bunch of your guys but you have to consolidate your guys so that you can overwhelm your opponents 1 or 2 at a time. To clarify, you want to fight them 5v2 then another 5v2 then kill the last guy. Not 5v5 in one big engagement. 
 - LeapFrogging Formation - Split your squad into 2 fireteams. While team A moves towards the objective, team B covers team A. Once A stops (not too far away) they start to cover team B until team B overtakes team A and finds another good location to cover team A.
 - Momentum - I see a lot of squads stop every time they make contact. A lot of the time if you are trying to get to an objective to defend or capture it's best to bypass, or smoke and push through. The best SLs I had are always playing the objectives aggressively.
 - Flanking - One of the most effective, intuitive, and generally understood tactics in Squad is flanking. You should initiate a flanking move when an enemy squad reveals their location. This usually allows you and at least a few men the freedom of movement to execute a successful flank. However, it is highly beneficial to maintain the element of surprise! Tell your squad you are going in quiet and not to shoot unless they absolutely have to. Use a hill or building to conceal your advance and get as many guns pointing in the right direction and from the right place as possible before anyone shoots. This will maximize the effectiveness of the first volley and should be devastating to the enemy squad, allowing you to then push forward and take out their rally or FOB.
@@ -1703,9 +1754,9 @@ HAB location - needs some cover next to it (rotate with arrow keys to fit in tig
 
 
 ### Defensive Squad Tactics
-- So you're at a FOB or objective and you need to defend it. The most common thing I see in pub games is that the whole squad or a large portion of it stays physically ON the point or in the building they're defending. This is a mistake. You want to stop them from getting to the compound instead of letting them get to the compound and then trying to stop them from getting in the building. By all being in the same building you are limiting your observation of the surrounding area/enemy maneuvers and you make yourselves vulnerable to a possible frag through the window or door which usually ends badly. Yes, you need to keep a few guys on the point to (A) check on the status of the point (if it's being capped, etc) and (B) to obstruct and counter enemy movement through the capture area. For the rest of your guys, you want to tell them to pick a spot with good cover and a vision of the surrounding area. The next part is hard and requires reliable squad members but try and get your squadmates to pick a direction/alleyway/area to cover and take responsibility for. When done correctly this allows you to focus your observations better and cover any blind spots more effectively. Another way to do it is to have a few guys on point and have everyone else orbiting the position as a solid group. Search for "Conducting Defensive Operations'' or check this video https://www.youtube.com/watch?v=AiNqUgq1Wfc&feature=youtu.be
+- So you're at a FOB or objective and you need to defend it. The most common thing I see in pub games is that the whole squad or a large portion of it stays physically ON the point or in the building they're defending. This is a mistake. You want to stop them from getting to the compound instead of letting them get to the compound and then trying to stop them from getting in the building. By all being in the same building you are limiting your observation of the surrounding area/enemy maneuvers and you make yourselves vulnerable to a possible frag through the window or door which usually ends badly. Yes, you need to keep a few guys on the point to (A) check on the status of the point (if it's being capped, etc) and (B) to obstruct and counter enemy movement through the capture area. For the rest of your guys, you want to tell them to pick a spot with good cover and a vision of the surrounding area. The next part is hard and requires reliable squad members but try and get your squadmates to pick a direction/alleyway/area to cover and take responsibility for. When done correctly this allows you to focus your observations better and cover any blind spots more effectively. Another way to do it is to have a few guys on point and have everyone else orbiting the position as a solid group.
     - It is often helpful to designate a couple of guys for rear security, I find that Medics are best suited for this role as they tend to then stay closer to the squad but generally out of harm's way.
-    - Ambushes - If you know the enemy is coming towards you, divide into 2 teams, one team spreads out in front will be the team that engages the enemy when they approach. The 2nd team waits in the flank for contact and moves in to engage the flanks of the enemy when contact on the 1st team is made. This is called an L-shaped ambush. A good video that covers this can be seen here https://www.youtube.com/watch?v=BpYbT4orFfs&
+    - Ambushes - If you know the enemy is coming towards you, divide into 2 teams, one team spreads out in front will be the team that engages the enemy when they approach. The 2nd team waits in the flank for contact and moves in to engage the flanks of the enemy when contact on the 1st team is made. This is called an L-shaped ambush.
 - It's important to defend positions as well as attack. If the enemy takes your defense point you can no longer capture the point in front of it and this can throw a major spanner in the works for your team. If this happens, get back to the next defense point immediately, or else risk chasing the other team all the way back to your base which is no fun!
 
 [Back to top](#content)
@@ -1824,6 +1875,7 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 * AH - Attack Helicopter
 * AOR - Area of responsibility
 * APC - Armoured Personnel Carrier - Small cannon/HMG, fast, on wheels. Has usually enough space inside for crew + one full squad.
+* APFSDS - Armour-piercing fin-stabilized discarding sabot, long dart penetrator, or simply dart ammunition, is a type of kinetic energy penetrator ammunition used to attack modern vehicle armour (e.g. main battle tanks)
 * AR - Automatic Rifleman - one man can carry it, not as heavy as an LMG, think SAW by the US forces
 * AR - Assault Rifle
 * Area is hot - Can be replaced with a specific area on the map. A section of the map is filled with enemies; friendlies are most likely engaged with the enemy and an intense firefight is ensuing.
@@ -1831,6 +1883,7 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 * Asked as a Command - Affirm my last order in which you would repeat the last order you got from your SL to your SL
 * As you were - Return to your previous task or posture
 * AT - Anti-Tank
+* ATGM - Anti-tank guided missile
 * AWOL - Absent Without Official Leave; leaving post without permission
 * Azimuth - The degree to which the mortar is facing. If thinking North as 0 degrees, and the enemy is direct South of the mortar emplacement, you would point the mortar 180 degrees from North with an azimuth of 180 degrees.
 * Azimuth Check - Ensuring that you are on the correct path or that the task is being done according to procedure
@@ -1927,6 +1980,7 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 * Fitty - Slang for an M2 .50 caliber machine gun.
 * Flag - Control Point
 * FM - Field Manual
+* FNG - Fucking New Guy, refers to newcomers
 * FO - Forward Observer. Someone who can see the mortar impacts and make adjustments to their impact.
 * FOB - Forward Operating Base - the entire radius around the radio, within assets can be placed (HABS, mortars, vehicle repair stations, etc)
 * FOV - Field of view
@@ -2016,7 +2070,7 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 
 ## L
 * LAT - Light Anti-Tank
-* LAV - LAV-25 (Light Armored Vehicle), an eight-wheeled amphibious armored reconnaissance vehicle used by US Army/Marines
+* LAV - Light Armored Vehicle, an eight-wheeled amphibious armored reconnaissance vehicle
 * LAW - Light Anti-Tank Weapon; M72-LAW, US-specific LAT weapon
 * Leapfrogging - One fireteam advances while the other fireteam covers them
 * LEL - Laughing extra loud, Sarcastic lol
@@ -2385,43 +2439,43 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 # Sources and Resources
 
 - I tried to list as many sources as possible. 
-- I'd like to encourage you to read the Squad Wiki for more detailed information on various topics: https://squad.gamepedia.com
+- I'd like to encourage you to read the [Squad Wiki](https://squad.gamepedia.com) for more detailed information on various topics.
 - Since Squad's predecessor Project Reality is a Battlefield 2 mod, you can also find information in Battlefield-related forums.
 - Watch YouTube videos. It's great to see experienced Squad players in action.
 
 
 ## Websites
-- Battlefield Wiki - https://battlefield.fandom.com
-- Cheesy Tactical Guide - https://steamcommunity.com/sharedfiles/filedetails/?id=571391558, https://drive.google.com/file/d/0B6sPT1ZeeQA3aGx3YWlHblFQVnM/edit and https://drive.google.com/file/d/0B_iNCOG63HtsSF9oN2NTOXVJNHc/view
-- Mortar Calculator - https://squadmc.ende.pro/
-- Mortar Calculator - https://squadmortar.xyz/
-- Mortar Calculator - https://mortar.sharkman.info/
-- Mortar Guide - https://steamcommunity.com/sharedfiles/filedetails/?id=1224460390
-- RAAS Lane Prediction - https://squadlanes.com
-- SgtHerhi's "How Not To Suck At" guides - example: https://old.reddit.com/r/joinsquad/comments/7f08ol/how_to_not_suck_at_offense/
-- Squad Forum - https://web.archive.org/web/20200224212716/http://forums.joinsquad.com
-- Squad Lingo - https://steamcommunity.com/sharedfiles/filedetails/?id=1194778443
-- Squad Maps - https://squadmaps.com/
-- Squad On Linux - https://www.protondb.com/app/393380
-- Squad Server Rules - https://squad.projectawesome.com/serverRules
-- Squad Sub-Reddit - https://old.reddit.com/r/joinsquad/
-- Squad Wiki - https://squad.gamepedia.com
-- Usgu's Squad Manual (Nov 2015, http://cdn.akamai.steamstatic.com/steam/apps/393380/manuals/Squad_Alpha-Manual_1_2_0.pdf?t=1448234414)
-- Usgu's Squad Manual (Feb 2016, https://steamcdn-a.akamaihd.net/steam/apps/393380/manuals/Squad_EA-Manual_1_1.pdf?t=1527101610)
+- [Battlefield Wiki](https://battlefield.fandom.com)
+- [Cheesy Tactical Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=571391558), [and here](https://drive.google.com/file/d/0B6sPT1ZeeQA3aGx3YWlHblFQVnM/edit), [and here](https://drive.google.com/file/d/0B_iNCOG63HtsSF9oN2NTOXVJNHc/view)
+- [SquadMC](https://squadmc.ende.pro/)
+- [SquadMortar](https://squadmortar.xyz/)
+- [Minimalistic Mortar Calculator](https://mortar.sharkman.info/)
+- [Mortar Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=1224460390)
+- [Squadlanes.com](https://squadlanes.com)
+- [SgtHerhi's "How Not To Suck At ..." guides](https://old.reddit.com/r/joinsquad/comments/7f08ol/how_to_not_suck_at_offense/)
+- [Squad Forum](https://web.archive.org/web/20200224212716/http://forums.joinsquad.com)
+- [Squad Lingo](https://steamcommunity.com/sharedfiles/filedetails/?id=1194778443)
+- [Squad Maps](https://squadmaps.com/)
+- [Squad On Linux](https://www.protondb.com/app/393380)
+- [Squad Server Rules](https://squad.projectawesome.com/serverRules)
+- [Squad Sub-Reddit](https://old.reddit.com/r/joinsquad/)
+- [Squad Wiki](https://squad.gamepedia.com)
+- [Usgu's Squad Manual, Nov 2015](http://cdn.akamai.steamstatic.com/steam/apps/393380/manuals/Squad_Alpha-Manual_1_2_0.pdf?t=1448234414)
+- [Usgu's Squad Manual, Feb 2016](https://steamcdn-a.akamaihd.net/steam/apps/393380/manuals/Squad_EA-Manual_1_1.pdf?t=1527101610)
 
 
 ## YouTube Channels
 - There are a lot of great videos online to learn more about every aspect of Squad.
 - Search for "squad new player guide", "squad sl guide", "squad tank guide", etc.
 - Here are a few YouTube channels that you might like (in alphabetical order):
-    - Bastion Black Performance (This channel contains real-life small unit tactics. It's not Squad specific, but still interesting.) - https://www.youtube.com/channel/UCHuwc9VESIqSNQzkCwVePdQ/playlists
-    - Captain - https://www.youtube.com/c/BHMCaptain/playlists
-    - Cwarfighter - https://www.youtube.com/channel/UCVqaQzElqtR_0A5oXk0uzBw/playlists
-    - Gorlami14 - https://www.youtube.com/c/Gorlami14/playlists
-    - Karmakut - https://www.youtube.com/c/karmakut/playlists
-    - MoiDawg - https://www.youtube.com/c/MoiDawg/playlists
-    - MrAtomicDuck - https://www.youtube.com/user/MrAtomicDuck/playlists
-    - Nano - https://www.youtube.com/c/Nanoytgaming/playlists
+    - [Bastion Black Performance](https://www.youtube.com/channel/UCHuwc9VESIqSNQzkCwVePdQ/playlists) (This channel contains real-life small unit tactics. It's not Squad specific, but still interesting.)
+    - [Captain](https://www.youtube.com/c/BHMCaptain/playlists)
+    - [Cwarfighter](https://www.youtube.com/channel/UCVqaQzElqtR_0A5oXk0uzBw/playlists)
+    - [Gorlami14](https://www.youtube.com/c/Gorlami14/playlists)
+    - [Karmakut](https://www.youtube.com/c/karmakut/playlists)
+    - [MoiDawg](https://www.youtube.com/c/MoiDawg/playlists)
+    - [MrAtomicDuck](https://www.youtube.com/user/MrAtomicDuck/playlists)
+    - [Nano](https://www.youtube.com/c/Nanoytgaming/playlists)
 
 [Back to top](#content)
 
