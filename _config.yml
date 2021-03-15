@@ -14,3 +14,4 @@ include:
   - PULL_REQUEST_TEMPLATE.md
 
 theme: jekyll-theme-midnight
+show_downloads: false
