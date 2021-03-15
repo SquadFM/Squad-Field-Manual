@@ -13,5 +13,5 @@ include:
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
 
-theme: jekyll-theme-tactile
+theme: jekyll-theme-primer
 show_downloads: false
