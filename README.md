@@ -143,7 +143,7 @@ Before you join a server as a new player
 - I am using Manjaro, but the process should be the same on all distros.
 
 - Go to Steam and download Squad.
-- Download Easy Anti Cheat from [Valve's Github repo](https://github.com/ValveSoftware/Proton/files/4839724/easyanticheat_wine_x64.tar.gz) - This is Valve's official repo and you won't get banned for playing under Linux).
+- Download Easy Anti Cheat from [Valve's Github repo](https://github.com/ValveSoftware/Proton/files/4839724/easyanticheat_wine_x64.tar.gz) - This is Valve's official repo and you won't get banned for playing under Linux.
 - Extract the files to: /home/username/.local/share/Steam/steamapps/compatdata/393380/pfx/drive_c/users/steamuser/Application Data/EasyAntiCheat/55/
 - Set the /55/ directory to read-only
 - Also, set the following /Temp/ directory to read-only: /home/username/.local/share/Steam/steamapps/compatdata/393380/pfx/drive_c/users/steamuser/Temp/
@@ -297,12 +297,17 @@ In the console type:
     - Under Linux: /home/username/.local/share/Steam/steamapps/compatdata/393380/pfx/drive_c/users/steamuser/Local Settings/Application Data/SquadGame/
     - Under Windows: C:\Users\username\AppData\Local\Squad\
 
+[Back to top](#content)
+
 
 ### Sudden FPS Drops/Stuttering
-- If you experience sudden frame drops/stuttering (often after a round ends, but also sometimes during the game) type this into your console: HighResShot 1. If this doesn't bring improvement, increase the number by one (e.g. HighResShot 2, HighResShot 3, etc). Strangely, HighResShot 1, HighResShot 2, and HighResShot 4 fix this issue on my end. Whereas HighResShot 3 causes bad FPS drops. Your mileage may vary.
+- If you get bad framerate after loading into a map or changing graphics settings, try opening the console and typing in HighResShot 1. This command takes screenshots at a high resolution, which apparently causes some sort of a soft graphical reload that can solve the performance issue.
+- If this doesn't bring improvement, increase the number by one (e.g. HighResShot 2, HighResShot 3, etc). Strangely, HighResShot 1, HighResShot 2, and HighResShot 4 fix this issue on my end. Whereas HighResShot 3 causes bad FPS drops. Your mileage may vary.
 - Every time you execute HighResShot, a screenshot is being saved into the folder below. If you set the "Screenshots" folder to read-only, you don't have to remember to delete these screenshots.
     - Under Linux: /home/username/.local/share/Steam/steamapps/compatdata/393380/pfx/drive_c/users/steamuser/Local Settings/Application Data/SquadGame/Saved/Screenshots/
     - Under Windows: C:\Users\username\AppData\Local\Squad\Saved\Screenshots\
+
+[Back to top](#content)
 
 
 ### Clear Shader Cache
@@ -324,11 +329,15 @@ In the console type:
     - Go back to your NVIDIA control panel > Manage 3D Settings > turn On Shader Cache and hit Apply.
 - Once you start Squad the game may stutter for a moment while the cache is being rebuilt, but this should only take a few seconds.
 
+[Back to top](#content)
+
 
 ### Steam File Verification
 - If you experience any performance issues, check the integrity of Squad's files.
 - In Steam go to Library > right-click on Squad > Settings > Local Files > Verify integrity of game files
 - This usually takes a few minutes.
+
+[Back to top](#content)
 
 
 ## OBS Setup
@@ -2466,7 +2475,7 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 
 ## YouTube Channels
 - There are a lot of great videos online to learn more about every aspect of Squad.
-- Search for "squad new player guide", "squad sl guide", "squad tank guide", etc.
+- Search for "squad new player guide", "squad sl guide", "squad tank guide", etc. on YouTube to find introductionary videos.
 - Here are a few YouTube channels that you might like (in alphabetical order):
     - [Bastion Black Performance](https://www.youtube.com/channel/UCHuwc9VESIqSNQzkCwVePdQ/playlists) (This channel contains real-life small unit tactics. It's not Squad specific, but still interesting.)
     - [Captain](https://www.youtube.com/c/BHMCaptain/playlists)
