@@ -1,16 +1,17 @@
 # SQUAD FIELD MANUAL
 ## Tactics, Techniques, and Procedures
 ### This field manual contains detailed information and how-tos for procedures important to soldiers serving in the field.
+#### Bookmark This Page: [SquadFM.org](https://SquadFM.org/)
 
-- If you're a new player WELCOME TO SQUAD! We're glad that you're here! 
-- If you're a vet THANK YOU FOR YOUR SERVICE and for making this a great game.
-- When I first started to play Squad I was feeling overwhelmed. This game has a steep learning curve and I had no clue what to do during my first few games. The in-game training only teaches you so much. So I started this document to write down my learnings and those from other players.
-- I never planned to share this guide, but as it grew in size I realized that others might benefit from it as well.
+- - - - - - - - - - - - - - -
+
+- If you're a new player **WELCOME TO SQUAD!** We're glad that you're here! 
+- If you're a vet **THANK YOU FOR YOUR SERVICE** and for making this a great game.
 - This guide contains the collected wisdom of many experienced Squad players from various sources. Their contributions are often copy-pasted into this guide. If you find content in this guide that you wrote I want to say "Thank you" for sharing your wisdom on the Squad Wiki, Reddit, in various manuals and strategy guides, the old Squad forum (offline now), Steam, YouTube, and other sources. You can find a list of most sources under ([Sources and Resources](#sources-and-resources)).
+- If you'd like to contribute please share your thoughts on [Github](https://github.com/SquadFM/Squad-Field-Manual) or [Reddit](https://old.reddit.com/r/joinsquad/comments/m2rzjj/squad_field_manual_available_now/)
 - If you want to say "hi" my Squad in-game name is Munster. [Add me on Steam](https://steamcommunity.com/id/Munster101/).
-- This guide is still a work in progress, but I am trying to be less of a perfectionist and just wanted to get it out there. 
-- Why is this guide on Github? I am not a fan of PDFs (pain to read on mobile) and rather have all information in a single text file. It's easier to search and you can copy-paste what you need. You can download this repo to your computer. If you'd like to contribute please share your thoughts on [Github](https://github.com/SquadFM/Squad-Field-Manual) or [Reddit](https://old.reddit.com/r/joinsquad/comments/m2rzjj/squad_field_manual_available_now/)
 - This guide was last updated on March 15, 2021.
+>
 
 
 # NEW PLAYERS PLEASE READ
@@ -129,6 +130,7 @@ Before you join a server as a new player
 - [Sources and Resources](#sources-and-resources)
     - [Websites](#websites)
     - [YouTube Channels](#youtube-channels)
+- [About](#about)
 
 [Back to top](#content)
 
@@ -868,6 +870,7 @@ Fortunate Son - Creedence Clearwater Revival
 - Fireteam Leads can also place fortification structures.
 - For each FOB you will most likely build a HAB and an ammo box. The radio, as mentioned above, does not need to be built.
 - You can help other squadmates to build a structure. More shovels build faster.
+- Make sure you're standing OUTSIDE the deployable or your team mates will bury inside it. You will be alive, but you won't be able to go anywhere. 
 - If you see enemy structures you can remove them with your shovel. Approach the structure and use your right mouse button.
 
 [Back to top](#content)
@@ -2146,6 +2149,7 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 
 ## P
 * Peek - The act of checking a doorway/choke where you're in plain sight of the other team. Often used in a cautionary way, it's how players get sniped/killed before a team fight even starts. (Ex. "Don’t peek", "Stop peeking" and "No peek")
+* Pen - Penetration of anti-tank ammunition
 * Pick - The act of achieving a quick kill
 * PIC - Pilot in Command
 * PDW - Personal Defense Weapon
@@ -2182,6 +2186,7 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 * Rally - A mobile spawn point that the SL can drop.
 * Recon - Reconnaissance - The observation of a region to locate the enemy or determine possible strategic features.
 * Recon Element - Reconnaissance Structure. Technically you can recon from anywhere, most likely from a high vantage point, like a cliff, to locate the enemy, but sometimes you might be scouting out the area via a structure. This structure can be very generalized - a house, tower, small bunker, the fourth floor of an apartment, etc.
+* Reee - Reee is a meme commonly used by Pepe the Frog fans to express intense rage and/or intense frustration.
 * Rekt - get rekt - another way of saying get wrecked
 * Reloading - Replenishing a new magazine to the chamber
 * Rep - Repair
@@ -2489,7 +2494,13 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 [Back to top](#content)
 
 
-# The End
+************************************************************************
+# About
+
+- When I first started to play Squad I was feeling overwhelmed. This game has a steep learning curve and I had no clue what to do during my first few games. The in-game training only teaches you so much. So I started this document to write down my learnings and those from other players. I never planned to share this guide, but as it grew in size I realized that others might benefit from it as well.
+- This guide is still a work in progress, but I am trying to be less of a perfectionist and just wanted to get it out there. I hope you have fun reading it. See you in Squad!
+
+
 
 ```
      .--._____,
