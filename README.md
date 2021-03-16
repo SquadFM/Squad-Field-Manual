@@ -6,12 +6,11 @@
 - - - - - - - - - - - - - - -
 
 - If you're a new player **WELCOME TO SQUAD!** We're glad that you're here! 
-- If you're a vet **THANK YOU FOR YOUR SERVICE** and for making this a great game.
+- If you're a vet **THANK YOU FOR YOUR SERVICE** and for making Squad a great game.
 - This guide contains the collected wisdom of many experienced Squad players from various sources. Their contributions are often copy-pasted into this guide. If you find content in this guide that you wrote I want to say "Thank you" for sharing your wisdom on the Squad Wiki, Reddit, in various manuals and strategy guides, the old Squad forum (offline now), Steam, YouTube, and other sources. You can find a list of most sources under ([Sources and Resources](#sources-and-resources)).
-- If you'd like to contribute please share your thoughts on [Github](https://github.com/SquadFM/Squad-Field-Manual) or [Reddit](https://old.reddit.com/r/joinsquad/comments/m2rzjj/squad_field_manual_available_now/)
+- You can contribute to this guide on [Github](https://github.com/SquadFM/Squad-Field-Manual) or [Reddit](https://old.reddit.com/r/joinsquad/comments/m2rzjj/squad_field_manual_available_now/)
 - If you want to say "hi" my Squad in-game name is Munster. [Add me on Steam](https://steamcommunity.com/id/Munster101/).
 - This guide was last updated on March 15, 2021.
->
 
 
 # NEW PLAYERS PLEASE READ
@@ -2457,6 +2456,8 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 - Since Squad's predecessor Project Reality is a Battlefield 2 mod, you can also find information in Battlefield-related forums.
 - Watch YouTube videos. It's great to see experienced Squad players in action.
 
+[Back to top](#content)
+
 
 ## Websites
 - [Battlefield Wiki](https://battlefield.fandom.com)
@@ -2476,6 +2477,8 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 - [Squad Wiki](https://squad.gamepedia.com)
 - [Usgu's Squad Manual, Nov 2015](http://cdn.akamai.steamstatic.com/steam/apps/393380/manuals/Squad_Alpha-Manual_1_2_0.pdf?t=1448234414)
 - [Usgu's Squad Manual, Feb 2016](https://steamcdn-a.akamaihd.net/steam/apps/393380/manuals/Squad_EA-Manual_1_1.pdf?t=1527101610)
+
+[Back to top](#content)
 
 
 ## YouTube Channels
@@ -2509,3 +2512,4 @@ See you in Squad!
  (O_o_o_o_o_O) Munster, 2021
 ```
 
+[Back to top](#content)
