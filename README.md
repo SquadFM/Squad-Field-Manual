@@ -2500,8 +2500,7 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 - When I first started playing Squad I was feeling overwhelmed. This game has a steep learning curve and I had no clue what to do during my first few games. The in-game training only teaches you so much. So I started this document to write down my learnings and those from other players. I never planned to share this guide, but as it grew in size I realized that others might benefit from it as well.
 - This guide is still a work in progress, but I am trying to be less of a perfectionist and just wanted to get it out there. I hope you have fun reading it. 
 
-See you in Squad!
-
+See you in Squad! __Munster, OUT.__
 
 
 ```
