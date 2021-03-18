@@ -1460,7 +1460,9 @@ Let someone else drive your bike into the enemy radio or positions as they can s
 - Call enemy vehicles out via squad voice comm. If you're SL relay callouts to other SLs and the Commander.
 - If you're an SL/FTL mark the vehicle on the map for everyone to see.
 
-How to read the information below: If you see a vic that looks somewhat like a tank (since it has the hull of a tank), check if it has wheels or tracks. If it has wheels, check how many wheels it has on its side (2 or 4). If it has 2 wheels it’s most likely an APC. If it has 4 wheels, can you determine if it has a .50 cal or 30mm gun? If it has a 30mm gun it’s most likely an IFV. Also, if it has tracks, is the gun longer or shorter than the hull? If its gun is shorter than its hull it could be an IFV or an APC. If in doubt rather say IFV than APC since an IFV poses a bigger threat and usually has stronger armor. Better to be cautious and call out a stronger/better-armed vehicle class, so your SL/Commander can respond appropriately. 
+How to read the information below: If you see a vic that looks somewhat like a tank (since it has the hull of a tank), check if it has wheels or tracks. If it has wheels, check how many wheels it has on its side (2 or 4). If it has 2 wheels it’s most likely an APC. If it has 4 wheels, can you determine if it has a .50 cal or 30mm gun? If it has a 30mm gun it’s most likely an IFV. 
+Also, if it has tracks, is the gun longer or shorter than the hull? If its gun is shorter than its hull it could be an IFV or an APC. 
+If in doubt rather say IFV than APC since an IFV poses a bigger threat and usually has stronger armor. Better to be cautious and call out a stronger/better-armed vehicle class, so your SL/Commander can respond appropriately. 
 
 - What you see = what it most likely is (and what you should call out)
 - Tank (does it have tracks or wheels; if it has wheels, how many per side?)
