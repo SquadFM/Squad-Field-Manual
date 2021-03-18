@@ -10,7 +10,7 @@
 - This guide contains the collected wisdom of many experienced Squad players from various sources. Their contributions are often copy-pasted into this guide. If you find content in this guide that you wrote I want to say "Thank you" for sharing your wisdom on the Squad Wiki, Reddit, in various manuals and strategy guides, the old Squad forum (offline now), Steam, YouTube, and other sources. You can find a list of most sources under ([Sources and Resources](#sources-and-resources)).
 - You can contribute to this guide on [Github](https://github.com/SquadFM/Squad-Field-Manual) or [Reddit](https://old.reddit.com/r/joinsquad/comments/m2rzjj/squad_field_manual_available_now/)
 - If you want to say "hi" my Squad in-game name is Munster. [Add me on Steam](https://steamcommunity.com/id/Munster101/).
-- This guide was last updated on March 15, 2021.
+- This guide was last updated on March 18, 2021.
 
 
 # NEW PLAYERS PLEASE READ
@@ -97,7 +97,9 @@ Before you join a server as a new player
     - [Vehicle Basics](#vehicle-basics)
     - [Training](#training)
     - [Moving Around](#moving-around)
+    - [How To Identify A Vehicle](#how-to-identify-a-vehicle)
     - [Engaging The Enemy](#engaging-the-enemy)
+    - [How to Destroy/Disable A Vehicle](#how-to-destroydisable-a-vehicle)
     - [Damage and Repair System](#damage-and-repair-system)
 - [Helicopter](#helicopter)
 - [Squad Leading](#squad-leading)
@@ -246,7 +248,7 @@ Before you join a server as a new player
 - Backup your game settings (updates can reset your settings)
 - Under Linux go to: /home/username/.local/share/Steam/steamapps/compatdata/393380/pfx/drive_c/users/steamuser/Local Settings/Application Data/SquadGame/Saved/Config/WindowsNoEditor/
 - Under Windows go to either directory:
-    - C:\Users[username]\AppData\Local\Squad\Saved\Config\WindowsNoEditor
+    - C:\Users\username\AppData\Local\Squad\Saved\Config\WindowsNoEditor
     - %LOCALAPPDATA%\Squad\Saved\Config\WindowsNoEditor
 - Backup the following files:
     - GameUserSettings.ini
@@ -265,8 +267,8 @@ Before you join a server as a new player
 - Linux Audio Compressor: PulseEffects, PulseEffects-Legacy
     - Attack: 0ms
     - Release: 100ms
-    - Threshold: -45db (if you reduce this towards 0db (e.g. -35db) loud noises will be louder)
-    - Ratio: 20
+    - Threshold: -31db (if you reduce this towards 0db (e.g. -12db) loud noises will be louder)
+    - Ratio: 6
     - Knee: 0db
     - Makeup: 0db
 - Windows Audio Compressor: VoiceMeeter Banana (search for audio compressor windows)
@@ -289,7 +291,7 @@ In the console type:
 ## Fix Performance Issues
 
 - Performance issues can occur after Squad was updated.
-- The following tips can improve performance.
+- The following tips can help to improve performance.
 
 
 ### Reset Settings
@@ -1402,13 +1404,14 @@ Let someone else drive your bike into the enemy radio or positions as they can s
 - APC: Wheeled with .50 cal (Armored Personnel Carrier). APCs are usually wheeled, some have tracks, but they have a smaller gun than other vics. Medium armored with armament that can pierce other APCs and other vehicles with lower armament ratings; can carry a squad of men; includes Stryker with CROW, BTR-80, and most MT-LB variants. Have 600 ammo for resupply.
 - AT vehicle: Techie/MRAP w/ ATGMs (Anti-Tank Guided Missile)
 - Helicopter (Helo) - a flying machine used for resupply, FOB creation, and troop transport. Can also do recon or provide light CAS, but weak in terms of armor and armament. More on helicopters in the next chapter: [Helicopter](#helicopter)
-- IFV: Tracked or wheeled with canon above .50 cal (Infantry Fighting Vehicle). The Russians have a BTR IFV (wheeled) and a BMP IFV (tracked) (Russian Armored Transporter). IFVs are usually tracked, with a lot of good offensive options. Medium to high armor with armament that can pierce other IFVs and other vehicles with lower armament ratings; some have HAT capabilities with ATGM systems (Anti-Tank Guided Missile); include Bradley, MT-LB with 30mm, and BTR-82A. The difference between APCs and IFVs is a little bit of a gray area since IFVs are technically a subclass of APCs.
+- IFV: Tracked or wheeled with canon above .50 cal (Infantry Fighting Vehicle). The Russians have a BTR IFV (wheeled) and a BMP IFV (tracked) (Russian Armored Transporter). IFVs are usually tracked, with a lot of good offensive options. Medium to high armor with armament that can pierce other IFVs and other vehicles with lower armament ratings; some have HAT capabilities with ATGM systems (Anti-Tank Guided Missile); include Bradley, MT-LB with 30mm, and BTR-82A. The difference between APCs and IFVs is a little bit of a gray area. Both are a subclass of AFVs and the APC usually has a smaller .50 cal gun, whereas an IFV has a 30mm gun.
 - Logistics Truck - an open-roofed truck with supplies in the back; includes the Ural and M939 variants that can hold 10 people and 3000 supplies.
 - MBT: Tracked with one big fat gun (Main Battle Tank). Heavily armored fighting vehicles that carry heavy armaments able to pierce other MBTs and other vehicles with lower armament ratings; sacrifice men capacity for armor and armament; include the M1 Abrams and T-72 B3.
 - MotorBike - fast and agile bike that can glitch out sometimes and get you killed; holds 2 people
 - Scouts are wheeled vehicles with a small gun
-- Techie/MRAP: Four-wheeled with .50 cal or 7.62mm, fast and lightly armored (Mine-Resistant Ambush Protected). Have 150 ammo for resupply.
-- Technical Logistics - a small truck that carries supplies; holds 5 men and 1400 supplies.
+- MRAP: Four-wheeled with .50 cal or 7.62mm, fast and lightly armored (Mine-Resistant Ambush Protected). Have 150 ammo for resupply.
+- Armed Technical - a small pickup truck with a gun on its load bed. Some variants have basic armor.
+- Logistics Technical - a small truck that carries supplies; holds 5 men and 1400 supplies.
 - Transport Technical - a small truck that can carry a lot of men; includes the Transport Technical that holds 8 people. Can also carry a small supply of ammo for resupply.
 - Transport Truck - an open-roofed truck that can carry a lot of men (compared to the other vehicles); includes Ural and M939 variants that can hold 18 people. Also carries a bit of ammo for resupply.
 
@@ -1423,7 +1426,7 @@ Let someone else drive your bike into the enemy radio or positions as they can s
 [Back to top](#content)
 
 
-# Training
+## Training
 - In Jensen's Range there is a vehicle hitbox reference table next to the line of vehicle tents. Use this to see where vehicles can be damaged. Each vehicle has unique armor zones and weak zones.
 - Practice/play all roles within a tank, also practice different tanks. If all you want is to be a gunner, you might not understand what the other crew members need to be doing and it might lead to frustration and defeat. Try to find a group/clan to play together often, it will increase your effectiveness by far.
     - Both T-72s are very slow when reversing, the cannon round goes off a bit to the right and its auto-reload is slower than the manual reloads of the Abrams, for example, but its low profile, it only requires a crew of 3. The top gunner is remote and it's quite fast moving forward (for a tank, that is).
@@ -1448,6 +1451,40 @@ Let someone else drive your bike into the enemy radio or positions as they can s
 [Back to top](#content)
 
 
+## How To Identify A Vehicle
+- Make sure you properly identify nearby vehicles. Good callouts will help your team to respond better.
+- Anything 30mm and up is considered an IFV, while anything below (e.g. .50 cal) is considered an APC. Most of the time at least.
+- Vehicle sounds are pretty distinctive in Squad. Learn to recognize as many vehicles by sound as possible.
+- A lot of people see a vehicle and simply shout "BTR" only for an MT-LB, or a Stryker to show up. Use the information below to determine what you're looking at.
+- Don't spend time trying to determine the exact vic you're looking at. It's good enough to call out "IFV" or "APC".
+- Call enemy vehicles out via squad voice comm. If you're SL relay callouts to other SLs and the Commander.
+- If you're an SL/FTL mark the vehicle on the map for everyone to see.
+
+How to read the information below: If you see a vic that looks somewhat like a tank (since it has the hull of a tank), check if it has wheels or tracks. If it has wheels, check how many wheels it has on its side (2 or 4). If it has 2 wheels it’s most likely an APC. If it has 4 wheels, can you determine if it has a .50 cal or 30mm gun? If it has a 30mm gun it’s most likely an IFV. Also, if it has tracks, is the gun longer or shorter than the hull? If its gun is shorter than its hull it could be an IFV or an APC. If in doubt rather say IFV than APC since an IFV poses a bigger threat and usually has stronger armor. Better to be cautious and call out a stronger/better-armed vehicle class, so your SL/Commander can respond appropriately. 
+
+- What you see = what it most likely is (and what you should call out)
+- Tank (does it have tracks or wheels; if it has wheels, how many per side?)
+    - 2 Wheels/Side = APC 
+    - 4 Wheels/Side = APC or IFV
+        - .50 cal gun = APC
+        - 30mm gun = IFV
+    - Tracks (if it has tracks, is the gun longer than the hull or not?)
+        - Gun Is Shorter Than Hull = APC or IFV
+        - Gun Is Longer Than Hull = MBT
+- Big-Ass Off-Road Car = MRAP
+- Truck
+   - Boxes on its load bed = Logi 
+   - Empty load bed = Transport truck
+- Pickup = Technical/Techie
+    - gun on its load bed = armored technical
+    - boxes on its load bed = logi technical
+    - empty load bed = transport technical
+- Motorbike = no differentiation needed; all motorbikes have the same HP
+- Helicopter = no differentiation needed; all helicopters have the same HP
+
+[Back to top](#content)
+
+
 ## Engaging The Enemy
 - Use the right ammunition types for the right target, fragmentation is great for infantry but isn't going to do shit to vehicles.
 - MBT vs MBT - I see so many people get tank fights totally wrong and it leads to their demise. If you are playing a T-62 and your enemy has a Leopard, for example, you must know how to engage. Otherwise, things will go bad for you. First of all, IF YOU CAN, engage the other MBT at long range. If they can't see you and you can make the first shot, it's a big advantage and you should use it when you can. If the engagement is at medium or small range (less than 500m I would say), focus on disabling it. Usually, it goes like this: tracks/engine, turret, boom. Why? Why shouldn't you just shoot whatever and take them down, especially if 4 good shots are all you need to take one down? Because you might be in a situation where you were engaged first and the only advantage you can have in this situation is disabling that tank and outmaneuvering it. If they can't move, you can relocate to a better position where it will take them more time to acquire you and shoot you down, also they are a sitting duck for anything else in your team to disable it. Disabling turrets is not as easy as tracks/engine, but it's the biggest advantage you can have, maneuvering on them and finishing the job is a lot easier if you can manage that. Also, unless you engaged first, KEEP MOVING. This is very important and people don't do it enough. The gunner needs to practice firing while moving because standing still is like asking to eat enemy rounds. If they already see you, why make it easier for the enemy by being a stupid target practice? If you can put a hill/rocks/buildings between you and the enemy, even better, you can use the smoke strategy I've mentioned earlier to keep engaging/disengaging as needed and might not need to move as much.
@@ -1462,6 +1499,77 @@ Let someone else drive your bike into the enemy radio or positions as they can s
 - Use your zoom optic.
 - Try to spread armor squads out so you don't lose both your tanks in one spot. This also allows your tanks to cover more ground and kill more infantry.
 - Don't fire the ATGMs first they take too long to reach their target and you may be hit with two tank shells by then. Primarily use ATGMs against helicopters.
+
+[Back to top](#content)
+
+
+## How to Destroy/Disable A Vehicle
+- Try to hit the tires or tracks first to disable the vehicle. It's easier to kill especially armored vics if they're standing still since you'll most likely need multiple rounds to kill it.
+- If the vehicle is unarmored (e.g. logi truck) you can try to hit the driver as well to disable it.
+- Once an armored vehicle is disabled, aim at the side of the vehicle to hit the engine. MTBs have their engine in the back so you can hit their rear too.
+- Avoid shooting AFVs head-on. The front has the strongest armor and is often designed to deflect projectiles.
+- Never use frag rounds on AFVs. Use them only on infantry targets.
+- Use LAT primarily for unarmored vehicles and to immobilize APCs/IFVs/MBTs by disabling tracks and wheels.
+
+### Truck/Pickup/Motorbike: 
+- Weak spots to focus on:
+	- driver
+	- tires
+	- engine (front of the vehicle; middle of the motorbike) 
+- Weapons to use against this vic:
+	- Rifle/MG - primarily shoot at tires (~5 shots needed) and try to hit the driver to disable the vehicle
+	- HAT (better safe your rockets for armored vehicles)
+	- LAT
+	- .50 cal
+	- 30mm
+	- IED, Mines, C4 (better safe those for AFVs)
+### MRAP
+- Weak spots to focus on:
+	- engine (attack from front and side)
+- Weapons to use against this vic:
+	- Rifle/MG - shoot tires (~35 shots needed) to disable the vehicle
+	- HAT
+	- LAT
+	- .50 cal (focus on tires)
+	- 30mm
+	- IED, Mines, C4
+### APC 
+- Weak spots to focus on:
+	- tires/tracks
+	- engine (US/CA/UK: front of the vehicle, RU rear of vehicle)
+- Weapons to use against this vic:
+	- Rifle/MG - only to destroy wheels (~35 shots needed) - if it has tracks, don't bother using a rifle at all)
+	- HAT
+	- LAT (needs ~4 shots to kill an APC)
+	- .50 cal (focus on tires)
+	- 30mm
+	- IED, Mines, C4
+### IFV
+- Weak spots to focus on:
+	- tires/tracks
+	- engine in the front half of the vehicle (attack from the side of the vehicle)
+- Weapons to use against this vic:
+	- Rifle/MG - only to destroy wheels (~35 shots needed) - if it has tracks, don't bother using a rifle at all)
+	- HAT
+	- LAT (needs ~5 shots to kill an IFV)
+	- .50 cal (focus on tires)
+	- 30mm
+	- IED, Mines, C4
+### MBT
+- Weak spots to focus on:
+	- tracks
+	- engine in the rear of the vehicle (attack from side or rear)
+- Weapons to use against this vic:
+	- HAT
+	- LAT (only to disable tracks; you'd need to ~12 LAT shots to kill a tank, so get some support)
+	- 30mm
+	- IED, Mines, C4
+### Helicopter
+- Weak spot to focus on: engine right below the main rotor
+- Weapons to use against this vic:
+	- HAT
+	- LAT
+	- 30mm
 
 [Back to top](#content)
 
@@ -1883,6 +1991,7 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 * Ammo - Ammunition
 * AFAIK - As Far As I Know
 * AFAP - As fast as possible
+* AFV - Armored Fighting Vehicle (e.g. APC, IFV, MBT)
 * AH - Attack Helicopter
 * AOR - Area of responsibility
 * APC - Armoured Personnel Carrier - Small cannon/HMG, fast, on wheels. Has usually enough space inside for crew + one full squad.
