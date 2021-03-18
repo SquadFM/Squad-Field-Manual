@@ -158,7 +158,7 @@ Before you join a server as a new player
 
 ## Settings
 - I am playing with the settings below. Adjust them to your liking.
-- You can also find my keyboard and mouse binds in the Github repo.
+- Check out my [Keyboard and Mouse Binds](https://github.com/SquadFM/Squad-Field-Manual/blob/main/Squad%20Keybinds.pdf).
 - Game:
     - Field of View: 90 (a higher field of view will decrease the size of your rifle optic)
     - Mouse Smoothing: off
@@ -239,7 +239,7 @@ Before you join a server as a new player
 - Controls
     - Map - You will need the map A LOT. If you have a mouse with a thumb button this would be a good place to access the map. Or use TAB or any other key you can access without moving away from WASD too much.
     - Lean keys: use Q to lean right, E to lean left - makes it easier to strafe at the same time.
-    - For my other controls please see my [Keyboard and Mouse Binds](https://github.com/SquadFM/Squad-Field-Manual/blob/main/Squad%20Keybinds.pdf)
+    - Check out my [Keyboard and Mouse Binds](https://github.com/SquadFM/Squad-Field-Manual/blob/main/Squad%20Keybinds.pdf).
 
 [Back to top](#content)
 
@@ -877,6 +877,17 @@ Fortunate Son - Creedence Clearwater Revival
 [Back to top](#content)
 
 
+## Supplying a FOB (aka Logi runs)
+- If your truck already carries supplies (ammo, build material) you can drop them off within 150m of a radio. 
+- You can be inside/outside the truck and press F, then at the bottom of the wheel there are options to unload either ammo or build (keep holding F and move your mouse on one of the buttons and left-click). 
+- More people loading/unloading will get the job done faster.
+- Bring the empty truck back to main base and press F again to load ammo/build. 
+- You might want to load 1800 build and 1200 ammo to build 3 HABs (HAB = 500 build,  ammo box = 100 build; and 400 ammo per HAB). 
+- Coordinate with your SL and ask what they prefer.
+
+[Back to top](#content)
+
+
 ## Running Around
 - Avoid the compulsion to run around all the time, movement is easily spotted by the human eye. If you are close to enemies, move slowly.
 - Stop every now and then and try to spot enemy movements.
@@ -928,7 +939,6 @@ Fortunate Son - Creedence Clearwater Revival
 - Any time you are under fire you need to be shooting back, it is the only chance you have in some cases. This game is centered around one of the best suppression models I have seen to date in a game. If you are being shot at, shoot back. Can't see them? Guess. You might be right. If anything it might get the enemy's head down and gives you a chance. The moment you return fire, even if just in the direction of fire, you created a 2-way firing range, and the entire tempo has changed. You now have him surprised, off guard, possibly suppressed, maybe wounded, or even dead with enough lead and luck.
 - Don't be too far away from or right on top of teammates when attacking and defending.
 - As for spotting enemies, look for movement, not shapes.
-- Hold your fire if you spot a group of enemies in the distance. Let soldiers around you know (local com), let your squad know if it's an armored vehicle (squad com). If possible let enemies come closer or let them move to a position where they hardly find cover. Coordinate the attack with soldiers around you.
 - Always use single fire. In CQB (e.g. in a building) autofire can make sense.
 - Hide behind cover and use your lean keys to expose less of your body.
 - Someone shoots at you? Don't fret, and don't immediately go prone, and don't immediately go to your bandage unless your screen is blood red and you are about to die. Instead, try to move to cover quickly, dodge back and forth to make their next shots miss, and with each shot, you coerce out of them, you get more information about where you are being engaged from. Get to cover, then bandage.
@@ -944,6 +954,8 @@ Fortunate Son - Creedence Clearwater Revival
 - Do not waste TOW/Kornet (the guided rockets) shots on infantry
 - Watch out for IED bikes and drones. If a bike is making a beeline for you, shoot that guy immediately.
 - Learn to identify where the incoming fire is coming from by listening. Bullets move faster than the speed of sound, so if you get shot at, you'll first hear the supersonic crack of the bullet passing by you, and then you'll hear the dull "thump" of the rifle that fired it. If you hear a crack, get ready to listen for the thump.
+- Hold your fire if you spot a group of enemies in the distance. Let soldiers around you know (local com), let your squad know if it's an armored vehicle (squad com). If possible let enemies come closer or let them move to a position where they hardly find cover. Coordinate the attack with soldiers around you.
+- Check out the following chapter on how to [How To Identify A Vehicle](#how-to-identify-a-vehicle) and [How to Destroy/Disable A Vehicle](#how-to-destroydisable-a-vehicle).
 
 [Back to top](#content)
 
@@ -1508,7 +1520,7 @@ If in doubt rather say IFV than APC since an IFV poses a bigger threat and usual
 ## How to Destroy/Disable A Vehicle
 - Try to hit the tires or tracks first to disable the vehicle. It's easier to kill especially armored vics if they're standing still since you'll most likely need multiple rounds to kill it.
 - If the vehicle is unarmored (e.g. logi truck) you can try to hit the driver as well to disable it.
-- Once an armored vehicle is disabled, aim at the side of the vehicle to hit the engine. MTBs have their engine in the back so you can hit their rear too.
+- Once an armored vehicle is disabled, aim at the side of the vehicle to hit the engine. MBTs have their engine in the back so you can hit their rear too.
 - Avoid shooting AFVs head-on. The front has the strongest armor and is often designed to deflect projectiles.
 - Never use frag rounds on AFVs. Use them only on infantry targets.
 - Use LAT primarily for unarmored vehicles and to immobilize APCs/IFVs/MBTs by disabling tracks and wheels.
@@ -1519,7 +1531,7 @@ If in doubt rather say IFV than APC since an IFV poses a bigger threat and usual
 	- tires
 	- engine (front of the vehicle; middle of the motorbike) 
 - Weapons to use against this vic:
-	- Rifle/MG - primarily shoot at tires (~5 shots needed) and try to hit the driver to disable the vehicle
+	- Rifle/MG - primarily shoot at tires (~5 shots needed) and try to hit the driver to stop the vehicle
 	- HAT (better safe your rockets for armored vehicles)
 	- LAT
 	- .50 cal
@@ -1527,6 +1539,7 @@ If in doubt rather say IFV than APC since an IFV poses a bigger threat and usual
 	- IED, Mines, C4 (better safe those for AFVs)
 ### MRAP
 - Weak spots to focus on:
+	- tires
 	- engine (attack from front and side)
 - Weapons to use against this vic:
 	- Rifle/MG - shoot tires (~35 shots needed) to disable the vehicle
@@ -2194,6 +2207,7 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 * LAT - Light Anti-Tank
 * LAV - Light Armored Vehicle, an eight-wheeled amphibious armored reconnaissance vehicle
 * LAW - Light Anti-Tank Weapon; M72-LAW, US-specific LAT weapon
+* Layer - The layout of the capture points on the map
 * Leapfrogging - One fireteam advances while the other fireteam covers them
 * LEL - Laughing extra loud, Sarcastic lol
 * Lima Charlie - Loud and Clear (as a response when someone asks on the radio how you read them)
@@ -2573,9 +2587,9 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 ## Websites
 - [Battlefield Wiki](https://battlefield.fandom.com)
 - [Cheesy Tactical Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=571391558), [and here](https://drive.google.com/file/d/0B6sPT1ZeeQA3aGx3YWlHblFQVnM/edit), [and here](https://drive.google.com/file/d/0B_iNCOG63HtsSF9oN2NTOXVJNHc/view)
-- [SquadMC](https://squadmc.ende.pro/)
-- [SquadMortar](https://squadmortar.xyz/)
-- [Minimalistic Mortar Calculator](https://mortar.sharkman.info/)
+- [Mortar Calculator - SquadMC](https://squadmc.ende.pro/)
+- [Mortar Calculator - SquadMortar](https://squadmortar.xyz/)
+- [Mortar Calculator - Minimalistic Mortar Calculator](https://mortar.sharkman.info/)
 - [Mortar Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=1224460390)
 - [Squadlanes.com](https://squadlanes.com)
 - [SgtHerhi's "How Not To Suck At ..." guides](https://old.reddit.com/r/joinsquad/comments/7f08ol/how_to_not_suck_at_offense/)
@@ -2623,4 +2637,3 @@ See you in Squad!
  (O_o_o_o_o_O) Munster, 2021
 ```
 
-[Back to top](#content)
