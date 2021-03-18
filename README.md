@@ -101,7 +101,7 @@ Before you join a server as a new player
     - [Engaging The Enemy](#engaging-the-enemy)
     - [How to Destroy/Disable A Vehicle](#how-to-destroydisable-a-vehicle)
     - [Damage and Repair System](#damage-and-repair-system)
-- [Helicopter](#helicopter)
+- [Helicopter 101](#helicopter-101)
 - [Squad Leading](#squad-leading)
     - [What is a Squad Leader?](#what-is-a-squad-leader)
     - [Squad Leader Meta](#squad-leader-meta)
@@ -1413,6 +1413,7 @@ Let someone else drive your bike into the enemy radio or positions as they can s
 
 ## Vehicle Types
 - This is the vehicles section of the guide, which gives a brief description of each vehicle type in Squad.
+- AFV: Armored Fighting Vehicles - This can be any armored and armed vehicle: MRAPs, APCs, IFVs, MBTs.
 - APC: Wheeled with .50 cal (Armored Personnel Carrier). APCs are usually wheeled, some have tracks, but they have a smaller gun than other vics. Medium armored with armament that can pierce other APCs and other vehicles with lower armament ratings; can carry a squad of men; includes Stryker with CROW, BTR-80, and most MT-LB variants. Have 600 ammo for resupply.
 - AT vehicle: Techie/MRAP w/ ATGMs (Anti-Tank Guided Missile)
 - Helicopter (Helo) - a flying machine used for resupply, FOB creation, and troop transport. Can also do recon or provide light CAS, but weak in terms of armor and armament. More on helicopters in the next chapter: [Helicopter](#helicopter)
@@ -1599,7 +1600,7 @@ If in doubt rather say IFV than APC since an IFV poses a bigger threat and usual
 
 
 ************************************************************************
-# Helicopter
+# Helicopter 101
 
 - For the love of god load up Jensen's Range again and practice taking off, landing, and flying helicopters. Do it fast and quickly, get good at it, THEN FLY IN AN ACTUAL GAME.
 - Name your squad HELI so every SL knows what you're doing.
@@ -2524,7 +2525,7 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 - ApproveVehicleClaim : As a Squad Leader approve a vehicle claim made by a squad member attempting to enter a vehicle
 - ChangeTeams : Change teams to the other side
 - ChangeTeamsWithId "NewTeam" : Change teams to the specified team number, zero changes to the other side
-- Chat "Message" : "ChatType=All|Teams|Squad" : Broadcast chat message
+- Chat "Message" : "ChatType=All/Teams/Squad" : Broadcast chat message
 - ChatToAdmin "Message" : Send System message to all admins on the server
 - ChatToAll "Message" : Chat to everyone
 - ChatToSquad "Message" : Chat only to same squad
