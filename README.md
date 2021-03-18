@@ -150,7 +150,7 @@ Before you join a server as a new player
 - Extract the files to: /home/username/.local/share/Steam/steamapps/compatdata/393380/pfx/drive_c/users/steamuser/Application Data/EasyAntiCheat/55/
 - Set the /55/ directory to read-only
 - Also, set the following /Temp/ directory to read-only: /home/username/.local/share/Steam/steamapps/compatdata/393380/pfx/drive_c/users/steamuser/Temp/
-- In Steam go to Library > right-click on Squad > Properties > in the settings pop-up go to Compatibility and check "Force the use of a specific Steam Play compatibility tool". Select the latest Proton version.
+- In Steam go to Library " right-click on Squad " Properties " in the settings pop-up go to Compatibility and check "Force the use of a specific Steam Play compatibility tool". Select the latest Proton version.
 - While you're here, set Automatic Updates to "High Priority" and set background downloads to "Pause".
 
 [Back to top](#content)
@@ -318,7 +318,7 @@ In the console type:
 - Under Linux: 
     - Delete everything in this folder: /home/username/.local/share/Steam/steamapps/shadercache/393380/
     - You can also use a cronjob to do this automatically every night or week.
-    - There is also a way to disable Shader Pre-Caching in Steam under Settings > Shader Pre-Caching. You can test if turning these options off will enhance performance. 
+    - There is also a way to disable Shader Pre-Caching in Steam under Settings " Shader Pre-Caching. You can test if turning these options off will enhance performance. 
 - Under Windows: 
     - Open your Explorer, right­-click on the drive you have Windows installed.
     - Click on Properties.
@@ -326,10 +326,10 @@ In the console type:
     - Click Disk Cleanup.
     - Mark the DirectX Shader Cache tickbox and confirm.
 - Under Windows, you can also clear the NVIDIA shader cache
-    - Go to your NVIDIA control panel > Manage 3D Settings > turn off Shader Cache and hit Apply.
+    - Go to your NVIDIA control panel " Manage 3D Settings " turn off Shader Cache and hit Apply.
     - Reboot your PC.
     - Go to %username%\AppData\Local\Temp\NVIDIA Corporation\NV_Cache and delete the contents of the folder (You can paste that address directly into a Windows address bar).
-    - Go back to your NVIDIA control panel > Manage 3D Settings > turn On Shader Cache and hit Apply.
+    - Go back to your NVIDIA control panel " Manage 3D Settings " turn On Shader Cache and hit Apply.
 - Once you start Squad the game may stutter for a moment while the cache is being rebuilt, but this should only take a few seconds.
 
 [Back to top](#content)
@@ -337,7 +337,7 @@ In the console type:
 
 ### Steam File Verification
 - If you experience any performance issues, check the integrity of Squad's files.
-- In Steam go to Library > right-click on Squad > Settings > Local Files > Verify integrity of game files
+- In Steam go to Library " right-click on Squad " Settings " Local Files " Verify integrity of game files
 - This usually takes a few minutes.
 
 [Back to top](#content)
@@ -545,7 +545,7 @@ In the console type:
 - Capturing a hex unlocks all adjacent (bordering) hex zones for capture.
 - Bleed: 
 	- For every two hex zones captured beyond owning 60% of all hexes, the enemy will start bleeding 1 ticket per minute with a maximum of 5-6 tickets per minute (team must cap 10+ hexes or beyond 60% of all hexes). 
-	- Once a team captures >= 95% of all tiles, ticket bleed will increase to ~120 tickets per minute (has to be confirmed in-game or by OWI).
+	- Once a team captures "= 95% of all tiles, ticket bleed will increase to ~120 tickets per minute (has to be confirmed in-game or by OWI).
 	- Example: Al Basrah has 20 hexes in total. 60% = 12 hexes, 95% = 19 hexes.
 - Hex capture status is invisible until you capture an adjacent hex zone (fog of war).
 - Each team has a 'key territory' hex marked with a shield, at the base of their grid.
@@ -606,7 +606,7 @@ In the console type:
 
 ## Finding a Server
 - First, join Jensen's Range (the map where you train). Then search for a server. Most good servers are usually full and have a waiting list and you have to wait a few minutes. While you wait for the server to connect, you can train on Jensen's Range. The game will connect you automatically to the server once it has a spot for you.
-- For your first game: Jump on a full server (you might need to wait a few minutes in the Queue, that's fine, don't join if the queue is > 5ppl). Preferably you should join a server in your native language to make communication easy. Join a Squad. If none are open, be patient, there will be one available in a few minutes. Have fun! Tell your Squad Leader you are new and need guidance. Follow your SLs orders and kick some ass.
+- For your first game: Jump on a full server (you might need to wait a few minutes in the Queue, that's fine, don't join if the queue is " 5ppl). Preferably you should join a server in your native language to make communication easy. Join a Squad. If none are open, be patient, there will be one available in a few minutes. Have fun! Tell your Squad Leader you are new and need guidance. Follow your SLs orders and kick some ass.
 - Ping is not super important in Squad. You will still have a good experience with a 150 ping.
 - Many servers specifically say something like "New Players Welcome". Those are a good place to start.
 - Pick a server with the game mode AAS or RAAS. Maps usually change every round. You will most likely join an ongoing game.
@@ -616,7 +616,7 @@ In the console type:
 
 ## Server Rules
 - Be aware that all servers have rules. Make sure to follow these rules. Violations can result in bans.
-- If other people are harassing you, you can send admins a message (open console and type ChatToAdmin <message>) or ask your SL for help.
+- If other people are harassing you, you can send admins a message (open console and type ChatToAdmin "message") or ask your SL for help.
 - Most servers' rules most likely are similar to the ones below:
     - Be friendly, stay calm, help new people, have fun.
     - Squad Leaders must use a mic, speak English and make an effort to communicate.
@@ -1031,7 +1031,7 @@ Fortunate Son - Creedence Clearwater Revival
 - Have a good time and see the fun in losing at times.
 - In short, build a positive reputation among the community you play with.
 - This will take months/years to get to.
-- You can find people you played Squad with in Steam -> Profile -> Friends -> Recently Played With -> Add your new friend!
+- You can find people you played Squad with in Steam -" Profile -" Friends -" Recently Played With -" Add your new friend!
 
 [Back to top](#content)
 
@@ -1061,7 +1061,7 @@ Fortunate Son - Creedence Clearwater Revival
 ## Medic
 - Communicate - Secure - Rescue
 - The Real MVP - As a Medic alongside the Squad Leader you form the backbone of your squad. The SL gets the show on the road but the Medics are the true MVPs who keep it going. I want you Medics to recognize your value and learn to say "No." You don't need to revive everyone always and you definitely should not put yourself at such a risk where the most likely outcome is that you end up dead on top of your buddy. Your survival should be a priority for everyone in the squad and if you think it's too high of a risk to revive someone in the middle of the road, you should have the balls to say "no, I won't" and that's fine. ‘You should never end up in a situation where you die with a bandage in your hand, that means either you've misassessed the situation or someone who was supposed to cover you messed up.
-- Basic Gameplay - Basic play as a Medic is pretty straightforward, you bandage bleeding or incapacitated friendlies and bring them back to full health with the medpack (or the Force). On top of that, you're expected to be the last man standing in most cases to get the most out of your ability to revive others. Few tips to help you achieve this are to stay in the middle or back part of your squad to not catch the first bullet that comes your way. You're better off letting someone else catch it and go pick them up when the coast is clear. You also want to stay separate from the other Medic in the squad so that you don’t both get killed in the same instance or by the same enemy. This often prevents the squad from being wiped too quickly. It's common practice to have one Medic stay close to SL and the other with the rest of the squad to keep a simple separation between the two. Revive priority is SL + Medic > AT > Joe
+- Basic Gameplay - Basic play as a Medic is pretty straightforward, you bandage bleeding or incapacitated friendlies and bring them back to full health with the medpack (or the Force). On top of that, you're expected to be the last man standing in most cases to get the most out of your ability to revive others. Few tips to help you achieve this are to stay in the middle or back part of your squad to not catch the first bullet that comes your way. You're better off letting someone else catch it and go pick them up when the coast is clear. You also want to stay separate from the other Medic in the squad so that you don’t both get killed in the same instance or by the same enemy. This often prevents the squad from being wiped too quickly. It's common practice to have one Medic stay close to SL and the other with the rest of the squad to keep a simple separation between the two. Revive priority is SL + Medic " AT " Joe
 - Communication & How to be an asset to your squad
     - The easiest thing to do to go from "Yeah, it's some dude playing a Medic" to "Holy shit that guy is super useful how do we recruit him now and have babies in the progress" is 100% communication as you can both relay critical information that nobody else has and talking to the people you're trying to rescue ups their chances of survival quite significantly. Firstly you've got the Medic Vision which allows you to see downed players in about a 150m radius around you regardless if they're in your squad or not. This gives you the best overall picture of how the fight is going and learning to relay the crucial information from this to your squad members and Squad Leader can change the pace of the fight and save you from getting flanked or losing assets.
     - Secondly, you should be in constant communication with your squad members and the other Medic to get your reviving responsibilities handled effectively and safely. As a Medic, you have a certain amount of authority, and asking/telling the other individual to cover you should be a routine aspect of your game. When reviving players they should preemptively tell you critical information about their status like "An enemy is standing on top of me" or "I got sniped from West but am in good cover so clear to pick up". Good players do this, but more often than not you need to demand it if you're unsure of what you're getting into. Again, your survival is more critical than the random Joe's in the middle of the street there. Once you are reviving them, if the situation demands it, tell them what to do as they get up to survive the next 3 seconds as well. Nothing is more frustrating than busting your ass saving a guy and having them stand up and get shot in the face the moment they're back in the game. So tell them not to.
@@ -2478,41 +2478,41 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 # Console Commands
 
 - Open the console with the ~ key in the upper left on your keyboard (under the ESC key). Then enter one of the commands below.
-- Commands may change in future updates. To see the latest list of commands use the following command in your console: ListCommands <ShowDetail 0/1> (Prints out the information for all commands in the game)
-- To see more information about a command use: ShowCommandInfo <CommandName> (Prints out the details of a particular command)
+- Commands may change in future updates. To see the latest list of commands use the following command in your console: ListCommands "ShowDetail 0/1" (Prints out the information for all commands in the game)
+- To see more information about a command use: ShowCommandInfo "CommandName" (Prints out the details of a particular command)
 
 [Back to top](#content)
 
 
 ## Admin Commands
-- AdminAddCameraman <NameOrId> : Add a player to the camera man list
-- AdminAllKitsAvailable <Enabled 1/0> : Sets the server to ignore kit restrictions
-- AdminAlwaysValidPlacement <Enabled 1/0> : Sets the server to ignore placement rules for deployables
-- AdminBan "<NameOrSteamIds>" "<BanLength>" <Ban Reason> : Bans a player from the server for a length of time : 0=Perm, 1d=1Day, 1m=1 month, etc)
-- AdminBanById <PlayerID> "<BanLength>" <Ban Reason> : Bans player with Id from the server
-- AdminBroadCast <Message> : Send System message to all players on the server
-- AdminChangeMap <MapName> : Change the map an travel to it immediately
-- AdminDemoPlay <FileName> : Play Back the demo recording, must have file from server)
-- AdminDemoRec <FileName> : Records gameplay, you must run this first
+- AdminAddCameraman "NameOrId" : Add a player to the camera man list
+- AdminAllKitsAvailable "Enabled 1/0" : Sets the server to ignore kit restrictions
+- AdminAlwaysValidPlacement "Enabled 1/0" : Sets the server to ignore placement rules for deployables
+- AdminBan "NameOrSteamIds" "BanLength" "Ban Reason" : Bans a player from the server for a length of time : 0=Perm, 1d=1Day, 1m=1 month, etc)
+- AdminBanById "PlayerID" " "BanLength" "Ban Reason" : Bans player with Id from the server
+- AdminBroadCast "Message" : Send System message to all players on the server
+- AdminChangeMap "MapName" : Change the map an travel to it immediately
+- AdminDemoPlay "FileName" : Play Back the demo recording, must have file from server)
+- AdminDemoRec "FileName" : Records gameplay, you must run this first
 - AdminDemoStop : Stops recording and saves the demo to disk
-- AdminDisableVehicleClaiming <Enabled 1/0> : Sets the server to disable vehicle claiming
+- AdminDisableVehicleClaiming "Enabled 1/0" : Sets the server to disable vehicle claiming
 - AdminEndMatch : Tell the server to immediately end the match
-- AdminForceNetUpdateOnClientSaturation <Enabled 0/1> : If ture, when a connection becomes saturated, all remaining actors that couldn't complete replication will have ForceNetUpdate called on
-- AdminKick "<NameOrSteamId>" <KickReason> : Kicks a player from the server
-- AdminKickByID "<PlayerId>" <KickReason> : Kicks a player with Id from the server
-- AdminKillServer <Force0/1> : Tells the server to stop execution
-- AdminKillServer <Force0/1> : Tells the server to stop execution
+- AdminForceNetUpdateOnClientSaturation "Enabled 0/1" : If ture, when a connection becomes saturated, all remaining actors that couldn't complete replication will have ForceNetUpdate called on
+- AdminKick ""NameOrSteamId"" "KickReason" : Kicks a player from the server
+- AdminKickByID "PlayerId" "KickReason" : Kicks a player with Id from the server
+- AdminKillServer "Force0/1" : Tells the server to stop execution
+- AdminKillServer "Force0/1" : Tells the server to stop execution
 - AdminListDisconnectedPlayers : List recently disconnected player IDs with associated player name and SteamID
 - AdminNetTestStop : AdminNetTestStop (Stops the network test)
 - AdminPauseMatch : Tell the server to put the match on hold
-- AdminProfileServer <SecondsToProfile> <bUseRaw> : Starts Profiling on the server for a fixed length of time, after which the profiling data is saved to disk
+- AdminProfileServer "SecondsToProfile" "bUseRaw" : Starts Profiling on the server for a fixed length of time, after which the profiling data is saved to disk
 - AdminRestartMatch : Tell the server to restart the match
-- AdminSetMaxNumPlayers <NumPlayers> : Set the maximum number of players for this server
-- AdminSetNextMap <NameMap> : Set the next map to travel to after this match ends
+- AdminSetMaxNumPlayers "NumPlayers" : Set the maximum number of players for this server
+- AdminSetNextMap "NameMap" : Set the next map to travel to after this match ends
 - AdminSetNumReservedSlots : Set the number of reserved players
-- AdminSetServerPassword <Password> : Set the password for a server or use "" to remove it
-- AdminSlomo <TimeDilation> : Set the clock speed on the server 0.1 is 10% of normal speed 2.0 is twice the normal speed
-- AdminSpawnActor <Index> : Create an Actor for testing (Currently unavailable, Devs only)
+- AdminSetServerPassword "Password" : Set the password for a server or use "" to remove it
+- AdminSlomo "TimeDilation" : Set the clock speed on the server 0.1 is 10% of normal speed 2.0 is twice the normal speed
+- AdminSpawnActor "Index" : Create an Actor for testing (Currently unavailable, Devs only)
 - AdminStats : Retrieve stats from the server
 - AdminUnpauseMatch : Tell the server to take off the old
 - TraceViewToggle : Execute a trace from the screen's center to any object and displays the object's information
@@ -2523,27 +2523,27 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 ## Public Commands
 - ApproveVehicleClaim : As a Squad Leader approve a vehicle claim made by a squad member attempting to enter a vehicle
 - ChangeTeams : Change teams to the other side
-- ChangeTeamsWithId <NewTeam> : Change teams to the specified team number, zero changes to the other side
-- Chat <Message> : <ChatType=All|Teams|Squad> : Broadcast chat message
-- ChatToAdmin <Message> : Send System message to all admins on the server
-- ChatToAll <Message> : Chat to everyone
-- ChatToSquad <Message> : Chat only to same squad
-- ChatToTeam <Message> : Chat only to same team
+- ChangeTeamsWithId "NewTeam" : Change teams to the specified team number, zero changes to the other side
+- Chat "Message" : "ChatType=All|Teams|Squad" : Broadcast chat message
+- ChatToAdmin "Message" : Send System message to all admins on the server
+- ChatToAll "Message" : Chat to everyone
+- ChatToSquad "Message" : Chat only to same squad
+- ChatToTeam "Message" : Chat only to same team
 - CreateReallyPoint : Drop a rally point for squad members to spawn from
-- CreateSquad <Name> : Request the creation of a squad, specifying the name
+- CreateSquad "Name" : Request the creation of a squad, specifying the name
 - DisabledHudWidgets : Removes all widgets on the HUD
 - DisabledUI : Removes the UI components from the screen
 - Disconnect : Disconnect from server
 - GiveUp : Die and give up being wounded
-- HighResShot <Resolution/Multiplier> : take a screenshot,e.G. "HighResShot 3840x2160" or "HighResShot 4"
-- JoinSquadWithID <Id> : Join a squad on our team with the following Id
-- JoinSquadWithName <Name> : Join a squad on our team with the following name
+- HighResShot "Resolution/Multiplier" : take a screenshot,e.G. "HighResShot 3840x2160" or "HighResShot 4"
+- JoinSquadWithID "Id" : Join a squad on our team with the following Id
+- JoinSquadWithName "Name" : Join a squad on our team with the following name
 - LeaveSquad : Leave the squad you are currently in
-- ListCommands <ShowDetail 0/1> : Prints out the information for all commands in the game
+- ListCommands "ShowDetail 0/1" : Prints out the information for all commands in the game
 - ListPlayers : List play IDs with associate player name and SteamID
-- r.SetRes <Resolution> :Change screen resolution, r.setres 1920x1080f
+- r.SetRes "Resolution" :Change screen resolution, r.setres 1920x1080f
 - Reconnect : Reconnects to the previous server
-- ShowCommandInfo <CommandName> : Prints out the details of a particular command
+- ShowCommandInfo "CommandName" : Prints out the details of a particular command
 - ShowNextMap : Ask the server what the next map is
 - Stat FPS : Draw frame rate on screen
 - Stat Unit : Draws game, draw, and GPU times on screen
