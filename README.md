@@ -1526,6 +1526,7 @@ If in doubt rather say IFV than APC since an IFV poses a bigger threat and usual
 - Never use frag rounds on AFVs. Use them only on infantry targets.
 - Use LAT primarily for unarmored vehicles and to immobilize APCs/IFVs/MBTs by disabling tracks and wheels.
 
+
 ### Truck/Pickup/Motorbike: 
 - Weak spots to focus on:
 	- driver
@@ -1538,10 +1539,12 @@ If in doubt rather say IFV than APC since an IFV poses a bigger threat and usual
 	- .50 cal
 	- 30mm
 	- IED, Mines, C4 (better safe those for AFVs)
+
+
 ### MRAP
 - Weak spots to focus on:
 	- tires
-	- engine (attack from front and side)
+	- engine (attack from side)
 - Weapons to use against this vic:
 	- Rifle/MG - shoot tires (~35 shots needed) to disable the vehicle
 	- HAT
@@ -1549,6 +1552,8 @@ If in doubt rather say IFV than APC since an IFV poses a bigger threat and usual
 	- .50 cal (focus on tires)
 	- 30mm
 	- IED, Mines, C4
+
+
 ### APC 
 - Weak spots to focus on:
 	- tires/tracks
@@ -1557,9 +1562,11 @@ If in doubt rather say IFV than APC since an IFV poses a bigger threat and usual
 	- Rifle/MG - only to destroy wheels (~35 shots needed) - if it has tracks, don't bother using a rifle at all)
 	- HAT
 	- LAT (needs ~4 shots to kill an APC)
-	- .50 cal (focus on tires)
+	- .50 cal (tires only)
 	- 30mm
 	- IED, Mines, C4
+
+
 ### IFV
 - Weak spots to focus on:
 	- tires/tracks
@@ -1568,9 +1575,11 @@ If in doubt rather say IFV than APC since an IFV poses a bigger threat and usual
 	- Rifle/MG - only to destroy wheels (~35 shots needed) - if it has tracks, don't bother using a rifle at all)
 	- HAT
 	- LAT (needs ~5 shots to kill an IFV)
-	- .50 cal (focus on tires)
+	- .50 cal (tires only)
 	- 30mm
 	- IED, Mines, C4
+
+
 ### MBT
 - Weak spots to focus on:
 	- tracks
@@ -1580,6 +1589,8 @@ If in doubt rather say IFV than APC since an IFV poses a bigger threat and usual
 	- LAT (only to disable tracks; you'd need to ~12 LAT shots to kill a tank, so get some support)
 	- 30mm
 	- IED, Mines, C4
+
+
 ### Helicopter
 - Weak spot to focus on: engine right below the main rotor
 - Weapons to use against this vic:
