@@ -8,9 +8,11 @@
 - If you're a new player **WELCOME TO SQUAD!** We're glad that you're here! 
 - If you're a vet **THANK YOU FOR YOUR SERVICE** and for making Squad a great game.
 - This guide contains the collected wisdom of many experienced Squad players from various sources. Their contributions are often copy-pasted into this guide. If you find content in this guide that you wrote I want to say "Thank you" for sharing your wisdom on the Squad Wiki, Reddit, in various manuals and strategy guides, the old Squad forum (offline now), Steam, YouTube, and other sources. You can find a list of most sources under ([Sources and Resources](#sources-and-resources)).
-- You can contribute to this guide on [Github](https://github.com/SquadFM/Squad-Field-Manual) or [Reddit](https://old.reddit.com/r/joinsquad/comments/m2rzjj/squad_field_manual_available_now/)
+- You can contribute to this guide on [Github](https://github.com/SquadFM/Squad-Field-Manual) or [Reddit](https://old.reddit.com/r/joinsquad/comments/m2rzjj/squad_field_manual_available_now/). You can also send me a message on Steam (see below).
 - If you want to say "hi" my Squad in-game name is Munster. [Add me on Steam](https://steamcommunity.com/id/Munster101/).
-- This guide was last updated on March 18, 2021.
+- To save this manual, right click on this page in your browser and click on "Save Page As" to save this page as an .html file. You can also [download the complete Github repo](https://github.com/SquadFM/Squad-Field-Manual/archive/refs/heads/main.zip). The .zip file contains this manual as a text file. Links won't work unless you use a markdown editor with live-view.
+- **Tell someone about this manual.** Let's help others and improve this community.
+- This guide was last updated on March 22, 2021.
 
 
 # NEW PLAYERS PLEASE READ
@@ -35,6 +37,7 @@ Before you join a server as a new player
         - [Sudden FPS Drops/Stuttering](#sudden-fps-dropsstuttering)
         - [Clear Shader Cache](#clear-shader-cache)
         - [Steam File Verification](#steam-file-verification)
+        - [Remove Mods](#remove-mods)
     - [OBS Setup](#obs-setup)
 - [Game Mechanics](#game-mechanics)
     - [What's this game about?](#whats-this-game-about)
@@ -343,6 +346,11 @@ In the console type:
 [Back to top](#content)
 
 
+### Remove Mods
+- Mods can cause Squad to crash after major updates.
+- Try to remove mods if you're experiencing issues that can't be resolved with any of the guides above.
+
+
 ## OBS Setup
 - If you don't want to record your games you can skip this chapter.
 - OBS (Open Broadcaster Software) is free software to record your gameplay. You can also use it to stream your games on various platforms.
@@ -521,6 +529,7 @@ In the console type:
 - One Team has all flags from the start and a huge number of tickets. The other team is the attacker. They only have 200 tickets, but usually a major advantage due to having more vehicles. The attacking team gets 100 tickets per captured flag. Once the attacking team has captured a flag, it cannot be retaken by the defenders.
 - Defending team wins if the attacking team has 0 tickets left. The attacking team wins when they capture all flags or the defending team has 0 tickets left. This mode has a very well-defined front line as everyone is fighting for one flag.
 - Might also be good for a first game although the beginning of the round is very hectic for the defenders and usually attackers have a hard time in this mode.
+- The Mutaha Invasion v1 layer is the only game that plays during the night. 
 
 [Back to top](#content)
 
@@ -1782,7 +1791,9 @@ Ask for your squad's opinion sometimes - Be open to reasonable suggestions from 
 
 ## Building FOBs and HABs (Spawn Points)
 - An SL can only place the structure foundation. Another team member with a shovel has to build the structure.
-- Do not build a FOB inside a CP. Not only It's impossible for the enemy to miss it, but you also make a fishbowl FOB where your enemy can use your own walls as cover and shoot you/throw grenades inside your spawn. You are wasting your time building it where you could be useful doing something else and you are bleeding valuable tickets plus the 10 points when the FOB goes down.
+- Do not place your FOB right on the objective. FOBs in this area will be assaulted and need heavy defenses. The further away you can place the FOB the better. 
+- Always build a backup FOB. Multiple spawn locations gives your team more options to attack the enemy.
+- Do not build a FOB inside a CP. Not only is it impossible for the enemy to miss, but you also make a fishbowl FOB where your enemy can use your own walls as cover and shoot you/throw grenades inside your spawn. You are wasting your time building it where you could be useful doing something else and you are bleeding valuable tickets plus the 10 points when the FOB goes down.
 - FOB (radio) location - place it either inside a building for protection against artillery and vehicles or in foliage for stealth.
 HAB location - needs some cover next to it (rotate with arrow keys to fit in tight places). Whatever is close to the HAB is gonna be protected by spawning soldiers, be it the radio or a flag. At the same time enemies attacking one, also attack the other for free.
 - HAB (spawn bunker) costs 500 CPs while an ammo box goes for 100, therefore a minimum amount of CPs required for a FOB is 600. Personally, I take an extra 100 for another ammo box away from the HAB. By default, I recommend taking enough supplies to make 2 to 3 FOBs (1200 or 1800 CPs minimum).
@@ -2597,7 +2608,7 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 
 
 ## Websites
-- [Battlefield Wiki](https://battlefield.fandom.com)
+- [Squad Wiki](https://squad.gamepedia.com)
 - [Cheesy Tactical Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=571391558), [and here](https://drive.google.com/file/d/0B6sPT1ZeeQA3aGx3YWlHblFQVnM/edit), [and here](https://drive.google.com/file/d/0B_iNCOG63HtsSF9oN2NTOXVJNHc/view)
 - [Mortar Calculator - SquadMC](https://squadmc.ende.pro/)
 - [Mortar Calculator - SquadMortar](https://squadmortar.xyz/)
@@ -2611,9 +2622,9 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 - [Squad On Linux](https://www.protondb.com/app/393380)
 - [Squad Server Rules](https://squad.projectawesome.com/serverRules)
 - [Squad Sub-Reddit](https://old.reddit.com/r/joinsquad/)
-- [Squad Wiki](https://squad.gamepedia.com)
 - [Usgu's Squad Manual, Nov 2015](http://cdn.akamai.steamstatic.com/steam/apps/393380/manuals/Squad_Alpha-Manual_1_2_0.pdf?t=1448234414)
 - [Usgu's Squad Manual, Feb 2016](https://steamcdn-a.akamaihd.net/steam/apps/393380/manuals/Squad_EA-Manual_1_1.pdf?t=1527101610)
+- [Battlefield Wiki](https://battlefield.fandom.com)
 
 [Back to top](#content)
 
