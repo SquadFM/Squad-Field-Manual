@@ -10,7 +10,7 @@
 - This guide contains the collected wisdom of many experienced Squad players from various sources. Their contributions are often copy-pasted into this guide. If you find content in this guide that you wrote I want to say "Thank you" for sharing your wisdom on the Squad Wiki, Reddit, in various manuals and strategy guides, the old Squad forum (offline now), Steam, YouTube, and other sources. You can find a list of most sources under ([Sources and Resources](#sources-and-resources)).
 - You can contribute to this guide on [Github](https://github.com/SquadFM/Squad-Field-Manual) or [Reddit](https://old.reddit.com/r/joinsquad/comments/m2rzjj/squad_field_manual_available_now/). You can also send me a message on Steam (see below).
 - If you want to say "hi" my Squad in-game name is Munster. [Add me on Steam](https://steamcommunity.com/id/Munster101/).
-- To save this manual, right click on this page in your browser and click on "Save Page As" to save this page as an .html file. You can also [download the complete Github repo](https://github.com/SquadFM/Squad-Field-Manual/archive/refs/heads/main.zip). The .zip file contains this manual as a text file. Links won't work unless you use a markdown editor with live-view.
+- To save this manual, right-click on this page in your browser and click on "Save Page As" to save this page as a .html file. You can also [download the complete Github repo](https://github.com/SquadFM/Squad-Field-Manual/archive/refs/heads/main.zip). The .zip file contains this manual as a text file. Links won't work unless you use a markdown editor with live-view.
 - **Tell someone about this manual.** Let's help others and improve this community.
 - This guide was last updated on March 22, 2021.
 
@@ -307,7 +307,7 @@ In the console type:
 
 
 ### Sudden FPS Drops/Stuttering
-- If you get bad framerate after loading into a map or changing graphics settings, try opening the console and typing in HighResShot 1. This command takes screenshots at a high resolution, which apparently causes some sort of a soft graphical reload that can solve the performance issue.
+- If you get a bad framerate after loading into a map or changing graphics settings, try opening the console and typing in HighResShot 1. This command takes screenshots at a high resolution, which causes some sort of a soft graphical reload that can solve the performance issue.
 - If this doesn't bring improvement, increase the number by one (e.g. HighResShot 2, HighResShot 3, etc). Strangely, HighResShot 1, HighResShot 2, and HighResShot 4 fix this issue on my end. Whereas HighResShot 3 causes bad FPS drops. Your mileage may vary.
 - Every time you execute HighResShot, a screenshot is being saved into the folder below. If you set the "Screenshots" folder to read-only, you don't have to remember to delete these screenshots.
     - Under Linux: /home/username/.local/share/Steam/steamapps/compatdata/393380/pfx/drive_c/users/steamuser/Local Settings/Application Data/SquadGame/Saved/Screenshots/
@@ -625,7 +625,7 @@ In the console type:
 
 ## Server Rules
 - Be aware that all servers have rules. Make sure to follow these rules. Violations can result in bans.
-- If other people are harassing you, you can send admins a message (open console and type ChatToAdmin "message") or ask your SL for help.
+- If other people are harassing you, you can send admins a message (open the console and type ChatToAdmin "message") or ask your SL for help.
 - Most servers' rules most likely are similar to the ones below:
     - Be friendly, stay calm, help new people, have fun.
     - Squad Leaders must use a mic, speak English and make an effort to communicate.
@@ -655,7 +655,7 @@ In the console type:
 - There are rarely toxic people in Squad. If you come across anyone being too noisy you can mute them. You can find the mute button on the scoreboard. There's a little speaker by their name on the list. Click on it.
 - If people are racist/abusive let your SL know. Also, report them to the server’s admin. Those people usually get banned. To reach an admin type this in your console: ChatToAdmin your message here.
 - If the game is already going on, ask SL where you should spawn, before you deploy.
-- When you join a game and a squad at game start, don't instantly spawn in. Wait a polite 10-20 seconds for the squad to fill and the SL to open his mouth. For a number of reasons. (1) The SL may be a shitbag that passes the kit over in 5 seconds which results in a hot potato squad and ruins the match start. (2) The SL may be micless and/or clueless. You want to avoid that. (3) The SL may have plans that don't involve all 9 squad members spawning straight away, you take this option away by running out and spamming F on a logi.
+- When you join a game and a squad at game start, don't instantly spawn in. Wait a polite 10-20 seconds for the squad to fill and the SL to open his mouth. For several reasons. (1) The SL may be a shitbag that passes the kit over in 5 seconds which results in a hot potato squad and ruins the match start. (2) The SL may be micless and/or clueless. You want to avoid that. (3) The SL may have plans that don't involve all 9 squad members spawning straight away, you take this option away by running out and spamming F on a logi.
 - Ask SL for vehicle permission BEFORE spawning at main. If your SL doesn’t want you to use it and/or wants you somewhere else you are either stuck at main waiting for a ride or have to waste a ticket to respawn.
 - Follow the Squad Leaders orders and stay close to your squad unless told otherwise.
 - Follow someone. If you are a Rifleman try to follow your squad’s anti-tank guy(s) because they will need your ammo bag. Often, your SL will put you in a fireteam together with a LAT/HAT guy and a Medic.
@@ -701,11 +701,14 @@ In the console type:
 
 
 ## Callouts
+- Don't get caught up in speech or slang. Clear quick and precise information is important, not how you say it. 
+- Always identify yourself and never say “me”. 
+- Use the appropriate voice channel.
 - Before you use voice chat remember this: A.B.C. Accuracy, Brevity, Clarity. Your Squad Leader will thank you, and the rest of the squad will too.
 - Always check your map to see if you're looking at an enemy or friendly soldier.
 - Don't ever say "101 degrees" in squad chat. Any degree direction in squad chat is useless and anybody not in local range will just get a confusing direction to look at. Stick to local chat for degree information.
 - Don't say "Enemy on me". Not in local chat and especially not in squad chat. Other players do not know who said: "On me". If they are quick enough to spot your name in the voice chat notification they would still have to open their map and then find where you are. Say at least "Enemy on YOURNAMEHERE's position" and give some indication of where you are. 
-	- To describe where you are use:
+	- To describe where you are, use:
 		- landmarks (e.g. bridge, village, mountain)
 		- features of the map (water tower, radio antenna, police station, main road, etc.)
 		- your SLs position
@@ -868,7 +871,7 @@ Fortunate Son - Creedence Clearwater Revival
 - The radio hub can be incapacitated by firepower above a certain caliber or dug down by a holding down right-mouse-click with the Entrenching tool (shovel). Satchel charges set by a Combat Engineer and Sapper or the improvised explosive device set by a Sapper are also very effective at lowering the health of the radio hub. Deconstructing the radio hub to below 75% will make the Spawn Bunker unspawnable.
 - Once incapacitated the friendly team has 60 seconds to rebuild the radio before it is destroyed. The timer can be stopped by building the radio back up to a certain threshold, the radio does not have to be fully rebuilt in these 60 seconds. During this time the enemy team cannot destroy the radio and must defend the radio while the timer is running, friendlies are the only players able to destroy the radio while this timer is running.
 - Once destroyed, all tech structures and emplacements placed within a radio hub's build vicinity will be destroyed as well. Fortifications such as sandbags and HESCO blocks will remain. If an enemy player destroys your radio hub, your team will lose 10 tickets.
-- Only a Squad Leader with a Squad Leader kit can place a radio hub and is accessed through the deployables menu by pressing T. To place a radio hub, the Squad Leader requires one other member from the team to be nearby and a logistics vehicle to be within 30 meters. In addition, a radio hub cannot be placed within 300 meters from another radio hub. This radius can be displayed on the map from the drop-down menu. Once placed, the radio hub can then be supplied by a logistics vehicle with construction and ammo points. These points show on top o the screen when a player is within the 150-meter build radius. Unlike deployable assets, a radio hub does not need to be constructed with an entrenching tool.
+- Only a Squad Leader with a Squad Leader kit can place a radio hub and is accessed through the deployables menu by pressing T. To place a radio hub, the Squad Leader requires one other member from the team to be nearby and a logistics vehicle to be within 30 meters. Also, a radio hub cannot be placed within 300 meters from another radio hub. This radius can be displayed on the map from the drop-down menu. Once placed, the radio hub can then be supplied by a logistics vehicle with construction and ammo points. These points show on top o the screen when a player is within the 150-meter build radius. Unlike deployable assets, a radio hub does not need to be constructed with an entrenching tool.
 - If construction points are available, the Squad Leader can then place deployable assets within the 150-meter build radius, which then need to be constructed by other team members with the Entrenching tool. When construction and ammo points are depleted, a logistics vehicle will need to deliver supplies from the main base to continue building and resupplying ammunition.
 
 [Back to top](#content)
@@ -880,7 +883,7 @@ Fortunate Son - Creedence Clearwater Revival
 - Fireteam Leads can also place fortification structures.
 - For each FOB you will most likely build a HAB and an ammo box. The radio, as mentioned above, does not need to be built.
 - You can help other squadmates to build a structure. More shovels build faster.
-- Make sure you're standing OUTSIDE the deployable or your team mates will bury inside it. You will be alive, but you won't be able to go anywhere. 
+- Make sure you're standing OUTSIDE the deployable or your teammates will bury you inside it. You will be alive, but you won't be able to go anywhere. 
 - If you see enemy structures you can remove them with your shovel. Approach the structure and use your right mouse button.
 
 [Back to top](#content)
@@ -919,6 +922,7 @@ Fortunate Son - Creedence Clearwater Revival
 - Use your map to make an educated guess on where the enemy is, and when you need to be vigilant, which direction you should be watching, etc.
 - Find out where your teammates are looking. They are usually looking towards the enemy in a firefight.
 - If you're SL or fireteam lead you can place markers on the map.
+- You probably heard something like "Enemy grid Alpha 3, subkey 4, 6" This is referencing the grids on the map, if you hover over a grid at the bottom right it shows the grid (ie Alpha 3-4-6). The largest grid would be Alpha 3, then inside that grid is another smaller grid (subkey 4) and inside that grid is an even smaller grid (6).
 - You can use the map coordinate grid for callouts (e.g. "Tank in F-8").
 - Each grid has a smaller sub-grid. The smaller one consists of 9 squares and is called Keypad. It is read from 1 to 9 like the numerical keypad on your PC keyboard. The square in the lower left is 1, the square in the upper right is 9.
 - If you hover with your mouse over a grid you will see the actual position of your mouse. When you open the minimap by running you will see your player position on the left up corner.
@@ -964,7 +968,12 @@ Fortunate Son - Creedence Clearwater Revival
 - Watch out for IED bikes and drones. If a bike is making a beeline for you, shoot that guy immediately.
 - Learn to identify where the incoming fire is coming from by listening. Bullets move faster than the speed of sound, so if you get shot at, you'll first hear the supersonic crack of the bullet passing by you, and then you'll hear the dull "thump" of the rifle that fired it. If you hear a crack, get ready to listen for the thump.
 - Hold your fire if you spot a group of enemies in the distance. Let soldiers around you know (local com), let your squad know if it's an armored vehicle (squad com). If possible let enemies come closer or let them move to a position where they hardly find cover. Coordinate the attack with soldiers around you.
-- Check out the following chapter on how to [How To Identify A Vehicle](#how-to-identify-a-vehicle) and [How to Destroy/Disable A Vehicle](#how-to-destroydisable-a-vehicle).
+- If you get pinned down, you will lose. Anytime you are in a small area defending, it's only a matter of time until you will lose. Trying to defend the point? Push OFF the point. If you stay on the point, you will eventually lose it. Too many people are too scared and get pinned down immediately, and you end up with 10 players within 20m who are completely combat ineffective. Getting pinned down? Quit attacking in the same linear direction as your entire team and flank.
+- Suppressive fire is underutilized and extremely powerful. If you get shot at close to you, what is your default reaction? You go prone and/or take cover. You become combat ineffective. All it takes is a close shot - not a hit. Guess what - it's the same for the enemy. People don't utilize this enough. You can put a few shots into a window at long range and the person who was holding the angle will forfeit it - allowing you to push them. If the enemy is somewhere in a building, put one shot every second into one window, then the next, then the next, then the next. 30 seconds of a person not shooting back. You can suppress whole squads with one rifleman doing this.
+- Suppressive fire is not a mag dump. It is not 30 round bursts from an AR/MMG. Suppressive fire is one or two shots a second (maybe 5 or 6 if using an AR/MMG) in the general direction of the enemy. You don't need cover fire that is a 10-second stream of automatic fire and then a reload. You put slow, consistent fire downrange - and the enemy keeps their damn head down.
+- Use your smokes. It's the single biggest advantage you have when advancing. Smoke removes the defender’s ability to see your advance.
+- "I'm up, he sees me, I'm down" - is a marine tactic and it works well. Move from cover to cover, from concealment to concealment with this. It means - make bounds, wait, scan, look, bound again. Expose yourself for a few seconds, then get back in cover. Say it out loud or in your head and you'll get the idea of how long it's realistic to be in the open.
+- Check out the chapter on how to [How To Identify A Vehicle](#how-to-identify-a-vehicle) and [How to Destroy/Disable A Vehicle](#how-to-destroydisable-a-vehicle).
 
 [Back to top](#content)
 
@@ -1074,7 +1083,7 @@ Fortunate Son - Creedence Clearwater Revival
 - Communication & How to be an asset to your squad
     - The easiest thing to do to go from "Yeah, it's some dude playing a Medic" to "Holy shit that guy is super useful how do we recruit him now and have babies in the progress" is 100% communication as you can both relay critical information that nobody else has and talking to the people you're trying to rescue ups their chances of survival quite significantly. Firstly you've got the Medic Vision which allows you to see downed players in about a 150m radius around you regardless if they're in your squad or not. This gives you the best overall picture of how the fight is going and learning to relay the crucial information from this to your squad members and Squad Leader can change the pace of the fight and save you from getting flanked or losing assets.
     - Secondly, you should be in constant communication with your squad members and the other Medic to get your reviving responsibilities handled effectively and safely. As a Medic, you have a certain amount of authority, and asking/telling the other individual to cover you should be a routine aspect of your game. When reviving players they should preemptively tell you critical information about their status like "An enemy is standing on top of me" or "I got sniped from West but am in good cover so clear to pick up". Good players do this, but more often than not you need to demand it if you're unsure of what you're getting into. Again, your survival is more critical than the random Joe's in the middle of the street there. Once you are reviving them, if the situation demands it, tell them what to do as they get up to survive the next 3 seconds as well. Nothing is more frustrating than busting your ass saving a guy and having them stand up and get shot in the face the moment they're back in the game. So tell them not to.
-- You have a rifle - Use it - As a last gameplay tip, do remember that while you usually play the friendly neighborhood doc, you're still kitted out to kill, even better than a normal leman. You've got the same kit with extra bandages and the ability to heal yourself fully in between taking hits. You're literally the Terminator in the right circumstances. Use this to your advantage and if there is no one else to clear the enemies for you, go do it yourself. You're always better off dying in a 1v1 fight that while won allows you to revive a friendly than walking straight up to the friendly and getting killed on top of them because the enemy was still watching his body.
+- You have a rifle - Use it - As a last gameplay tip, do remember that while you usually play the friendly neighborhood doc, you're still kitted out to kill, even better than a normal leman. You've got the same kit with extra bandages and the ability to heal yourself fully in between taking hits. You're literally the Terminator in the right circumstances. Use this to your advantage and if there is no one else to clear the enemies for you, go do it yourself. You're always better off dying in a 1v1 fight that - while won - allows you to revive a friendly than walking straight up to the friendly and getting killed on top of them because the enemy was still watching his body.
 - Common phrases for a Medic:
     - "Don’t look at me - look at the enemy"
     - "Where did you get shot from"
@@ -1115,7 +1124,7 @@ Fortunate Son - Creedence Clearwater Revival
 - Bandages heal bleeds (blood droplet symbol).
 - Kit heals health.
 - Have to fix the bleed first then heal.
-- Right-click with kit heals yourself, left click heals friendlies.
+- Right-click with kit heals yourself, left-click heals friendlies.
 - Second Medic kit has a long-range optic.
 - Try to always have a visual on your Squad Leader. If they go down before they can place a rally or FOB your whole squad will most likely lose the precious ground they just covered.
 - If you go down, the squad goes down.
@@ -1152,7 +1161,7 @@ Fortunate Son - Creedence Clearwater Revival
 - Player movement is damn quick, so not only will you need to be calculating distance, but you also need to account for your target’s movement, and at range, this can be very difficult against a target sprinting full-bore. Splash damage is weak enough that if you are even a hair too short or too behind, your target will just keep running. At range, it is often better to take 10 potshots and miss 9 of them than it is to launch one 40mm.
 - It is also a very map-situational kit. On maps where with lots of elevation differences like Fools Road Grenadier is often not as good as regular old bullets.
 - Marking smoke can really shine on urban maps, though. On Narva or Basrah it can be hard to make accurate callouts that distinguish between different buildings. See half a squad run into a building? Stick a red smoke to the balcony and holler in local chat, "enemy in red smoke building!"
-- If you want to get more accurate with the GL, I'd avoid changing the sight zero and just wing it. Load up the firing range and just sit there for an hour shooting grenades at shit
+- If you want to get more accurate with the GL, I'd avoid changing the sight zero and just wing it. Load up the firing range and just sit there for an hour shooting grenades at shit.
 - The HE grenades are great to put into compounds, buildings or tree lines that you know contain enemies but are not visible. It's basically for area denial as opposed to shooting at singular targets.
 - Grenades will not arm if you hit targets that are too close (less than 50m).
 - Smokes should be placed in the sightline between the location you desire to reach and the enemy when assaulting. Smoke close to the enemy can also force them to relocate. They are very useful to mask compromised positions when defending to allow them to keep firing or reposition despite being bracketed. It's a marker though and should only be used when your cover is blown/you're ok with blowing your cover. This will become even more true once the helis are in the sky looking for it.
@@ -1269,7 +1278,7 @@ To hit the engine is far harder to hit and can be missed pretty easily. If the v
 - To hide your mines, you can dig them into the ground with a shovel by pressing left-click.
 - The only way to disable mines is to dig them back out, use the right-click for that.
 - The mines are marked with a white skull on the map to help your teammates to avoid them because they do not ignore friendlies.
-- Place your mine on crossroads, bridges, or on entrances to objectives to destroy enemy logis and light vehicles or to damage armored ones.
+- Place your mine on crossroads, bridges, or entrances to objectives to destroy enemy logis and light vehicles or to damage armored ones.
 - Don't place your mines in the way of supply routes of your own team, backline objectives of your team, or areas with friendly vehicles.
 - Hide mines with rocks. However, don't do that on asphalt roads as the rocks are sticking out and are spotted quickly. The rocks can also be used as a dummy to scare off drivers or to funnel them into another direction, where you placed mines.
 - Place mines together in a line to blow up any vehicle instantly that comes across.
@@ -1423,10 +1432,10 @@ Let someone else drive your bike into the enemy radio or positions as they can s
 ## Vehicle Types
 - This is the vehicles section of the guide, which gives a brief description of each vehicle type in Squad.
 - AFV: Armored Fighting Vehicles - This can be any armored and armed vehicle: MRAPs, APCs, IFVs, MBTs.
-- APC: Wheeled with .50 cal (Armored Personnel Carrier). APCs are usually wheeled, some have tracks, but they have a smaller gun than other vics. Medium armored with armament that can pierce other APCs and other vehicles with lower armament ratings; can carry a squad of men; includes Stryker with CROW, BTR-80, and most MT-LB variants. Have 600 ammo for resupply.
+- APC: Wheeled with .50 cal (Armored Personnel Carrier). APCs are usually wheeled, some have tracks, but they have a smaller gun than other vics. Medium armored with armament that can pierce other APCs and other vehicles with lower armament ratings; can carry a squad of men; includes Stryker with CROW, BTR-80, and most MT-LB variants. Have 600 ammo for resupply. APCs are mainly just battle taxis (motorization of infantry): Bring up infantry close to the fight and leave, extend the infantry’s range and give them light armor against small armed threats (aka other infantry).
 - AT vehicle: Techie/MRAP w/ ATGMs (Anti-Tank Guided Missile)
 - Helicopter (Helo) - a flying machine used for resupply, FOB creation, and troop transport. Can also do recon or provide light CAS, but weak in terms of armor and armament. More on helicopters in the next chapter: [Helicopter](#helicopter)
-- IFV: Tracked or wheeled with canon above .50 cal (Infantry Fighting Vehicle). The Russians have a BTR IFV (wheeled) and a BMP IFV (tracked) (Russian Armored Transporter). IFVs are usually tracked, with a lot of good offensive options. Medium to high armor with armament that can pierce other IFVs and other vehicles with lower armament ratings; some have HAT capabilities with ATGM systems (Anti-Tank Guided Missile); include Bradley, MT-LB with 30mm, and BTR-82A. The difference between APCs and IFVs is a little bit of a gray area. Both are a subclass of AFVs and the APC usually has a smaller .50 cal gun, whereas an IFV has a 30mm gun.
+- IFV: Tracked or wheeled with canon above .50 cal (Infantry Fighting Vehicle). The Russians have a BTR IFV (wheeled) and a BMP IFV (tracked) (Russian Armored Transporter). IFVs are usually tracked, with a lot of good offensive options. Medium to high armor with armament that can pierce other IFVs and other vehicles with lower armament ratings; some have HAT capabilities with ATGM systems (Anti-Tank Guided Missile); include Bradley, MT-LB with 30mm, and BTR-82A. The difference between APCs and IFVs is a little bit of a gray area. Both are a subclass of AFVs and the APC usually has a smaller .50 cal gun, whereas an IFV has a 30mm gun. IFVs are intended to support MBTs (armor units) with Infantry (mechanization of infantry): MBTs need infantry to defend them from OPFOR infantry, but to keep up the speed and the intended combat intensity these infantry units need something better than a standard low-cost APC. So this is where your (mostly tracked) IFV comes in handy. IFVs can hit harder and take more of a beating so they are perfect for being on the frontline.
 - Logistics Truck - an open-roofed truck with supplies in the back; includes the Ural and M939 variants that can hold 10 people and 3000 supplies.
 - MBT: Tracked with one big fat gun (Main Battle Tank). Heavily armored fighting vehicles that carry heavy armaments able to pierce other MBTs and other vehicles with lower armament ratings; sacrifice men capacity for armor and armament; include the M1 Abrams and T-72 B3.
 - MotorBike - fast and agile bike that can glitch out sometimes and get you killed; holds 2 people
@@ -1453,7 +1462,7 @@ Let someone else drive your bike into the enemy radio or positions as they can s
 - Practice/play all roles within a tank, also practice different tanks. If all you want is to be a gunner, you might not understand what the other crew members need to be doing and it might lead to frustration and defeat. Try to find a group/clan to play together often, it will increase your effectiveness by far.
     - Both T-72s are very slow when reversing, the cannon round goes off a bit to the right and its auto-reload is slower than the manual reloads of the Abrams, for example, but its low profile, it only requires a crew of 3. The top gunner is remote and it's quite fast moving forward (for a tank, that is).
     - The Abrams is very loud and high profile, very easy to distinguish, the range finder is a bit weird, but the front armor has a greater chance of deflecting rounds than most tanks and its top gunner is also remote.
-    - Challenger has a weird measurement of range. It can't fire backwards effectively and it’s quite high profile as well, but it's quite fast moving in any direction and very maneuverable.
+    - Challenger has a weird measurement of range. It can't fire backward effectively and it’s quite high profile as well, but it's quite fast moving in any direction and very maneuverable.
     - Leopard has a very different ranging system that gives him quite big of an edge in long-range engagements but it's awkward to use at close range, but it has a somewhat lower profile than most tanks
     - The T-62 is very exposed, but it’s very low profile, making the least noise, it’s fast, requires only 3 Crewmen and of all tanks, this is the one with the greatest chances of deflecting rounds directed at its turret.
 - Also, practice all tanks so you know their strengths/weaknesses and how to range/maneuver them.
@@ -1484,7 +1493,7 @@ Let someone else drive your bike into the enemy radio or positions as they can s
 
 How to read the information below: If you see a vic that looks somewhat like a tank (since it has the hull of a tank), check if it has wheels or tracks. If it has wheels, check how many wheels it has on its side (2 or 4). If it has 2 wheels it’s most likely an APC. If it has 4 wheels, can you determine if it has a .50 cal or 30mm gun? If it has a 30mm gun it’s most likely an IFV. 
 Also, if it has tracks, is the gun longer or shorter than the hull? If its gun is shorter than its hull it could be an IFV or an APC. 
-If in doubt rather say IFV than APC since an IFV poses a bigger threat and usually has stronger armor. Better to be cautious and call out a stronger/better-armed vehicle class, so your SL/Commander can respond appropriately. 
+If in doubt, rather say IFV than APC since an IFV poses a bigger threat and usually has stronger armor. Better to be cautious and call out a stronger/better-armed vehicle class, so your SL/Commander can respond appropriately. 
 
 - What you see = what it most likely is (and what you should call out)
 - Tank (does it have tracks or wheels; if it has wheels, how many per side?)
@@ -1553,7 +1562,7 @@ If in doubt rather say IFV than APC since an IFV poses a bigger threat and usual
 ### MRAP
 - Weak spots to focus on:
 	- tires
-	- engine (attack from side)
+	- engine (attack from the side)
 - Weapons to use against this vic:
 	- Rifle/MG - shoot tires (~35 shots needed) to disable the vehicle
 	- HAT
@@ -1653,7 +1662,7 @@ The Squad Leader is a command and support role whose primary responsibility is t
 
 
 ## What is a Squad Leader?
-- A Squad Leader is a player who creates a squad and is assigned the Squad Leader role and thus accepts the responsibilities that come with it. The role is the most demanding in the game and requires a firm knowledge of the game mechanics and a willingness to be vocal and to be directly in command of 8 other players. You set the initial mood in the squad from serious and focused to joking and relaxed and determine the amount of BS that you tolerate from your squad members. Don't underestimate this as it has a direct consequence to your own enjoyment of the game.
+- A Squad Leader is a player who creates a squad and is assigned the Squad Leader role and thus accepts the responsibilities that come with it. The role is the most demanding in the game and requires a firm knowledge of the game mechanics and a willingness to be vocal and to be directly in command of 8 other players. You set the initial mood in the squad from serious and focused to joking and relaxed and determine the amount of BS that you tolerate from your squad members. Don't underestimate this as it has a direct consequence on your own enjoyment of the game.
 - Your role is to communicate with other SL's and form a simple plan for the first minutes of the game, consisting of which squad uses what assets and takes care of what responsibilities both initially and throughout the match, like setting up FOBs, capturing each of the neutral flags and contesting the enemy forces.
 - Then you communicate the part that is relevant to your squad to them and start the game by getting into action in your designated vehicles.
 
@@ -1676,7 +1685,7 @@ The Squad Leader is a command and support role whose primary responsibility is t
 - Make sure you pick the SL kit. Big must. The Squad Leader needs this kit to place FOBs and other structures.
 - Every squad should have at least a single Medic and AT. After your subordinates have chosen their roles, and you see none of them chose AT or/and a Medic then choose who will switch, by name (don't ask for volunteers).
 - Keep in mind Fire Support category (AR, LAT, Marksman) has a limited number of slots per squad, you might need to ask your AR or Marksman to switch because others won't be able to). Specialist category (Machine gun, HAT, Engineer) is limited to 2 for the whole team, if you see two HATs in your squad order one of them to switch.
-- Make sure every person in your squad has a microphone and uses it. Name your squad MIC REQ always. There is no point to join a squad if you can't communicate with each other. It makes your life a billion times easier and your squad much more effective.
+- Make sure every person in your squad has a microphone and uses it. Name your squad MIC REQ always. There is no point in joining a squad if you can't communicate with each other. It makes your life a billion times easier and your squad much more effective.
 - Do mic checks on the way out of spawn once all the comms are cleared. You can also get your fireteam leaders to do them if you're busy with command chat.
 - It is possible that a player is mute and is not able to communicate via voice. Do not kick players just because they don't have a mic. Kick players only if they aren't following orders or if they give you and the team a hard time. Also, leave your text chat on and check if squad members are trying to communicate with you via chat.
 - Never have just only one Medic on your team.
@@ -1695,10 +1704,10 @@ The Squad Leader is a command and support role whose primary responsibility is t
     - Could we be doing more? = Always try to use all your assets to their fullest, this means both vehicles and players. If you're having a more silent period and are happy with your defense perimeter, offer assistance to others. Sharing is caring, this goes for transports, Medics, anti-tanks, anything you can spare, someone has a need.
 - Keeping a track of these 3 things will have your squad being very proactive and being able to adapt to most situations on the fly. Remember that you're not the only one responsible for the whole squad, the other 8 players are still human beings capable of their own decision-making. To put it very simply, your job is to get the squad into a spot where you're contesting either an objective or enemy forces/assets, point them in a direction, and make sure they have a place to spawn on.
 - Name your squad when you make it, something like MIC REQ INFANTRY gets the point across.
-- Claim a logi truck in main base and go make a FOB.
+- Claim a logi truck in the main base and go make a FOB.
 - Place your rally before you engage.
 - Rearm your rally, you only get one at a time.
-- Enemies can squash your rally if they walk nearby of it.
+- Enemies can squash your rally if they walk nearby it.
 - There needs to be attacking and defending squads, pay attention to what other SLs are doing.
 - Nobody defending? Well, the enemies are going to notice that.
 - Tell someone to go do a logi run if you notice stuff is getting low.
@@ -1792,12 +1801,12 @@ Ask for your squad's opinion sometimes - Be open to reasonable suggestions from 
 ## Building FOBs and HABs (Spawn Points)
 - An SL can only place the structure foundation. Another team member with a shovel has to build the structure.
 - Do not place your FOB right on the objective. FOBs in this area will be assaulted and need heavy defenses. The further away you can place the FOB the better. 
-- Always build a backup FOB. Multiple spawn locations gives your team more options to attack the enemy.
+- Always build a backup FOB. Multiple spawn locations give your team more options to attack the enemy.
 - Do not build a FOB inside a CP. Not only is it impossible for the enemy to miss, but you also make a fishbowl FOB where your enemy can use your own walls as cover and shoot you/throw grenades inside your spawn. You are wasting your time building it where you could be useful doing something else and you are bleeding valuable tickets plus the 10 points when the FOB goes down.
 - FOB (radio) location - place it either inside a building for protection against artillery and vehicles or in foliage for stealth.
 HAB location - needs some cover next to it (rotate with arrow keys to fit in tight places). Whatever is close to the HAB is gonna be protected by spawning soldiers, be it the radio or a flag. At the same time enemies attacking one, also attack the other for free.
-- HAB (spawn bunker) costs 500 CPs while an ammo box goes for 100, therefore a minimum amount of CPs required for a FOB is 600. Personally, I take an extra 100 for another ammo box away from the HAB. By default, I recommend taking enough supplies to make 2 to 3 FOBs (1200 or 1800 CPs minimum).
-- FOBs can be used offensively or defensively, allow for unlimited spawns, need shovels to be removed, allow for building of base parts within 150m of the placed radio, cannot be placed within 300m of another friendly FOB, and require friendlies with shovels to place.
+- HAB (spawn bunker) costs 500 CPs while an ammo box goes for 100, therefore a minimum amount of CPs required for a FOB is 600. Take an extra 100 for another ammo box away from the HAB. Take enough supplies to make 2 to 3 FOBs (1200 or 1800 CPs minimum).
+- FOBs can be used offensively or defensively, allow for unlimited spawns, need shovels to be removed, allow for the building of base parts within 150m of the placed radio, cannot be placed within 300m of another friendly FOB, and require friendlies with shovels to place.
 - For each FOB you'll need
     - 500 build for the HAB
     - 100 build for an ammo box
@@ -1877,7 +1886,7 @@ HAB location - needs some cover next to it (rotate with arrow keys to fit in tig
 - Make sure your team has a commander! And listen to their orders. They are looking at the map and are usually Squad vets who know what needs to happen, when it needs to be done by, and by who. If they ask you to build a FOB on a point two points away from the active ones, it means they think our defense is not sustainable and are preparing to fall back to a defensible position.
 - Make sure you communicate with command and other Squad Leaders. Use your direct comms (num pad) as much as possible, but relay important information to all squads. For example, I will relay the location of an enemy tank to all squads, as that can help anti-tank infantry to engage and helicopter Pilots to stay away. However, I will direct comm our tank squad to tell them what direction the gun is facing, or how many crew members are alive, etc. So they can engage effectively. Another example is when organizing an assault. You can directly contact another infantry squad and get them to attack from the north while you sneak into the cap and FOB from the south.
 - Tell other SLs what your plan is.
-- In regards to the whole team, what you want to do as a good SL, is to actively participate in the first minute plan of action. Take whatever assets you feel like using and using them to the best of your ability. In most cases this means, you'll assign a couple of people as drivers/gunners where necessary and let them do their thing, assuming they have some experience with the asset and can be useful.
+- In regards to the whole team, what you want to do as a good SL, is to actively participate in the first-minute plan of action. Take whatever assets you feel like using and using them to the best of your ability. In most cases this means, you'll assign a couple of people as drivers/gunners where necessary and let them do their thing, assuming they have some experience with the asset and can be useful.
 - The primary things you need to communicate from one SL to another are FOB and objective related. Building/losing a FOB and capturing/losing an objective are the most crucial, game-changing info you have to share. This allows for others to plan and move accordingly and make sure the whole team remains in the fight.
 - Keep command chat clear of unnecessary information. This comes with practice.
 - Communicate - As SL you can talk to other SL's with the default binding 'G'. Do this at the start of the game to figure out what squad is capping what to avoid wasting precious time getting to the front. It's also important to communicate progress and developments on objectives. I.e. let the other squads know if you're about to get overrun or conversely if you are attacking and need backup to take the OBJ.
@@ -1968,7 +1977,7 @@ HAB location - needs some cover next to it (rotate with arrow keys to fit in tig
 - No matter how frustrating it gets, always keep your cool. When you are calm, so is your squad and a calm squad will think a lot clearer than one that is getting angry.
 - Have a drink.
 - A decent Squad Leader just makes sure the basics get done well. Get the FOB/HAB down, keep the rally up, give the squad opportunities to get the fighting done.
-- Whenever you get a squad of finely chopped jello just piggyback off another squad. Because when individual manpower lacks, raw numbers compensate. "We're following and assisting squad 1" - because, 19 people are way scarier than 4 guys who know what they're doing. And I'm all about that intimidation factor of making some Auto Rifleman realize his 50 round belt isn't enough and screams into the mic "full enemy team to the west" because let's be honest, when's the last time a Rifleman ever gave a proper enemy force count. Make it true for once ;)
+- Whenever you get a squad of finely chopped jello just piggyback off another squad. Because when individual manpower lacks, raw numbers compensate. "We're following and assisting squad 1" - because 19 people are way scarier than 4 guys who know what they're doing. And I'm all about that intimidation factor of making some Auto Rifleman realize his 50 round belt isn't enough and screams into the mic "full enemy team to the west" because let's be honest, when's the last time a Rifleman ever gave a proper enemy force count. Make it true for once ;)
 - You can only do so much. Don't stress too much if a game goes to shit. You're the arm that guides the spear. Sometimes the spear tip (squad members) is not made of steel. Sometimes it's wet noodles. And at that point when every teammate goes 0/10, your leadership is irrelevant. First and foremost Squad is a shooting game. If no one in the squad is shooting enemies, nothing gets done.
 
 [Back to top](#content)
@@ -2007,12 +2016,13 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 
 ## 0-9
 * .50 Cal - In reference to the .50 Cal HMG
-* 10-4 - Copy or Yes, I understand your message
+* 10-4 - Copy that; or -  Yes, I understand your message
 * 1HK - One Hit Kill
 * 203s - M203 grenade launcher is a single-shot 40mm under-barrel grenade launcher designed to attach to a rifle.
 * 2-to-1 advantage - having twice the manpower than the enemy (e.g. on an objective)
 * 2/ic - Second in command
 * 30 Mike - refers to vics with 30-millimeter guns like the BMP-2 and BTR
+* 30 mil - Any vehicle mounting the 30 mm autocannon.
 * 40 Mike-Mike - An M203 40mm grenade launcher, usually mounted under an M-16 or similar weapon.
 
 Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](#g), [H](#h), [I](#i), [J, K](#j-k), [L](#l),  [M](#m), [N](#n), [O](#o), [P](#p), [Q](#q), [R](#r), [S](#s), [T](#t), [U](#u), [V](#v), [W, X, Y](#w-x-y), [Z](#z) - [Back to top](#content)
@@ -2033,8 +2043,8 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 * AH - Attack Helicopter
 * AOR - Area of responsibility
 * APC - Armoured Personnel Carrier - Small cannon/HMG, fast, on wheels. Has usually enough space inside for crew + one full squad.
-* APFSDS - Armour-piercing fin-stabilized discarding sabot, long dart penetrator, or simply dart ammunition, is a type of kinetic energy penetrator ammunition used to attack modern vehicle armour (e.g. main battle tanks)
-* AR - Automatic Rifleman - one man can carry it, not as heavy as an LMG, think SAW by the US forces
+* APFSDS - Armour-piercing fin-stabilized discarding sabot, long dart penetrator, or simply dart ammunition, is a type of kinetic energy penetrator ammunition used to attack modern vehicle armor (e.g. main battle tanks)
+* AR - Automatic Rifleman, the role with the machine gun.
 * AR - Assault Rifle
 * Area is hot - Can be replaced with a specific area on the map. A section of the map is filled with enemies; friendlies are most likely engaged with the enemy and an intense firefight is ensuing.
 * ASAP - As soon as possible
@@ -2067,7 +2077,7 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 * BMP - The BMP-1 is a Soviet amphibious tracked infantry fighting vehicle. BMP stands for Boyevaya Mashina Pekhoty 1, meaning "infantry fighting vehicle".
 * Brad, Bradley - M2 Bradley Armored Personnel Carrier (APC)
 * Bravo Zulu - Good Job
-* BRDM - Russia made scout car armed with a heavy machine gun.
+* BRDM - Russian-made scout car armed with a heavy machine gun.
 * BS - Bullshit
 * BTR - The BTR-80 ("Armoured Transporter") is an 8x8 wheeled amphibious armored personnel carrier (APC) designed in the USSR
 * BTR 20 - BTR with small 14.5mm gun (aka small BTR)
@@ -2088,7 +2098,7 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 * Clear to Engage! - You are allowed to attack!
 * Clip(s) - a special way to reload a gun involving a literal clip (SKS has this)
 * Charlie Foxtrot - Commonly used expression utilizing the military alphabet to stand for clusterfuck.
-* Coax - Nearly all main battle tanks and most infantry fighting vehicles have a coaxial machine gun mounted to fire along a parallel axis to the main gun. Coaxial weapons are usually aimed by use of the main gun control. It is usually used to engage infantry or other "soft" targets where the use of the main gun would be dangerous, ineffective, or wasteful.
+* Coax - Nearly all main battle tanks and most infantry fighting vehicles have a coaxial machine gun mounted to fire along a parallel axis to the main gun. Coaxial weapons are usually aimed by the use of the main gun control. It is usually used to engage infantry or other "soft" targets where the use of the main gun would be dangerous, ineffective, or wasteful.
 * Commander - Commanding SL
 * CN - China
 * CONOPS - Concept of Operations
@@ -2109,7 +2119,9 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 
 ## D
 * Danger Close - CAS or artillery support within 600m of friendlies
+* Deployables - HABs, ammo boxes, machine guns, mortars, sandbags, and other such items built at FOBs
 * Dismount - Leave the vehicle
+* Dish-K - DShKM. Russian heavy machine gun used by the Insurgent and Militia factions, tripod- or vehicle-mounted.
 * DMR - Designated Marksman Rifle
 * DoD - Dome of Defense (around main base)
 * Double neutral/white - A situation when a defensive flag is neutralized before the offensive one gets fully captured. Only three teammates are required to recapture such a flag, no matter how many enemies are inside the cap zone.
@@ -2134,17 +2146,18 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 ## F
 * Faction - Team - One of the 2 groups fighting each other
 * Fast Mover - Slang for a Jet Fighter. Aptly named due to the rapidity of a Jet Fighter's movement.
+* Fifty - Any .50 caliber (or similar) machine gun, can tripod- or vehicle-mounted.
 * Fire for effect - the final command used in a full fire order after a ranging shot(s) has found the mark.
 * Fitty - Slang for an M2 .50 caliber machine gun.
 * Flag - Control Point
 * FM - Field Manual
 * FNG - Fucking New Guy, refers to newcomers
 * FO - Forward Observer. Someone who can see the mortar impacts and make adjustments to their impact.
-* FOB - Forward Operating Base - the entire radius around the radio, within assets can be placed (HABS, mortars, vehicle repair stations, etc)
+* FOB - (pronounced fob, not F-O-B) - Forward Operating Base - the entire radius around the radio, within assets can be placed (HABS, mortars, vehicle repair stations, etc.)
 * FOV - Field of view
 * FOW - Fog of war - not yet visible areas on the map
 * FPS - Frames Per Second
-* FRAG Round - "Fragmentation Round - refers specifically to the fragmentation round used to take on infantry
+* FRAG - "Fragmentation Round - refers specifically to the fragmentation round used to take on infantry
 * Frags - Fragmentation Grenades
 * Free to Engage - Allowed to attack on contact with the enemy
 * FTL - Fireteam Lead (a squad can be divided into two fireteams)
@@ -2159,7 +2172,7 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 * G2G - Got to go
 * GG - Good Game
 * GJ - Good job
-* GL - Grenade Launcher
+* GL - Grenade Launcher, a term for the grenadier role with that weapon.
 * GL - Good luck
 * GLHF - Good Luck, Have Fun
 * Good Splash - Good Mortar/Rocket Rounds. This means the mortar rounds were on target and inflicted enemy damage.
@@ -2174,16 +2187,17 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 
 
 ## H
-* HAB - Hesco Accommodation Bunker - Spawn point
+* HAB - Hesco Accommodation Bunker - a FOB deployable that is a team-wide spawn point
 * Hang Fire - Hold fire until told to do so
 * Hard contact = I see an enemy and they're shooting at me. (Soft contact = I see an enemy but nothing's happened yet. No one is shooting.)
-* HAT - Heavy Anti-Tank
+* HAT - Heavy Anti-Tank, the role with the tandem-HEAT rocket for its RPG. The most powerful anti-vehicle weapon.
 * HBAR - Heavy Barrel
 * HC - Hardcore
 * HE - High Explosive, refers to ammo types
-* HEAT Round - "High Explosive Anti-Tank Round" - refers specifically to the light anti-tank round that can take on most lightly armored vehicles and damage heavier ones
+* HEAT - "High Explosive Anti-Tank Round" for RPG, for use against vehicles and deployables
 * HEDP - high-explosive, dual-purpose M430 grenade launcher cartridge
 * Helo - Helicopter
+* HESCO - Earth-filled burlap boxes used for military fortifications. Used as a temporary to semi-permanent levee or blast wall against small-arms fire and/or explosives. It has seen considerable use in Iraq and Afghanistan. 
 * HF - Have fun
 * HMG - Heavy Machine Gun .50 Cal
 * Hold Fire - Stop firing
@@ -2227,16 +2241,16 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 
 
 ## L
-* LAT - Light Anti-Tank
+* LAT - Light Anti-Tank, the role with the rocket launcher.
 * LAV - Light Armored Vehicle, an eight-wheeled amphibious armored reconnaissance vehicle
-* LAW - Light Anti-Tank Weapon; M72-LAW, US-specific LAT weapon
+* LAW - Light Anti-Tank Weapon; M72-LAW. The American rocket launcher. More commonly referred to simply by its role, "LAT".
 * Layer - The layout of the capture points on the map
 * Leapfrogging - One fireteam advances while the other fireteam covers them
 * LEL - Laughing extra loud, Sarcastic lol
 * Lima Charlie - Loud and Clear (as a response when someone asks on the radio how you read them)
 * Lima Lima Mike Foxtrot - Lost Like a Motherfucker
 * LMG - Light Machine Gun - one man can carry it; think M240B and PKP, but not a SAW
-* Logi - Logistics Truck
+* Logi - Logistics truck, carries supplies and unloads them at FOBs, which allows FOBs to build deployables.
 * LOL - Lots of laughs/laugh out loud
 
 Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](#g), [H](#h), [I](#i), [J, K](#j-k), [L](#l),  [M](#m), [N](#n), [O](#o), [P](#p), [Q](#q), [R](#r), [S](#s), [T](#t), [U](#u), [V](#v), [W, X, Y](#w-x-y), [Z](#z) - [Back to top](#content)
@@ -2263,7 +2277,7 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 * Mount (up) - Enter the designated vehicle
 * MP - Multi-Player
 * MRAP - Mine-Resistant Ambush Protected (vehicle)
-* MTLB - a Soviet multi-purpose fully amphibious auxiliary armored tracked vehicle
+* MT-LB - a Soviet multi-purpose fully amphibious auxiliary armored tracked vehicle.
 * MVP - Most Valuable player
 
 Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](#g), [H](#h), [I](#i), [J, K](#j-k), [L](#l),  [M](#m), [N](#n), [O](#o), [P](#p), [Q](#q), [R](#r), [S](#s), [T](#t), [U](#u), [V](#v), [W, X, Y](#w-x-y), [Z](#z) - [Back to top](#content)
@@ -2330,7 +2344,7 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 ## R
 * RAAS - Random Advance and Secure
 * Radio - Radio is dropped by SL. Within a radius of 150m around the radio, structures can be placed.
-* Rally - A mobile spawn point that the SL can drop.
+* Rally - A mobile spawn point that the SL can drop. Occasionally called an "RP". Only your own squad can use the rally
 * Recon - Reconnaissance - The observation of a region to locate the enemy or determine possible strategic features.
 * Recon Element - Reconnaissance Structure. Technically you can recon from anywhere, most likely from a high vantage point, like a cliff, to locate the enemy, but sometimes you might be scouting out the area via a structure. This structure can be very generalized - a house, tower, small bunker, the fourth floor of an apartment, etc.
 * Reee - Reee is a meme commonly used by Pepe the Frog fans to express intense rage and/or intense frustration.
@@ -2420,6 +2434,7 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 * TOW - Tube-Launched, Optically Tracked, Wireless-Guided BGM-71 TOW is an American anti-tank missile
 * Toxic - Being rude and/or negative
 * Tracking - An aiming style where the player follows a moving target with their crosshairs.
+* Trans - Transport truck.
 * Transport(s) - Transport Truck. Can be shortened to Trans.
 * Trickling - When a team goes in one-by-one and dies rather than grouping up.
 * TTK - Time To Kill, the time needed to kill someone
@@ -2514,13 +2529,13 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 - AdminBan "NameOrSteamIds" "BanLength" "Ban Reason" : Bans a player from the server for a length of time : 0=Perm, 1d=1Day, 1m=1 month, etc)
 - AdminBanById "PlayerID" " "BanLength" "Ban Reason" : Bans player with Id from the server
 - AdminBroadCast "Message" : Send System message to all players on the server
-- AdminChangeMap "MapName" : Change the map an travel to it immediately
-- AdminDemoPlay "FileName" : Play Back the demo recording, must have file from server)
+- AdminChangeMap "MapName" : Change the map and travel to it immediately
+- AdminDemoPlay "FileName" : Play Back the demo recording, must have the file from server)
 - AdminDemoRec "FileName" : Records gameplay, you must run this first
 - AdminDemoStop : Stops recording and saves the demo to disk
 - AdminDisableVehicleClaiming "Enabled 1/0" : Sets the server to disable vehicle claiming
 - AdminEndMatch : Tell the server to immediately end the match
-- AdminForceNetUpdateOnClientSaturation "Enabled 0/1" : If ture, when a connection becomes saturated, all remaining actors that couldn't complete replication will have ForceNetUpdate called on
+- AdminForceNetUpdateOnClientSaturation "Enabled 0/1" : If true, when a connection becomes saturated, all remaining actors that couldn't complete replication will have ForceNetUpdate called on
 - AdminKick ""NameOrSteamId"" "KickReason" : Kicks a player from the server
 - AdminKickByID "PlayerId" "KickReason" : Kicks a player with Id from the server
 - AdminKillServer "Force0/1" : Tells the server to stop execution
@@ -2550,8 +2565,8 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 - Chat "Message" : "ChatType=All/Teams/Squad" : Broadcast chat message
 - ChatToAdmin "Message" : Send System message to all admins on the server
 - ChatToAll "Message" : Chat to everyone
-- ChatToSquad "Message" : Chat only to same squad
-- ChatToTeam "Message" : Chat only to same team
+- ChatToSquad "Message" : Chat only with your squad
+- ChatToTeam "Message" : Chat only with your team
 - CreateReallyPoint : Drop a rally point for squad members to spawn from
 - CreateSquad "Name" : Request the creation of a squad, specifying the name
 - DisabledHudWidgets : Removes all widgets on the HUD
@@ -2579,7 +2594,7 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 # Admin Camera
 
 - Can be used on maps to fly around.
-- You need to be admin (try it on Jensen's Range during training).
+- You need to be an admin (try it on Jensen's Range during training).
 - Great to explore a map.
 - Shift + P: Turn on/off (if you set a keybind on 'P' it may not work)
 - W,A,S,D: Move
@@ -2631,7 +2646,7 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 
 ## YouTube Channels
 - There are a lot of great videos online to learn more about every aspect of Squad.
-- Search for "squad new player guide", "squad sl guide", "squad tank guide", etc. on YouTube to find introductionary videos.
+- Search for "squad new player guide", "squad sl guide", "squad tank guide", etc. on YouTube to find introductory videos.
 - Here are a few YouTube channels that you might like (in alphabetical order):
     - [Bastion Black Performance](https://www.youtube.com/channel/UCHuwc9VESIqSNQzkCwVePdQ/playlists) (This channel contains real-life small unit tactics. It's not Squad specific, but still interesting.)
     - [Captain](https://www.youtube.com/c/BHMCaptain/playlists)
@@ -2659,4 +2674,3 @@ See you in Squad!
   .-='=='==-, "
  (O_o_o_o_o_O) Munster, 2021
 ```
-
