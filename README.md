@@ -2652,7 +2652,7 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
     - [Captain](https://www.youtube.com/c/BHMCaptain/playlists)
     - [Cwarfighter](https://www.youtube.com/channel/UCVqaQzElqtR_0A5oXk0uzBw/playlists)
     - [Gorlami14](https://www.youtube.com/c/Gorlami14/playlists)
-    - [Jamsomama](https://www.youtube.com/channel/UC_1OWr9OVmmHk6y5NnLxzig/videos)
+    - [Jamusomama](https://www.youtube.com/channel/UC_1OWr9OVmmHk6y5NnLxzig/videos)
     - [Karmakut](https://www.youtube.com/c/karmakut/playlists)
     - [MoiDawg](https://www.youtube.com/c/MoiDawg/playlists)
     - [MrAtomicDuck](https://www.youtube.com/user/MrAtomicDuck/playlists)
