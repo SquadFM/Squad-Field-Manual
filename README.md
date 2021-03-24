@@ -12,7 +12,7 @@
 - If you want to say "hi" my Squad in-game name is Munster. [Add me on Steam](https://steamcommunity.com/id/Munster101/).
 - To save this manual, right-click on this page in your browser and click on "Save Page As" to save this page as a .html file. You can also [download the complete Github repo](https://github.com/SquadFM/Squad-Field-Manual/archive/refs/heads/main.zip). The .zip file contains this manual as a text file. Links won't work unless you use a markdown editor with live-view.
 - **Tell someone about this manual.** Let's help others and improve this community.
-- This guide was last updated on March 22, 2021.
+- This guide was last updated on March 24, 2021.
 
 
 # NEW PLAYERS PLEASE READ
@@ -2652,6 +2652,7 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
     - [Captain](https://www.youtube.com/c/BHMCaptain/playlists)
     - [Cwarfighter](https://www.youtube.com/channel/UCVqaQzElqtR_0A5oXk0uzBw/playlists)
     - [Gorlami14](https://www.youtube.com/c/Gorlami14/playlists)
+    - [Jamsomama](https://www.youtube.com/channel/UC_1OWr9OVmmHk6y5NnLxzig/videos)
     - [Karmakut](https://www.youtube.com/c/karmakut/playlists)
     - [MoiDawg](https://www.youtube.com/c/MoiDawg/playlists)
     - [MrAtomicDuck](https://www.youtube.com/user/MrAtomicDuck/playlists)
