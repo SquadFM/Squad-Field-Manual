@@ -12,7 +12,7 @@
 - If you want to say "hi" my Squad in-game name is Munster. [Add me on Steam](https://steamcommunity.com/id/Munster101/).
 - To save this manual, right-click on this page in your browser and click on "Save Page As" to save this page as a .html file. You can also [download the complete Github repo](https://github.com/SquadFM/Squad-Field-Manual/archive/refs/heads/main.zip). The .zip file contains this manual as a text file. Links won't work unless you use a markdown editor with live-view.
 - **Tell someone about this manual.** Let's help others and improve this community.
-- This guide was last updated on March 24, 2021.
+- This guide was last updated on March 25, 2021.
 
 
 # NEW PLAYERS PLEASE READ
@@ -617,7 +617,7 @@ In the console type:
 - First, join Jensen's Range (the map where you train). Then search for a server. Most good servers are usually full and have a waiting list and you have to wait a few minutes. While you wait for the server to connect, you can train on Jensen's Range. The game will connect you automatically to the server once it has a spot for you.
 - For your first game: Jump on a full server (you might need to wait a few minutes in the Queue, that's fine, don't join if the queue is " 5ppl). Preferably you should join a server in your native language to make communication easy. Join a Squad. If none are open, be patient, there will be one available in a few minutes. Have fun! Tell your Squad Leader you are new and need guidance. Follow your SLs orders and kick some ass.
 - Ping is not super important in Squad. You will still have a good experience with a 150 ping.
-- Many servers specifically say something like "New Players Welcome". Those are a good place to start.
+- Many servers specifically say something like "New Players Welcome". Those can be a good place to start, but be aware that people may not play Squad like it is supposed to be played. If you want to play Squad like it's supposed to be played find a server that isn't targeted to new players. As always, your mileage may vary (e.g. depending on time of day).
 - Pick a server with the game mode AAS or RAAS. Maps usually change every round. You will most likely join an ongoing game.
 
 [Back to top](#content)
