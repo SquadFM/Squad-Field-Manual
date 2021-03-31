@@ -7,12 +7,7 @@
 
 - If you're a new player **WELCOME TO SQUAD!** We're glad that you're here! 
 - If you're a vet **THANK YOU FOR YOUR SERVICE** and for making Squad a great game.
-- This guide contains the collected wisdom of many experienced Squad players from various sources. Their contributions are often copy-pasted into this guide. If you find content in this guide that you wrote I want to say "Thank you" for sharing your wisdom on the Squad Wiki, Reddit, in various manuals and strategy guides, the old Squad forum (offline now), Steam, YouTube, and other sources. You can find a list of most sources under ([Sources and Resources](#sources-and-resources)).
-- You can contribute to this guide on [Github](https://github.com/SquadFM/Squad-Field-Manual) or [Reddit](https://old.reddit.com/r/joinsquad/comments/m2rzjj/squad_field_manual_available_now/). You can also send me a message on Steam (see below).
-- If you want to say "hi" my Squad in-game name is Munster. [Add me on Steam](https://steamcommunity.com/id/Munster101/).
-- To save this manual, right-click on this page in your browser and click on "Save Page As" to save this page as a .html file. You can also [download the complete Github repo](https://github.com/SquadFM/Squad-Field-Manual/archive/refs/heads/main.zip). The .zip file contains this manual as a text file. Links won't work unless you use a markdown editor with live-view.
-- **Tell someone about this manual.** Let's help others and improve this community.
-- This guide was last updated on March 25, 2021.
+- To learn more about how this guide came to be, head over to the [About](#about) section.
 
 
 # NEW PLAYERS PLEASE READ
@@ -350,6 +345,15 @@ In the console type:
 - Mods can cause Squad to crash after major updates.
 - Try to remove mods if you're experiencing issues that can't be resolved with any of the guides above.
 
+[Back to top](#content)
+
+
+### XMP Memory Profile
+- If XMP is disabled your RAM is running at less speed than it's capable of (usually 2133 MHz). Enabling this can gain you 10-20 FPS.
+- Go into your BIOS and change the XMP to Profile 1. Save the settings and restart your computer.
+
+[Back to top](#content)
+
 
 ## OBS Setup
 - If you don't want to record your games you can skip this chapter.
@@ -576,6 +580,9 @@ In the console type:
 - Squad is about playing your role within a team. Sometimes that means rolling in kills, Squad-score, and glory. Sometimes that means sitting on a hill for 30 minutes watching the world go by. Remember: it’s not all about you. The game is not about you.
 - When you’re playing Squad, whatever you’re doing and whatever your role is, your actions should be, in some way, related to the team’s objectives and/or the objectives of the particular game mode that you’re playing. 
 - Think about the objectives constantly and ask yourself: "Is what I am doing right now positively contributing to the team?", "What could I be doing better?", "What could we be doing better?". This focus on playing the objective should be your preeminent concern for the entire round. Irrespective of what the 40 other players on your team are doing, you can make a difference by playing the objective. Sometimes, one player is all it takes to tip the balance in a firefight, on a flag zone, or at a FOB. Get your arse onto the point. Get behind some cover. Dig in. Help out.
+- Your first 20 hours will be about learning and making mistakes. You have to go through it. It gets fun when you know the basics.
+- Also you should know you are not the slave of the squad you joined. If you don't like your SL or teammates join another squad. Play with a squad that sticks together. Also, if you choose the medic role instead of HAT or MG your SL will have less expections from you.
+- You may meet shitty people (like in any game), but fortunately, they're very much the minority in the Squad community. Much like other games, there are a few loudmouth assholes, and a shitload of friendly players who're happy to help you learn.
 
 [Back to top](#content)
 
@@ -617,7 +624,7 @@ In the console type:
 - First, join Jensen's Range (the map where you train). Then search for a server. Most good servers are usually full and have a waiting list and you have to wait a few minutes. While you wait for the server to connect, you can train on Jensen's Range. The game will connect you automatically to the server once it has a spot for you.
 - For your first game: Jump on a full server (you might need to wait a few minutes in the Queue, that's fine, don't join if the queue is " 5ppl). Preferably you should join a server in your native language to make communication easy. Join a Squad. If none are open, be patient, there will be one available in a few minutes. Have fun! Tell your Squad Leader you are new and need guidance. Follow your SLs orders and kick some ass.
 - Ping is not super important in Squad. You will still have a good experience with a 150 ping.
-- Many servers specifically say something like "New Players Welcome". Those can be a good place to start, but be aware that people may not play Squad like it is supposed to be played. If you want to play Squad like it's supposed to be played find a server that isn't targeted to new players. As always, your mileage may vary (e.g. depending on time of day).
+- Many servers specifically say something like "New Players Welcome". Those can be a good place to start, but be aware that people may not play Squad like it is supposed to be played (it can be a shit show - but it may be a good place to practice certain aspects of the game). If you want to play Squad like it's supposed to be played find a server that isn't targeted to new players. As always, your mileage may vary (e.g. depending on time of day).
 - Pick a server with the game mode AAS or RAAS. Maps usually change every round. You will most likely join an ongoing game.
 
 [Back to top](#content)
@@ -744,8 +751,8 @@ In the console type:
     - CONTACT! 2 enemies ... 100 meters ... Top of the feature ... At 300 degrees from my position!
     - CONTACT! 100 meters ... 2 guys with AKs ... 300 degrees ... Watch my splash! (proceeds to smash 100 rounds from the SAW in their direction)
     - 2 infantry north of YOURNAMEHERE position
-    - contact north 005, infantry
-    - Contact northwest bearing 330
+    - Contact South, at 190, infantry
+    - Contact North, 13 degrees
     - Contact on our right/left/on the rooftop
     - Enemy squad flanking from the bridge
 - Examples Squad Voice Channel:
@@ -1641,6 +1648,10 @@ If in doubt, rather say IFV than APC since an IFV poses a bigger threat and usua
     - Taking out enemy logistics trucks - If you spot one, and are confident it's not being escorted by any armor, it is quite possible to pull up alongside and shoot the driver out of a logi truck. We have all been in games where logi trucks are left all over the map, people generally don't take the time to go back and get them when they are lost. If you see an opportunity to paralyze the enemy's flow of supply, take it.
     - Attacking Mortar FOBs - Mortar FOBs are usually very hard for infantry to get to, and can be devastating if manned by a coordinate crew. If you spot one, you have a decent chance of being able to silence those mortars and mark the FOB for an A10. If you're feeling saucy, keep a Combat Engineer in the bird with you so you can insert him on the FOB once you have killed the mortars.
 - Helicopters are great at logistics (transport BPs, ammo, troops) to a central point. From there logis can distribute supplies to (stealth) FOBs.
+- A Heli is a flying Logi that can build FOBs anywhere and get from point A to point B faster than any truck. Make sure to grab a non-SL player and coordinate with other SLs on where FOBs are needed.
+- In the beginning of the game ferry a squad to the mid-flag and help them with your supplies to setup a FOB.
+- During a game bring supplies to the front. Again, coordinate with other SLs where supplies are needed the most. 
+- Always take the initiative and communicate with other SLs/Commander. Ask what they need and where they need it. But always try keep your Heli safe. 
 - Flying 101
     - Collector at 45% = hovering
     - Pitch at 12-15% up/down = max speed without losing altitude (if the pitch is at 80-90 degrees the heli will crash)
@@ -1794,6 +1805,7 @@ Ask for your squad's opinion sometimes - Be open to reasonable suggestions from 
 - Remember, even though you are splitting your fireteams up, you are still ONE squad. Each fireteam should be able to support each other and work on the same major objective. In the example above, I could ask my alpha and Charlie squad to do a wide flank on the enemy position and catch the enemy push in a crossfire with bravo and squad 5
 - If you don't want people to ask for Fireteam lead all the time a good thing to do is to split your squad into the two fireteams then make them give it to one another. Fireteam leaders can give Fireteam lead (FTL) to other members of that fireteam which should make it a lot less stressful.
 - I find that assigning fireteam leads to competent people, makes communicating and giving orders much more effective than just automatically giving the role to a Marksman or AT. Again, it makes your life easier if your FTLs can round up their fireteams and move on your orders while you are doing other things on the map or command.
+- Use fireteams for early warning if on defense or scouting while moving towards a flag. 
 
 [Back to top](#content)
 
@@ -1920,6 +1932,7 @@ HAB location - needs some cover next to it (rotate with arrow keys to fit in tig
 
 
 ### Defensive Squad Tactics
+- Defending is all about denying the enemy to neutralize or cap an objective.
 - So you're at a FOB or objective and you need to defend it. The most common thing I see in pub games is that the whole squad or a large portion of it stays physically ON the point or in the building they're defending. This is a mistake. You want to stop them from getting to the compound instead of letting them get to the compound and then trying to stop them from getting in the building. By all being in the same building you are limiting your observation of the surrounding area/enemy maneuvers and you make yourselves vulnerable to a possible frag through the window or door which usually ends badly. Yes, you need to keep a few guys on the point to (A) check on the status of the point (if it's being capped, etc) and (B) to obstruct and counter enemy movement through the capture area. For the rest of your guys, you want to tell them to pick a spot with good cover and a vision of the surrounding area. The next part is hard and requires reliable squad members but try and get your squadmates to pick a direction/alleyway/area to cover and take responsibility for. When done correctly this allows you to focus your observations better and cover any blind spots more effectively. Another way to do it is to have a few guys on point and have everyone else orbiting the position as a solid group.
     - It is often helpful to designate a couple of guys for rear security, I find that Medics are best suited for this role as they tend to then stay closer to the squad but generally out of harm's way.
     - Ambushes - If you know the enemy is coming towards you, divide into 2 teams, one team spreads out in front will be the team that engages the enemy when they approach. The 2nd team waits in the flank for contact and moves in to engage the flanks of the enemy when contact on the 1st team is made. This is called an L-shaped ambush.
@@ -2069,6 +2082,7 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 * Barrage and Assault - An assault preceded by an Offensive Barrage can either be done with a Standing (static) or Creeping (moving) Barrage that either targets a defensive position or moves ahead of advancing troops to suppress OPFOR in a given area (like clearing through a patch of a forest).
 * BB - Bye bye
 * BCP - Base Control Point (the main base the game starts at)
+* BGM - Ballistic Guided Missile
 * Binos - Binoculars
 * Bird - Helicopter
 * Black - When discussing amounts of something, it means you are almost out
@@ -2082,8 +2096,10 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 * BTR - The BTR-80 ("Armoured Transporter") is an 8x8 wheeled amphibious armored personnel carrier (APC) designed in the USSR
 * BTR 20 - BTR with small 14.5mm gun (aka small BTR)
 * BTR 30 - BTR with big 30mm gun (aka big BTR)
+* BVR - Beyond Visual Range
 
 Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](#g), [H](#h), [I](#i), [J, K](#j-k), [L](#l),  [M](#m), [N](#n), [O](#o), [P](#p), [Q](#q), [R](#r), [S](#s), [T](#t), [U](#u), [V](#v), [W, X, Y](#w-x-y), [Z](#z) - [Back to top](#content)
+
 
 ## C
 * Cap/capped - Capture flags, captured flags
@@ -2234,6 +2250,7 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 * Kit - The role you're playing. For example Rifleman, Medic, Squad Leader, Pilot, etc. Many kits have unique weapons.
 * Klicks - Kilometers
 * KOC - Kill or Capture
+* Konkurs - The 9M113 Konkurs is a Soviet SACLOS wire-guided anti-tank missile.
 * Kornet - 9M133 Kornet is a modern Russian man-portable anti-tank guided missile intended for use against main battle tanks
 * KPM - Kills Per Minute
 
@@ -2272,6 +2289,7 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 * Mils - Milliradian (a thousandth of a radian), a military unit of measurement for US mortars, describes elevation, There are 2Pi Radians in a circle, being 2*3.14, or 6.283 Radians. Multiply that by 1000mils, and you get 6283mils, with roughly 18mils equaling a degree. Most militaries would simplify this number to 6000mils or 6400mils. Simply speaking, a mil is a finer degree than a typical degree, which allows for more precise mortar drops. Using spotters who can give you rough estimates of distance from you to the target, mils can be translated from meters via the Range to Mils table in the mortar GUI.
 * Mike(s) - Minute(s) or Millimeter(s) or M in the NATO Phonetic Alphabet
 * MG - Machine Gun(er) - an umbrella term for a gun with the following characteristics; can refer to any MG, LMG, or HMG you may encounter such as the SAW, M240B, PKP, .50 Cal, etc. Usually, belt-fed, but their most notable ability is on-the-move fire support for a squad. Usually sport a bi-pod.
+* Mosin Nagant - A five-shot, bolt-action, internal magazine-fed, military rifle used by the Soviet Union and various other nations.
 * Mounted - e.g. We’re Mounted - your squad is on the transport truck or APC they’re assigned to for the mission
 * Moving Like Pond Water - Moving so slowly that a unique term is required to describe it.
 * Mount (up) - Enter the designated vehicle
@@ -2394,10 +2412,12 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 * Soft Flank - Flanking the enemy but with easy access to an escape back to your own team.
 * SP - Spawn Point
 * SP - Single Player
+* SPA - Self-Propelled Artillery
 * Spawn - Refers to the designated area where players spawn (e.g. Main, FOB, Rally Point)
 * Spawn advantage - One team has better HAB placements and can reach objectives easier than their enemy
 * Spawn Camp/Kill - The act of keeping the enemy team in their spawn area by killing them as soon as they walk out.
 * Spawn shift - once you're dead spawn at a different HAB (which is closer to your current/next objective)
+* SPG - Self-Propelled Gun
 * SPM - Score Per Minute
 * SR - Sniper Rifle
 * Squad - Group of up to 9 soldiers. Every squad needs a Squad Leader. Can be further segmented into fireteams.
@@ -2409,6 +2429,7 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 * Strength Estimate - Estimated number of enemy infantry and/or vehicles. A term used from Commander to Scouting Squad or vice versa. E.g. the amount of infantry and vehicles in one's view.
 * Stryker - US wheeled APC, armed with CROWS M2 
 * Super-FOB - Too many structures in one spot. Needs a lot of resources to build. Can be easily destroyed by an airstrike. Rather build 2-3 FOBs instead of 1 Super-FOB to distribute risk.
+* SVBIED - Suicide vehicle borne improvised explosive device - a vehicle packed full of explosives, driven to its target, and detonated at the optimum location to cause the most destruction.
 * SVD - Dragunov sniper rifle
 
 Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](#g), [H](#h), [I](#i), [J, K](#j-k), [L](#l),  [M](#m), [N](#n), [O](#o), [P](#p), [Q](#q), [R](#r), [S](#s), [T](#t), [U](#u), [V](#v), [W, X, Y](#w-x-y), [Z](#z) - [Back to top](#content)
@@ -2445,6 +2466,7 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 
 ## U
 * UE4 - Unreal Engine 4
+* UGL - Under-slung Grenade Launcher
 * Un-Ass - To move immediately or leave one's current position.
 * UP - Under Powered
 * US - United States
@@ -2665,7 +2687,13 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 # About
 
 - When I first started playing Squad I was feeling overwhelmed. This game has a steep learning curve and I had no clue what to do during my first few games. The in-game training only teaches you so much. So I started this document to write down my learnings and those from other players. I never planned to share this guide, but as it grew in size I realized that others might benefit from it as well.
+- This guide contains the collected wisdom of many experienced Squad players from various sources. Their contributions are often copy-pasted into this guide. If you find content in this guide that you wrote I want to say "Thank you" for sharing your wisdom on the Squad Wiki, Reddit, in various manuals and strategy guides, the old Squad forum (offline now), Steam, YouTube, and other sources. You can find a list of most sources under ([Sources and Resources](#sources-and-resources)).
+- You can contribute to this guide on [Github](https://github.com/SquadFM/Squad-Field-Manual) or [Reddit](https://old.reddit.com/r/joinsquad/comments/m2rzjj/squad_field_manual_available_now/). You can also send me a message on Steam (see below).
+- If you want to say "hi" my Squad in-game name is Munster. [Add me on Steam](https://steamcommunity.com/id/Munster101/).
+- To save this manual, right-click on this page in your browser and click on "Save Page As" to save this page as a .html file. You can also [download the complete Github repo](https://github.com/SquadFM/Squad-Field-Manual/archive/refs/heads/main.zip). The .zip file contains this manual as a text file. Links won't work unless you use a markdown editor with live-view.
+- **Tell someone about this manual.** Let's help others and improve this community.
 - This guide is still a work in progress, but I am trying to be less of a perfectionist and just wanted to get it out there. I hope you have fun reading it. 
+- This guide was last updated on March 31, 2021.
 
 See you in Squad!
 
@@ -2675,3 +2703,5 @@ See you in Squad!
   .-='=='==-, "
  (O_o_o_o_o_O) Munster, 2021
 ```
+
+[Back to top](#content)
