@@ -3,7 +3,7 @@
 #### Bookmark this page: [SquadFM.org](https://SquadFM.org/)
 - - - - - - - - - - - - - - -
 
-- This field manual contains detailed information and how-tos important to Squad players.
+- This field manual contains various guides and how-tos important to Squad players.
 - If you're a new player **WELCOME TO SQUAD!** We're glad that you're here!
 - If you're a vet **THANK YOU FOR YOUR SERVICE** and for making Squad a great game.
 - To learn how this guide came to be, how to contribute or download it, head over to the [About](#about) chapter.
@@ -576,7 +576,7 @@ In the console type:
 - Get a call sign that can be easily pronounced. It makes communication easier and it can help others to remember you more easily if you're interested in making friends. It's not super important, but it can help in situations where your SL or another friendly needs to address you quickly. Also, it can help with immersion ("CHARGER HIT THAT TANK AT 2-3-0" has a different ring to it, then "Ah man, wow dude, how, what, what's your name... XxxSniperxxX_HD? COME BACK HERE ASAP!"). You can search for "military call sign list" or check out [this PDF](http://www.udxf.nl/MCL.pdf) to get some inspiration.
 - Try teamwork. It will make for a much better experience for everyone.
 - The game has a learning curve but it's super rewarding once you're in the groove of things.
-- Squad is about playing your role within a team. Sometimes that means rolling in kills, Squad-score, and glory. Sometimes that means sitting on a hill for 30 minutes watching the world go by. Remember: it’s not all about you. The game is not about you.
+- Squad is about playing your role within a team. Sometimes that means rolling in kills, Squad-score, and glory. Sometimes that means sitting on a hill for 30 minutes watching the world go by. Remember: it’s not all about you. It's about the team.
 - When you’re playing Squad, whatever you’re doing and whatever your role is, your actions should be, in some way, related to the team’s objectives and/or the objectives of the particular game mode that you’re playing. 
 - Think about the objectives constantly and ask yourself: "Is what I am doing right now positively contributing to the team?", "What could I be doing better?", "What could we be doing better?". This focus on playing the objective should be your preeminent concern for the entire round. Irrespective of what the 40 other players on your team are doing, you can make a difference by playing the objective. Sometimes, one player is all it takes to tip the balance in a firefight, on a flag zone, or at a FOB. Get your arse onto the point. Get behind some cover. Dig in. Help out.
 - Your first 20 hours will be about learning and making mistakes. You have to go through it. It gets fun when you know the basics.
