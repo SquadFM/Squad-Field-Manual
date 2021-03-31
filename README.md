@@ -1,7 +1,7 @@
 # SQUAD FIELD MANUAL
 ## Tactics, Techniques, and Procedures
 ### This field manual contains detailed information and how-tos for procedures important to soldiers serving in the field.
-#### Bookmark This Page: [SquadFM.org](https://SquadFM.org/)
+#### Bookmark this page: [SquadFM.org](https://SquadFM.org/)
 
 - - - - - - - - - - - - - - -
 
