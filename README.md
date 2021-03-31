@@ -1,13 +1,12 @@
 # SQUAD FIELD MANUAL
 ## Tactics, Techniques, and Procedures
-### This field manual contains detailed information and how-tos for procedures important to soldiers serving in the field.
 #### Bookmark this page: [SquadFM.org](https://SquadFM.org/)
-
 - - - - - - - - - - - - - - -
 
-- If you're a new player **WELCOME TO SQUAD!** We're glad that you're here! 
+- This field manual contains detailed information and how-tos important to Squad players.
+- If you're a new player **WELCOME TO SQUAD!** We're glad that you're here!
 - If you're a vet **THANK YOU FOR YOUR SERVICE** and for making Squad a great game.
-- To learn more about how this guide came to be, head over to the [About](#about) section.
+- To learn how this guide came to be, how to contribute or download it, head over to the [About](#about) chapter.
 
 
 # NEW PLAYERS PLEASE READ
@@ -2688,11 +2687,11 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 
 - When I first started playing Squad I was feeling overwhelmed. This game has a steep learning curve and I had no clue what to do during my first few games. The in-game training only teaches you so much. So I started this document to write down my learnings and those from other players. I never planned to share this guide, but as it grew in size I realized that others might benefit from it as well.
 - This guide contains the collected wisdom of many experienced Squad players from various sources. Their contributions are often copy-pasted into this guide. If you find content in this guide that you wrote I want to say "Thank you" for sharing your wisdom on the Squad Wiki, Reddit, in various manuals and strategy guides, the old Squad forum (offline now), Steam, YouTube, and other sources. You can find a list of most sources under ([Sources and Resources](#sources-and-resources)).
-- You can contribute to this guide on [Github](https://github.com/SquadFM/Squad-Field-Manual) or [Reddit](https://old.reddit.com/r/joinsquad/comments/m2rzjj/squad_field_manual_available_now/). You can also send me a message on Steam (see below).
-- If you want to say "hi" my Squad in-game name is Munster. [Add me on Steam](https://steamcommunity.com/id/Munster101/).
+- You can contribute to this guide on [Github](https://github.com/SquadFM/Squad-Field-Manual) or [Reddit](https://old.reddit.com/r/joinsquad/comments/m2rzjj/squad_field_manual_available_now/). You can also send me a message on [Steam](https://steamcommunity.com/id/Munster101/).
+- If you want to say "hi" my Squad in-game name is [Munster](https://steamcommunity.com/id/Munster101/).
 - To save this manual, right-click on this page in your browser and click on "Save Page As" to save this page as a .html file. You can also [download the complete Github repo](https://github.com/SquadFM/Squad-Field-Manual/archive/refs/heads/main.zip). The .zip file contains this manual as a text file. Links won't work unless you use a markdown editor with live-view.
-- **Tell someone about this manual.** Let's help others and improve this community.
 - This guide is still a work in progress, but I am trying to be less of a perfectionist and just wanted to get it out there. I hope you have fun reading it. 
+- **Tell someone about this manual.** Let's help others and improve this community.
 - This guide was last updated on March 31, 2021.
 
 See you in Squad!
