@@ -3,8 +3,8 @@
 #### Bookmark this page: [SquadFM.org](https://SquadFM.org/)
 - - - - - - - - - - - - - - -
 
-- This field manual contains various guides and how-tos important to Squad players.
-- If you're a new player **WELCOME TO SQUAD!** We're glad that you're here!
+- This field manual contains various guides and how-tos for Squad players.
+- If you're a new player **WELCOME TO SQUAD!** Come and join us.
 - If you're a vet **THANK YOU FOR YOUR SERVICE** and for making Squad a great game.
 - To learn how this guide came to be, how to contribute or download it, head over to the [About](#about) chapter.
 
@@ -178,7 +178,7 @@ Before you join a server as a new player
 - Graphics:
     - Window mode: Fullscreen
     - Resolution: 2560x1440 (set your screen's native resolution, if your PC can handle it)
-    - Resolution Scale: 100
+    - Resolution Scale: 125 (if your PC can handle it, makes spotting far enemies easier)
     - Max FPS Menu: 60
     - Max FPS In-Game: 144 (set your screens native refresh rate)
     - AA Quality: Low
@@ -200,7 +200,7 @@ Before you join a server as a new player
     - Audio Quality: Epic (Epic = better locate enemies)
     - Audio Output Device: PulseEffects(apps) (set your output device, in my case I am using the output from the PulseEffects Audio Compressor)
     - Master Volume: 100%
-    - Effects Volume: 80%
+    - Effects Volume: 40%
     - UI Volume: 0%
     - Music Volume: 0%
     - Out of Game Volume: 50%
@@ -577,10 +577,10 @@ In the console type:
 - Try teamwork. It will make for a much better experience for everyone.
 - The game has a learning curve but it's super rewarding once you're in the groove of things.
 - Squad is about playing your role within a team. Sometimes that means rolling in kills, Squad-score, and glory. Sometimes that means sitting on a hill for 30 minutes watching the world go by. Remember: it’s not all about you. It's about the team.
-- When you’re playing Squad, whatever you’re doing and whatever your role is, your actions should be, in some way, related to the team’s objectives and/or the objectives of the particular game mode that you’re playing. 
+- When you’re playing Squad, whatever you’re doing and whatever your role is, your actions should be, in some way, related to the team’s objectives and/or the objectives of the particular game mode that you’re playing. Check out [Game Mechanics](#game-mechanics) and [Game Modes](#game-modes) to learn more about how this game works.
 - Think about the objectives constantly and ask yourself: "Is what I am doing right now positively contributing to the team?", "What could I be doing better?", "What could we be doing better?". This focus on playing the objective should be your preeminent concern for the entire round. Irrespective of what the 40 other players on your team are doing, you can make a difference by playing the objective. Sometimes, one player is all it takes to tip the balance in a firefight, on a flag zone, or at a FOB. Get your arse onto the point. Get behind some cover. Dig in. Help out.
 - Your first 20 hours will be about learning and making mistakes. You have to go through it. It gets fun when you know the basics.
-- Also you should know you are not the slave of the squad you joined. If you don't like your SL or teammates join another squad. Play with a squad that sticks together. Also, if you choose the medic role instead of HAT or MG your SL will have less expections from you.
+- Also you should know you are not the slave of the squad you joined. If you don't like your SL or teammates join another squad. Play with a squad that sticks together. Also, if you choose the rifleman or medic role instead of HAT or MG your SL will have less expections from you.
 - You may meet shitty people (like in any game), but fortunately, they're very much the minority in the Squad community. Much like other games, there are a few loudmouth assholes, and a shitload of friendly players who're happy to help you learn.
 
 [Back to top](#content)
@@ -590,6 +590,11 @@ In the console type:
 - Do the training. Then do it again.
 - Practice on Jensen's range and practice a lot! Try weapons, mortars, tanks, fly the helicopter, have fun and explore everything. Get used to rifle optics and see how far you can hit targets.
 - If you want to train on a different map than Jensen's Range, open your console and type AdminChangeLayer. A list will show up with all maps and game modes and you can choose one of them. If the map has a timer that prevents you from getting into a vehicle or flying the helicopter open your console and type AdminSlomo 150, which will speed up time. You can set time back to normal with AdminSlomo 1.
+- Useful Console Commands:
+    - AdminChangeLayer (and the map of your choice)
+    - AdminDisableVehicleClaiming 1 (allows you to claim any vehicle)
+    - AdminAlwaysValidPlacement 1 (allows you to place anything you want)
+    - AdminSlomo 20 (speeds or slows in-game time; set to 1 for normal time)
 - You can explore a map with Shift + P. Move around with your usual movement keys. Find more information below under [Admin Camera](#admin-camera).
 - Want to check out being a Squad Leader? Create a squad in the deployment menu (just name a squad and you'll be SL). Make sure to grab the SL kit from an ammo box. You can use map markers and place structure foundations (though you'll need a non-SL role to build them. The SL does not have a shovel).
 - Want to be a Commander and call in airstrikes? Create a squad first, then click on "Volunteer as Commander" and get your binos out, open your radial menu and click on "Request Tactical Support from Commander". Then go to the deployment screen and approve the request (right mouse click on the target area).
@@ -621,10 +626,10 @@ In the console type:
 
 ## Finding a Server
 - First, join Jensen's Range (the map where you train). Then search for a server. Most good servers are usually full and have a waiting list and you have to wait a few minutes. While you wait for the server to connect, you can train on Jensen's Range. The game will connect you automatically to the server once it has a spot for you.
-- For your first game: Jump on a full server (you might need to wait a few minutes in the Queue, that's fine, don't join if the queue is " 5ppl). Preferably you should join a server in your native language to make communication easy. Join a Squad. If none are open, be patient, there will be one available in a few minutes. Have fun! Tell your Squad Leader you are new and need guidance. Follow your SLs orders and kick some ass.
+- For your first game: Jump on a full server (you might need to wait a few minutes in the queue, that's fine. Preferably you should join a server in your native language to make communication easy. Join a Squad. If none are open, be patient, there will be one available in a few minutes. Have fun! Tell your Squad Leader you are new and need guidance. Follow your SLs orders and kick some ass.
 - Ping is not super important in Squad. You will still have a good experience with a 150 ping.
 - Many servers specifically say something like "New Players Welcome". Those can be a good place to start, but be aware that people may not play Squad like it is supposed to be played (it can be a shit show - but it may be a good place to practice certain aspects of the game). If you want to play Squad like it's supposed to be played find a server that isn't targeted to new players. As always, your mileage may vary (e.g. depending on time of day).
-- Pick a server with the game mode AAS or RAAS. Maps usually change every round. You will most likely join an ongoing game.
+- Pick a server with the game mode AAS or RAAS. Maps and game modes usually change every round. You will most likely join an ongoing game.
 
 [Back to top](#content)
 
@@ -670,7 +675,7 @@ In the console type:
 
 
 ## Communication
-- Use your mic.
+- Use your mic. To speak with your squadmates or friendlies close by you need to press and hold a button (check your keybinds).
 - Say 'hi' to your squadmates. You may be the first person to break the ice. If the squad is all clammed up, someone saying anything can help kick start the comms and the banter. Be positive and be confident. If you’re not, wing it.
 - Tell your squad that you're new to the game.
 - Ask questions. People are usually willing to help.
@@ -730,7 +735,7 @@ In the console type:
 - If you're incapacitated you could say "I'm down. Enemy on YOURNAMEHERE's position" on local voice chat. Your SL or FTL can use their map and look for a faded arrow (faded green if it's someone from your own squad, otherwise faded blue) and hover over it to see if it's you and mark it. However, it's usually best to give some indication of where you are (especially over squad chat).
 - FTLs should mark any callouts on the map to decrease SL load.
 - The map is split up into grids. A grid is a network of evenly spaced horizontal and vertical lines used to identify locations on a map.  Each grid has a number and a letter, which you can see on the edge of the map, A1 being top left and J10 being bottom right. 
-- Each of these grids is further divided into subgrids, called keypad. Keypad is a subdivision of the grid location which is numbered like the layout of a keypad on your PC keyboard. 1 is bottom left, 3 is bottom right, 7 is the top left, 9 is the top left, and 5 is in the center. Just like the 1-9 on your keyboard numpad. It allows you to very quickly give a precise location.
+- Each of these grids is further divided into subgrids, called keypad. Keypad is a subdivision of the grid location which is numbered like the layout of a keypad on your PC keyboard. 1 is bottom left, 3 is bottom right, 7 is the top left, 9 is the top right, and 5 is in the center. Just like the 1-9 on your keyboard numpad. It allows you to very quickly give a precise location.
 - Grid locations should be used rarely. It's time-consuming to bring up the map and to figure out what grid you're referring to. Better to say "Enemy BTR north-west of the objective, on the road" rather than "Enemy BTR A5-6-4". Grid coordinates are handy though when there's an enemy HAB somewhere without any landmarks to reference.
 - Call vehicles out to teammates and SL with the minimum information you know. Does it have tracks? Mention that. Which way is it moving? Etc.
 - The more effective you can communicate the location of the enemy, the more quickly and more efficiently that you and your team can deal some death in their direction. Weight of fire and accuracy of fire wins firefights.
@@ -762,6 +767,7 @@ In the console type:
     - "Tank 100m West of tower moving from South to East"
 - More Generalized Callouts
     - North, South, East, West
+    - Intersection, T-junction
     - Left Flank (Left side), Right Flank (Right side)
     - Rear, 6 o'clock (Behind)
     - Upstairs (Above), Downstairs (Below)
@@ -1410,7 +1416,7 @@ Let someone else drive your bike into the enemy radio or positions as they can s
     - AdminChangeMap Fool's Road AAS v1
     - AdminDisableVehicleClaiming 1 (allows you to claim any vehicle)
     - AdminAlwaysValidPlacement 1 (allows you to place anything you want)
-    - Adminslomo 20 (speeds or slows in-game time)
+    - AdminSlomo 20 (speeds or slows in-game time)
 
 [Back to top](#content)
 
@@ -2115,6 +2121,7 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 * Charlie Foxtrot - Commonly used expression utilizing the military alphabet to stand for clusterfuck.
 * Coax - Nearly all main battle tanks and most infantry fighting vehicles have a coaxial machine gun mounted to fire along a parallel axis to the main gun. Coaxial weapons are usually aimed by the use of the main gun control. It is usually used to engage infantry or other "soft" targets where the use of the main gun would be dangerous, ineffective, or wasteful.
 * Commander - Commanding SL
+* Composite armor - A type of vehicle armour consisting of layers of different material such as metals, plastics, ceramics or air.
 * CN - China
 * CONOPS - Concept of Operations
 * Copy (that) - Information received
@@ -2153,7 +2160,7 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 * Empty the (full) Load - Reference to mortar support means, to shoot off all the rockets or mortars in the current mag
 * Entrenching tool - shovel - needed to build structures
 * ETA - Estimated Time of Arrival
-* Exfil - Extraction
+* Exfil - Exfiltration or Extraction, the process of removing constituents from a targeted site
 
 Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](#g), [H](#h), [I](#i), [J, K](#j-k), [L](#l),  [M](#m), [N](#n), [O](#o), [P](#p), [Q](#q), [R](#r), [S](#s), [T](#t), [U](#u), [V](#v), [W, X, Y](#w-x-y), [Z](#z) - [Back to top](#content)
 
@@ -2213,6 +2220,7 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 * HEDP - high-explosive, dual-purpose M430 grenade launcher cartridge
 * Helo - Helicopter
 * HESCO - Earth-filled burlap boxes used for military fortifications. Used as a temporary to semi-permanent levee or blast wall against small-arms fire and/or explosives. It has seen considerable use in Iraq and Afghanistan. 
+* HESH - High-explosive squash head (HESH) is a type of explosive projectile which utilizes a plastic explosive that conforms to the surface of a target before detonating to improve the transfer of explosive energy to the target. 
 * HF - Have fun
 * HMG - Heavy Machine Gun .50 Cal
 * Hold Fire - Stop firing
@@ -2362,6 +2370,7 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 * RAAS - Random Advance and Secure
 * Radio - Radio is dropped by SL. Within a radius of 150m around the radio, structures can be placed.
 * Rally - A mobile spawn point that the SL can drop. Occasionally called an "RP". Only your own squad can use the rally
+* Reactive armor - A type of vehicle armour that reacts in some way to the impact of a weapon to reduce the damage done to the vehicle being protected. It is most effective in protecting against shaped charges and specially hardened kinetic energy penetrators.
 * Recon - Reconnaissance - The observation of a region to locate the enemy or determine possible strategic features.
 * Recon Element - Reconnaissance Structure. Technically you can recon from anywhere, most likely from a high vantage point, like a cliff, to locate the enemy, but sometimes you might be scouting out the area via a structure. This structure can be very generalized - a house, tower, small bunker, the fourth floor of an apartment, etc.
 * Reee - Reee is a meme commonly used by Pepe the Frog fans to express intense rage and/or intense frustration.
@@ -2374,6 +2383,7 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 * REZ - Resurrect/revive me
 * Right on top of me - Means the enemy is near your person or dead body
 * RG - Rifle Grenade or HE Rifle Grenade
+* RGF - Russian Ground Forces
 * Rocket or Rocke (rock-e) - Rocket Artillery Technical Truck. For the INS forces, each truck can be referred to by color.
 * RPG - Rocket Propelled Grenade
 * RPK - 7.62×39mm light machine gun of Soviet design
@@ -2435,7 +2445,7 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 
 
 ## T
-* TANDEM Round - Refers specifically to the tandem HEAT round used to defeat heavily armored vehicles
+* TANDEM Round - Refers specifically to the tandem HEAT round used to defeat heavily armored vehicles. It's an explosive device or projectile that has two or more stages of detonation. It is effective against reactive armour, which is designed to protect an armoured vehicle (mostly tanks) against anti-tank munitions.
 * Tango - Target
 * Tango Down - Target Down
 * Tango Uniform - Slang for "tits up," which is the position dead bodies tend to face. The term can be applied to the deceased as well as broken pieces of equipment
@@ -2448,6 +2458,7 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 * Throw Frags - Throw Fragmentation Grenades to SL’s desired target
 * Throwing - The act of losing a game on purpose.
 * Thump that enemy - Want you to launch rifle grenades on that enemy. Order given to the squad member with rifle grenades. Always understood as HE grenades unless said otherwise.
+* Tigr - GAZ Tigr is a Russian 4x4, multipurpose, all-terrain infantry mobility vehicle (MRAP)
 * Tilted - Being frustrated or put on edge to the point where it hinders your ability to play.
 * TK - Kill someone on your team
 * T/O - Task/Org
@@ -2692,7 +2703,6 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 - To save this manual, right-click on this page in your browser and click on "Save Page As" to save this page as a .html file. You can also [download the complete Github repo](https://github.com/SquadFM/Squad-Field-Manual/archive/refs/heads/main.zip). The .zip file contains this manual as a text file. Links won't work unless you use a markdown editor with live-view.
 - This guide is still a work in progress, but I am trying to be less of a perfectionist and just wanted to get it out there. I hope you have fun reading it. 
 - **Tell someone about this manual.** Let's help others and improve this community.
-- This guide was last updated on March 31, 2021.
 
 See you in Squad!
 
