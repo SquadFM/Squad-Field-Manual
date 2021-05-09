@@ -257,10 +257,11 @@ Please use values that are comfortable for you. Check out [Protect Your Hearing]
 | Show Map Marker Fireteams 		| On |
 | Show Weapons in deployment 		| On |
 
+
 ### Controls
-    - Map: You will need the map A LOT. If you have a mouse with a thumb button this would be a good place to access the map. Or use TAB or any other key you can access without moving away from WASD too much.
-    - Lean keys: use Q to lean right, E to lean left - makes it easier to strafe at the same time.
-    - Check out my [Keyboard and Mouse Binds](https://github.com/SquadFM/Squad-Field-Manual/blob/main/Squad%20Keybinds.pdf).
+- Map: You will need the map A LOT. If you have a mouse with a thumb button this would be a good place to access the map. Or use TAB or any other key you can access without moving away from WASD too much.
+- Lean keys: use Q to lean right, E to lean left - makes it easier to strafe at the same time.
+- Check out my [Keyboard and Mouse Binds](https://github.com/SquadFM/Squad-Field-Manual/blob/main/Squad%20Keybinds.pdf).
 
 [Back to top](#content)
 
