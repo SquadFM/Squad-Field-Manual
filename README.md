@@ -349,8 +349,8 @@ In the console type:
 - Mods can cause Squad to crash after major updates.
 - Try to remove mods if you're experiencing issues that can't be resolved with any of the guides above.
 - To remove mods from squad you need to unsubscribe to the mods in the Steam Workshop:
-    1. Go to library and click on "Squad".
-    2. Click on "Workshop" in the vertical menubar.
+    - Go to library and click on "Squad".
+    - Click on "Workshop" in the vertical menubar.
 
 [Back to top](#content)
 
