@@ -157,6 +157,107 @@ Before you join a server as a new player
 ## Settings
 - I am playing with the settings below. Adjust them to your liking.
 - Check out my [Keyboard and Mouse Binds](https://github.com/SquadFM/Squad-Field-Manual/blob/main/Squad%20Keybinds.pdf).
+
+
+### Game
+
+| Setting Name 				| Value |
+| ------------------------------------- | ------------- |
+| Field of View 			| 90 (a higher field of view will decrease the size of your rifle optic) |
+| Mouse Smoothing 			| off |
+| Mouse Global Sensitivity 		| 0.30 (my mouse is set to 700dpi, lower mouse sensitivity will help with aiming) |
+| Mouse Freelook Sensitivity 		| 4 (set this as high as possible, you want to be able to quickly look around) |
+| Helicopter Sensitivity Pitch/Roll 	| 3 |
+| Use Zoom Sensitivity Scaling 		| Yes |
+| No Zoom 				| 1 |
+| 1x Zoom 				| 1 |
+| 4x Zoom 				| 0.5 |
+| Vehicle Sensitivity 			| No Zoom 0.5, 4x Zoom 0.5 |
+| Hold to aim down sights 		| No |
+| Hold to crouch 			| No |
+| Hold to lean 				| Yes |
+| Hold to freelook 			| Yes |
+| Freelook Recenters Weapon 		| Yes |
+| Jump causes uncrouch 			| No |
+| Jump causes unprone 			| No |
+| Double Tap to auto walk 		| No |
+
+
+### Graphics
+
+| Setting Name 				| Value |
+| ------------------------------------- | ------------- |
+| Window mode 				| Fullscreen |
+| Resolution	 			| 2560x1440 (set your screen's native resolution, if your PC can handle it) |
+| Resolution Scale 			| 125 (if your PC can handle it, makes spotting far enemies easier) |
+| Max FPS Menu 				| 60 |
+| Max FPS In-Game 			| 144 (set your screens native refresh rate) |
+| AA Quality 				| Low |
+| AA Samples 				| 4 |
+| Shadow Quality 			| Low |
+| Contact Shadows 			| No |
+| Far Shadows 				| No (reduces FPS like crazy) |
+| Texture Quality 			| Low |
+| Anisotropic Filtering 		| 2 |
+| Uncap Texture Poolsize 		| No |
+| Particle Quality 			| Cinematic |
+| AO Quality 				| Off (better visibility) |
+| Screen Space AO 			| No (better visibility) |
+| Post Processing Quality 		| Low |
+| Lens Flares 				| No |
+| Motion Blur 				| No |
+| Screen Sharpening 			| 0 |
+
+
+### Audio
+
+Please use values that are comfortable for you. Check out [Protect Your Hearing](#protect-your-hearing).
+
+| Setting Name 				| Value |
+| ------------------------------------- | ------------- |
+| Audio Quality 			| Epic (Epic = better locate enemies) |
+| Audio Output Device 			| PulseEffects(apps) (set your output device, in my case I am using the output from the PulseEffects Audio Compressor) |
+| Master Volume 			| 100% |
+| Effects Volume 			| 40% |
+| UI Volume 				| 0% |
+| Music Volume 				| 0% |
+| Out of Game Volume 			| 50% |
+| Command Voice Volume 			| 200% (Hearing voice communication is very important in this game) |
+| Command Voice Balance 		| -100 (left ear only) |
+| Squad Voice Volume 			| 200% (you might want to lower this value) |
+| Squad Voice Volume 			| 100% (right ear only) |
+| Local Voice Volume 			| 200% (you might want to lower this value) |
+| Priority Speaker Ducking 		| 50% |
+| Radio Filter 				| On |
+| Command Beeps 			| On |
+| Squad Beeps 				| On |
+| Only apply when leading 		| Off |
+
+
+### Interface
+
+| Setting Name 				| Value |
+| ------------------------------------- | ------------- |
+| In-Game Help 				| On |
+| Show Stance Indicator 		| On |
+| Show vehicle keybinds 		| On |
+| Skip give up confirmation 		| off |
+| Radial menu tips 			| On |
+| Menu tooltips 			| On |
+| Show mode intro animation 		| Off |
+| Play capture sounds 			| Off |
+| Disable on-screen chat 		| Off |
+| Name tag opacity 			| 1 |
+| Name tag scale 			| 1 |
+| SL marker always visible 		| On |
+| Show Name Tag Text 			| On (shows name tag over friendlies _most_ of the time; still check your map before firing) |
+| Show Name Tag Kit 			| On |
+| Show Name Tag Fireteams 		| On |
+| Map Marker Scale 			| 0.9 |
+| Show Map Marker Fireteams 		| On |
+| Show Weapons in deployment 		| On |
+
+
 - Game:
     - Field of View: 90 (a higher field of view will decrease the size of your rifle optic)
     - Mouse Smoothing: off
