@@ -36,6 +36,7 @@ See you in Squad!
         - [Steam File Verification](#steam-file-verification)
         - [Remove Mods](#remove-mods)
         - [Remove and reinstall Steam](#remove-and-reinstall-steam)
+        - [XMP Memory Profile](#xmp-memory-profile)
     - [OBS Setup](#obs-setup)
 - [Before Joining A Game](#before-joining-a-game)
     - [Training](#training)
@@ -363,6 +364,7 @@ In the console type:
 
 
 ### XMP Memory Profile
+- This is a setting that can be changed in your computers BIOS.
 - If XMP is disabled your RAM is running at less speed than it's capable of (usually 2133 MHz). Enabling this can gain you 10-20 FPS.
 - Go into your BIOS and change the XMP to Profile 1. Save the settings and restart your computer.
 
