@@ -15,6 +15,9 @@ Before you join a server as a new player
 - Practice on Jensen's Range (see [Training](#training)) and ideally some [Steam Workshop Maps](#steam-workshop-maps),
 - Take a look at various new player guides on YouTube (links below in the [YouTube Channels](#youtube-channels) chapter).
 - This game has its own language. Take a look at the [Abbreviations, Lingo](#abbreviations-lingo) chapter if you don't know what a term means.
+- If you run into any performance issues, check out the chapter [Fix Performance Issues](#fix-performance-issues).
+
+See you in Squad!
 
 
 ************************************************************************
