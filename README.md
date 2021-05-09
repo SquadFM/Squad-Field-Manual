@@ -308,7 +308,7 @@ In the console type:
 - If this doesn't bring improvement, increase the number by one (e.g. HighResShot 2, HighResShot 3, etc). Strangely, HighResShot 1, HighResShot 2, and HighResShot 4 fix this issue on my end. Whereas HighResShot 3 causes bad FPS drops. Your mileage may vary.
 - Every time you execute HighResShot, a screenshot is being saved into the folder below. If you set the "Screenshots" folder to read-only, you don't have to remember to delete these screenshots.
     - Under Linux: /home/username/.local/share/Steam/steamapps/compatdata/393380/pfx/drive_c/users/steamuser/Local Settings/Application Data/SquadGame/Saved/Screenshots/
-    - Under Windows: %localappdata%\SquadGame\Saved\Screenshots\
+    - Under Windows: '%localappdata%\SquadGame\Saved\Screenshots\'
 
 [Back to top](#content)
 
@@ -326,10 +326,10 @@ In the console type:
     - Click Disk Cleanup.
     - Mark the DirectX Shader Cache tickbox and confirm.
 - Under Windows, you can also clear the NVIDIA shader cache
-    1. Go to your NVIDIA control panel " Manage 3D Settings " turn off Shader Cache and hit Apply.
-    2. Reboot your PC.
-    3. Go to %localappdata%\NVIDIA Corporation\NV_Cache and delete the contents of the folder (You can paste that address directly into a Windows address bar).
-    4. Go back to your NVIDIA control panel " Manage 3D Settings " turn On Shader Cache and hit Apply.
+    - Go to your NVIDIA control panel " Manage 3D Settings " turn off Shader Cache and hit Apply.
+    - Reboot your PC.
+    - Go to %localappdata%\NVIDIA Corporation\NV_Cache and delete the contents of the folder (You can paste that address directly into a Windows address bar).
+    - Go back to your NVIDIA control panel " Manage 3D Settings " turn On Shader Cache and hit Apply.
 - Once you start Squad the game may stutter for a moment while the cache is being rebuilt, but this should only take a few seconds.
 
 [Back to top](#content)
