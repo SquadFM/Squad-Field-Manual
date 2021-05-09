@@ -17,8 +17,6 @@ Before you join a server as a new player
 - This game has its own language. Take a look at the [Abbreviations, Lingo](#abbreviations-lingo) chapter if you don't know what a term means.
 - If you run into any performance issues, check out the chapter [Fix Performance Issues](#fix-performance-issues).
 
-See you in Squad!
-
 
 ************************************************************************
 # Content
