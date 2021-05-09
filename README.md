@@ -281,10 +281,11 @@ Before you join a server as a new player
 In the console type:
 - stat FPS - to see frames per second
 - stat Unit - to see if either the CPU or GPU are holding back performance
-    - Frame is the overall frame time, in milliseconds.
-    - Game is CPU time.
-    - GPU is GPU time.
-    - Whichever of the latter two matches Frame is what's holding performance back.
+    - Frame: The total amount of time spent generating one frame of the game.
+    - Game: The game thread on the CPU.
+    - Draw: The render thread on the CPU.
+    - GPU: The time the GPU takes to render the scene.
+    - Whichever matches the Frame is what's holding performance back. If Frame time is very close to the Game time, you are bottlenecked by the game thread (CPU). If Frame time is very close to Draw time, you are bottlenecked by the rendering thread (again CPU). If neither time is close while GPU time is close, then you are bottlenecked by the video card. Some more technical information can be found here: [How to improve game thread CPU performance in Unreal Engine](https://www.unrealengine.com/en-US/blog/how-to-improve-game-thread-cpu-performance)
 
 [Back to top](#content)
 
@@ -347,6 +348,9 @@ In the console type:
 ### Remove Mods
 - Mods can cause Squad to crash after major updates.
 - Try to remove mods if you're experiencing issues that can't be resolved with any of the guides above.
+- To remove mods from squad you need to unsubscribe to the mods in the Steam Workshop:
+    1. Go to library and click on "Squad".
+    2. Click on "Workshop" in the vertical menubar.
 
 [Back to top](#content)
 
