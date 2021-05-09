@@ -140,19 +140,16 @@ Before you join a server as a new player
 # Installation, Setup
 
 ## Installation
-- Squad runs natively on Windows, but it also runs great on Linux (through Steam and Proton).
 - If you're using Windows you can skip this chapter. You can simply install the game in Steam and you're good to go.
-- Since I play exclusively under Linux I wanted to share the setup process to make the life of other Linux users easier.
-- I am using Manjaro, but the process should be the same on all distros.
-
-- Go to Steam and download Squad.
-- Start Squad and you'll get an EAC (Easy Anti Cheat) error. Click on OK and exit Squad.
-- Download Easy Anti Cheat from [Valve's Github repo](https://github.com/ValveSoftware/Proton/files/4839724/easyanticheat_wine_x64.tar.gz) - This is Valve's official repo and you won't get banned for playing under Linux.
-- Extract the files to: /home/username/.local/share/Steam/steamapps/compatdata/393380/pfx/drive_c/users/steamuser/Application Data/EasyAntiCheat/55/
-- Set the /55/ directory to read-only
-- Also, set the following /Temp/ directory to read-only: /home/username/.local/share/Steam/steamapps/compatdata/393380/pfx/drive_c/users/steamuser/Temp/
-- In Steam go to Library " right-click on Squad " Properties " in the settings pop-up go to Compatibility and check "Force the use of a specific Steam Play compatibility tool". Select the latest Proton version.
-- While you're here, set Automatic Updates to "High Priority" and set background downloads to "Pause".
+- Squad runs great on Linux too (through Steam and Proton). Since I play exclusively under Linux I wanted to share the setup process to make the life of other Linux users easier. I am using Manjaro, but the process should be the same on all distros.
+    - Go to Steam and download Squad.
+    - Start Squad and you'll get an EAC (Easy Anti Cheat) error. Click on OK and exit Squad.
+    - Download Easy Anti Cheat from [Valve's Github repo](https://github.com/ValveSoftware/Proton/files/4839724/easyanticheat_wine_x64.tar.gz) - This is Valve's official repo and you won't get banned for playing under Linux.
+    - Extract the files to: /home/username/.local/share/Steam/steamapps/compatdata/393380/pfx/drive_c/users/steamuser/Application Data/EasyAntiCheat/55/
+    - Set the /55/ directory to read-only
+    - Also, set the following /Temp/ directory to read-only: /home/username/.local/share/Steam/steamapps/compatdata/393380/pfx/drive_c/users/steamuser/Temp/
+    - In Steam go to Library " right-click on Squad " Properties " in the settings pop-up go to Compatibility and check "Force the use of a specific Steam Play compatibility tool". Select the latest Proton version.
+    - While you're here, set Automatic Updates to "High Priority" and set background downloads to "Pause".
 
 [Back to top](#content)
 
@@ -160,6 +157,101 @@ Before you join a server as a new player
 ## Settings
 - I am playing with the settings below. Adjust them to your liking.
 - Check out my [Keyboard and Mouse Binds](https://github.com/SquadFM/Squad-Field-Manual/blob/main/Squad%20Keybinds.pdf).
+
+### Game
+Setting Name 				| Value
+--------------------------------------- | -------------
+Field of View 				| 90 (a higher field of view will decrease the size of your rifle optic)
+Mouse Smoothing 			| off
+Mouse Global Sensitivity 		| 0.30 (my mouse is set to 700dpi, lower mouse sensitivity will help with aiming)
+Mouse Freelook Sensitivity 		| 4 (set this as high as possible, you want to be able to quickly look around)
+Helicopter Sensitivity Pitch/Roll 	| 3
+Use Zoom Sensitivity Scaling 		| Yes
+No Zoom 				| 1
+1x Zoom 				| 1
+4x Zoom 				| 0.5
+Vehicle Sensitivity 			| No Zoom 0.5, 4x Zoom 0.5
+Hold to aim down sights 		| No
+Hold to crouch 				| No
+Hold to lean 				| Yes
+Hold to freelook 			| Yes
+Freelook Recenters Weapon 		| Yes
+Jump causes uncrouch 			| No
+Jump causes unprone 			| No
+Double Tap to auto walk 		| No
+
+### Graphics
+Setting Name 				| Value
+--------------------------------------- | -------------
+Window mode 				| Fullscreen
+Resolution	 			| 2560x1440 (set your screen's native resolution, if your PC can handle it)
+Resolution Scale 			| 125 (if your PC can handle it, makes spotting far enemies easier)
+Max FPS Menu 				| 60
+Max FPS In-Game 			| 144 (set your screens native refresh rate)
+AA Quality 				| Low
+AA Samples 				| 4
+Shadow Quality 				| Low
+Contact Shadows 			| No
+Far Shadows 				| No (reduces FPS like crazy)
+Texture Quality 			| Low
+Anisotropic Filtering 			| 2
+Uncap Texture Poolsize 			| No
+Particle Quality 			| Cinematic
+AO Quality 				| Off (better visibility)
+Screen Space AO 			| No (better visibility)
+Post Processing Quality 		| Low
+Lens Flares 				| No
+Motion Blur 				| No
+Screen Sharpening 			| 0
+
+### Audio
+Please use values that are comfortable for you. Check out [Protect Your Hearing](#protect-your-hearing)
+Setting Name 				| Value
+--------------------------------------- | -------------
+Audio Quality 				| Epic (Epic = better locate enemies)
+Audio Output Device 			| PulseEffects(apps) (set your output device, in my case I am using the output from the PulseEffects Audio Compressor)
+Master Volume 				| 100%
+Effects Volume 				| 40%
+UI Volume 				| 0%
+Music Volume 				| 0%
+Out of Game Volume 			| 50%
+Command Voice Volume 			| 200% (Hearing voice communication is very important in this game)
+Command Voice Balance 			| -100 (left ear only)
+Squad Voice Volume 			| 200% (you might want to lower this value)
+Squad Voice Volume 			| 100% (right ear only)
+Local Voice Volume 			| 200% (you might want to lower this value)
+Priority Speaker Ducking 		| 50%
+Radio Filter 				| On
+Command Beeps 				| On
+Squad Beeps 				| On
+Only apply when leading 		| Off
+
+### Interface
+Setting Name 				| Value
+--------------------------------------- | -------------
+In-Game Help 				| On
+Show Stance Indicator 			| On
+Show vehicle keybinds 			| On
+Skip give up confirmation 		| off
+Radial menu tips 			| On
+Menu tooltips 				| On
+Show mode intro animation 		| Off
+Play capture sounds 			| Off
+Disable on-screen chat 			| Off
+Name tag opacity 			| 1
+Name tag scale 				| 1
+SL marker always visible 		| On
+Show Name Tag Text 			| On (shows name tag over friendlies _most_ of the time; still check your map before firing)
+Show Name Tag Kit 			| On
+Show Name Tag Fireteams 		| On
+Map Marker Scale 			| 0.9
+Show Map Marker Fireteams 		| On
+Show Weapons in deployment 		| On
+
+
+
+
+
 - Game:
     - Field of View: 90 (a higher field of view will decrease the size of your rifle optic)
     - Mouse Smoothing: off
@@ -247,11 +339,11 @@ Before you join a server as a new player
 
 ## Backup Your Settings
 - Backup your game settings (updates can reset your settings)
-- Under Linux go to: /home/username/.local/share/Steam/steamapps/compatdata/393380/pfx/drive_c/users/steamuser/Local Settings/Application Data/SquadGame/Saved/Config/WindowsNoEditor/
 - Under Windows go to %localappdata%\SquadGame\Saved\Config\WindowsNoEditor
 - Backup the following files:
     - GameUserSettings.ini
     - Input.ini
+- Under Linux you can find these two files in: /home/username/.local/share/Steam/steamapps/compatdata/393380/pfx/drive_c/users/steamuser/Local Settings/Application Data/SquadGame/Saved/Config/WindowsNoEditor/
 - You can also record a video of your settings in-game using OBS - [OBS Setup](#obs-setup).
 
 
@@ -263,14 +355,21 @@ Before you join a server as a new player
 - You can use an Audio Compressor that will automatically reduce volume spikes (e.g. shots, explosions).
 - You will still be able to hear footsteps and other quiet noises. In fact, you will be able to focus better on quiet noises.
 - The compressor will not just improve in-game sound, it will prevent damage to your ears. You do not want Tinnitus, it's terrible.
-- Linux Audio Compressor: PulseEffects, PulseEffects-Legacy
-    - Attack: 0ms
-    - Release: 100ms
-    - Threshold: -31db (if you reduce this towards 0db (e.g. -12db) loud noises will be louder)
-    - Ratio: 6
-    - Knee: 0db
-    - Makeup: 0db
-- Windows Audio Compressor: VoiceMeeter Banana (search for audio compressor windows)
+
+### Windows Audio Compressor
+[VoiceMeeter Banana](https://vb-audio.com/Voicemeeter/banana.htm)  
+
+### Linux Audio Compressor
+[PulseEffects](https://github.com/wwmm/pulseeffects#installation)  
+[PulseEffects-Legacy](https://aur.archlinux.org/packages/pulseeffects-legacy/)  
+Setting Name 				| Value
+--------------------------------------- | -------------
+Attack					| 0ms
+Release					| 100ms
+Threshold				| -31db (if you reduce this towards 0db (e.g. -12db) loud noises will be louder)
+Ratio					| 6
+Knee					| 0db
+Makeup					| 0db
 
 [Back to top](#content)
 
@@ -278,24 +377,28 @@ Before you join a server as a new player
 ## Show FPS, Find Hardware Bottlenecks
 In the console type:
 - stat FPS - to see frames per second
-- stat Unit - to see if either the CPU or GPU are holding back performance
-    - Frame: The total amount of time spent generating one frame of the game.
-    - Game: The game thread on the CPU.
-    - Draw: The render thread on the CPU.
-    - GPU: The time the GPU takes to render the scene.
-    - Whichever matches the Frame is what's holding performance back. If Frame time is very close to the Game time, you are bottlenecked by the game thread (CPU). If Frame time is very close to Draw time, you are bottlenecked by the rendering thread (again CPU). If neither time is close while GPU time is close, then you are bottlenecked by the video card. Some more technical information can be found here: [How to improve game thread CPU performance in Unreal Engine](https://www.unrealengine.com/en-US/blog/how-to-improve-game-thread-cpu-performance)
+- stat Unit - to see if either the CPU or GPU are holding back performance. Stat Unit will display Frame, Game, Draw and GPU information.
+
+| Value name | Value description |
+| :--------- | :---------------- |
+| Frame      | The total amount of time spent generating one frame of the game. |
+| Game       | The game thread on the CPU. |
+| Draw       | The render thread on the CPU. |
+| GPU        | The time the GPU takes to render the scene. |
+
+Whichever matches the Frame is what's holding performance back. If Frame time is very close to the Game time, you are bottlenecked by the game thread (CPU). If Frame time is very close to Draw time, you are bottlenecked by the rendering thread (again CPU). If neither time is close while GPU time is close, then you are bottlenecked by the video card. Some more technical information can be found here: [How to improve game thread CPU performance in Unreal Engine](https://www.unrealengine.com/en-US/blog/how-to-improve-game-thread-cpu-performance)
 
 [Back to top](#content)
 
 
 ## Fix Performance Issues
 
-- Performance issues can occur after Squad was updated.
-- The following tips can help to improve performance.
+Performance issues can occur after Squad was updated. The following tips can help to improve performance.
 
 
 ### Reset Settings
-- Some updates may change menu settings, graphic options, etc., and sometimes it is best to start with a clean slate. Press "Empty Cache" in the Game Settings to reset everything to defaults. This will delete all of your keybinds, settings, etc.
+- Some updates may change menu settings, graphic options, etc., and sometimes it is best to start with a clean slate. 
+- Press "Empty Cache" in the Game Settings to reset everything to defaults. This will delete all of your keybinds, settings, etc.
 - Alternatively, you can reset all Squad settings manually by deleting everything in the following folder. (Make a backup of everything you're going to delete first):
     - Under Linux: /home/username/.local/share/Steam/steamapps/compatdata/393380/pfx/drive_c/users/steamuser/Local Settings/Application Data/SquadGame/
     - Under Windows: %localappdata%\SquadGame\
@@ -308,7 +411,7 @@ In the console type:
 - If this doesn't bring improvement, increase the number by one (e.g. HighResShot 2, HighResShot 3, etc). Strangely, HighResShot 1, HighResShot 2, and HighResShot 4 fix this issue on my end. Whereas HighResShot 3 causes bad FPS drops. Your mileage may vary.
 - Every time you execute HighResShot, a screenshot is being saved into the folder below. If you set the "Screenshots" folder to read-only, you don't have to remember to delete these screenshots.
     - Under Linux: /home/username/.local/share/Steam/steamapps/compatdata/393380/pfx/drive_c/users/steamuser/Local Settings/Application Data/SquadGame/Saved/Screenshots/
-    - Under Windows: '%localappdata%\SquadGame\Saved\Screenshots\'
+    - Under Windows: %localappdata%\SquadGame\Saved\Screenshots\
 
 [Back to top](#content)
 
