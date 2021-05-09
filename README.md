@@ -248,9 +248,7 @@ Before you join a server as a new player
 ## Backup Your Settings
 - Backup your game settings (updates can reset your settings)
 - Under Linux go to: /home/username/.local/share/Steam/steamapps/compatdata/393380/pfx/drive_c/users/steamuser/Local Settings/Application Data/SquadGame/Saved/Config/WindowsNoEditor/
-- Under Windows go to either directory:
-    - C:\Users\username\AppData\Local\Squad\Saved\Config\WindowsNoEditor
-    - %LOCALAPPDATA%\Squad\Saved\Config\WindowsNoEditor
+- Under Windows go to %localappdata%\SquadGame\Saved\Config\WindowsNoEditor
 - Backup the following files:
     - GameUserSettings.ini
     - Input.ini
@@ -300,7 +298,7 @@ In the console type:
 - Some updates may change menu settings, graphic options, etc., and sometimes it is best to start with a clean slate. Press "Empty Cache" in the Game Settings to reset everything to defaults. This will delete all of your keybinds, settings, etc.
 - Alternatively, you can reset all Squad settings manually by deleting everything in the following folder. (Make a backup of everything you're going to delete first):
     - Under Linux: /home/username/.local/share/Steam/steamapps/compatdata/393380/pfx/drive_c/users/steamuser/Local Settings/Application Data/SquadGame/
-    - Under Windows: C:\Users\username\AppData\Local\Squad\
+    - Under Windows: %localappdata%\SquadGame\
 
 [Back to top](#content)
 
@@ -310,7 +308,7 @@ In the console type:
 - If this doesn't bring improvement, increase the number by one (e.g. HighResShot 2, HighResShot 3, etc). Strangely, HighResShot 1, HighResShot 2, and HighResShot 4 fix this issue on my end. Whereas HighResShot 3 causes bad FPS drops. Your mileage may vary.
 - Every time you execute HighResShot, a screenshot is being saved into the folder below. If you set the "Screenshots" folder to read-only, you don't have to remember to delete these screenshots.
     - Under Linux: /home/username/.local/share/Steam/steamapps/compatdata/393380/pfx/drive_c/users/steamuser/Local Settings/Application Data/SquadGame/Saved/Screenshots/
-    - Under Windows: C:\Users\username\AppData\Local\Squad\Saved\Screenshots\
+    - Under Windows: %localappdata%\SquadGame\Saved\Screenshots\
 
 [Back to top](#content)
 
@@ -328,19 +326,22 @@ In the console type:
     - Click Disk Cleanup.
     - Mark the DirectX Shader Cache tickbox and confirm.
 - Under Windows, you can also clear the NVIDIA shader cache
-    - Go to your NVIDIA control panel " Manage 3D Settings " turn off Shader Cache and hit Apply.
-    - Reboot your PC.
-    - Go to %username%\AppData\Local\Temp\NVIDIA Corporation\NV_Cache and delete the contents of the folder (You can paste that address directly into a Windows address bar).
-    - Go back to your NVIDIA control panel " Manage 3D Settings " turn On Shader Cache and hit Apply.
+    1. Go to your NVIDIA control panel " Manage 3D Settings " turn off Shader Cache and hit Apply.
+    2. Reboot your PC.
+    3. Go to %localappdata%\NVIDIA Corporation\NV_Cache and delete the contents of the folder (You can paste that address directly into a Windows address bar).
+    4. Go back to your NVIDIA control panel " Manage 3D Settings " turn On Shader Cache and hit Apply.
 - Once you start Squad the game may stutter for a moment while the cache is being rebuilt, but this should only take a few seconds.
 
 [Back to top](#content)
 
 
 ### Steam File Verification
-- If you experience any performance issues, check the integrity of Squad's files.
-- In Steam go to Library " right-click on Squad " Settings " Local Files " Verify integrity of game files
-- This usually takes a few minutes.
+- If you experience any performance issues, check the integrity of Squad's files.  
+- In Steam go to Library:
+    - Right-click on Squad and click on "Properties"
+    - Click on the "Local Files" submenu 
+    - Click on "Verify integrity of game files"  
+    - The process usually takes a few minutes to complete.
 
 [Back to top](#content)
 
@@ -348,9 +349,12 @@ In the console type:
 ### Remove Mods
 - Mods can cause Squad to crash after major updates.
 - Try to remove mods if you're experiencing issues that can't be resolved with any of the guides above.
-- To remove mods from squad you need to unsubscribe to the mods in the Steam Workshop:
+- To remove mods from Squad you need to unsubscribe from these mods in the Steam Workshop:
     - Go to library and click on "Squad".
     - Click on "Workshop" in the vertical menubar.
+    - Hover over "Your Files" near your avatar and click on "Subscribed Items"
+    - Here you can see all subscribed items from the workshop, you can filter by game by selecting Squad in the filter option under your username.
+    - Click on "Subscribed" to unsubscribe to the mods installed.
 
 [Back to top](#content)
 
