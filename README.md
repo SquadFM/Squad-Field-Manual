@@ -12,7 +12,7 @@
 # NEW PLAYERS PLEASE READ
 Before you join a server as a new player
 - Please check out at least the chapters [Before Joining A Game](#before-joining-a-game) and [Rifleman](#rifleman),
-- Practice on Jensen's Range (see [Training](#training)) and the [Steam Workshop Maps](#steam-workshop-maps),
+- Practice on Jensen's Range (see [Training](#training)) and ideally some [Steam Workshop Maps](#steam-workshop-maps),
 - Take a look at various new player guides on YouTube (links below in the [YouTube Channels](#youtube-channels) chapter).
 - This game has its own language. Take a look at the [Abbreviations, Lingo](#abbreviations-lingo) chapter if you don't know what a term means.
 
@@ -32,20 +32,8 @@ Before you join a server as a new player
         - [Clear Shader Cache](#clear-shader-cache)
         - [Steam File Verification](#steam-file-verification)
         - [Remove Mods](#remove-mods)
+        - [Remove and reinstall Steam](#remove-and-reinstall-steam)
     - [OBS Setup](#obs-setup)
-- [Game Mechanics](#game-mechanics)
-    - [What's this game about?](#whats-this-game-about)
-    - [Tickets](#tickets)
-    - [Control Points](#control-points)
-    - [Flags](#flags)
-    - [Capping Mechanics](#capping-mechanics)
-    - [Ticket Bleed](#ticket-bleed)
-    - [Double Neutral](#double-neutral)
-- [Game Modes](#game-modes)
-    - [(Random) Advance and Secure](#random-advance-and-secure)
-    - [Invasion](#invasion)
-    - [Skirmish](#skirmish)
-    - [Territory Control (TC)](#territory-control-tc)
 - [Before Joining A Game](#before-joining-a-game)
     - [Training](#training)
     - [Steam Workshop Maps](#steam-workshop-maps)
@@ -71,6 +59,19 @@ Before you join a server as a new player
     - [Best Practices](#best-practices)
     - [Do Never](#do-never)
     - [How To Make Friends in Squad](#how-to-make-friends-in-squad)
+- [Game Mechanics](#game-mechanics)
+    - [What's this game about?](#whats-this-game-about)
+    - [Tickets](#tickets)
+    - [Control Points](#control-points)
+    - [Flags](#flags)
+    - [Capping Mechanics](#capping-mechanics)
+    - [Ticket Bleed](#ticket-bleed)
+    - [Double Neutral](#double-neutral)
+- [Game Modes](#game-modes)
+    - [(Random) Advance and Secure](#random-advance-and-secure)
+    - [Invasion](#invasion)
+    - [Skirmish](#skirmish)
+    - [Territory Control (TC)](#territory-control-tc)
 - [Infantry](#infantry)
     - [Rifleman](#rifleman)
     - [Medic](#medic)
@@ -143,6 +144,7 @@ Before you join a server as a new player
 - I am using Manjaro, but the process should be the same on all distros.
 
 - Go to Steam and download Squad.
+- Start Squad and you'll get an EAC (Easy Anti Cheat) error. Click on OK and exit Squad.
 - Download Easy Anti Cheat from [Valve's Github repo](https://github.com/ValveSoftware/Proton/files/4839724/easyanticheat_wine_x64.tar.gz) - This is Valve's official repo and you won't get banned for playing under Linux.
 - Extract the files to: /home/username/.local/share/Steam/steamapps/compatdata/393380/pfx/drive_c/users/steamuser/Application Data/EasyAntiCheat/55/
 - Set the /55/ directory to read-only
@@ -347,6 +349,16 @@ In the console type:
 [Back to top](#content)
 
 
+### Remove and reinstall Steam
+- This may not be needed under Windows, but under Linux it has helped in the past.
+- This is the nuclear option, and everything will be deleted. Therefore make a backup of your game files.
+- Uninstall all Steam games and then uninstall Steam.
+- Remove the Steam folder (under Linux /home/username/.local/share/Steam/). 
+- Then reinstall Steam and Squad.
+
+[Back to top](#content)
+
+
 ### XMP Memory Profile
 - If XMP is disabled your RAM is running at less speed than it's capable of (usually 2133 MHz). Enabling this can gain you 10-20 FPS.
 - Go into your BIOS and change the XMP to Profile 1. Save the settings and restart your computer.
@@ -365,215 +377,10 @@ In the console type:
 
 
 ************************************************************************
-# Game Mechanics
-
-## What's this game about?
-- Squad is a team game of communication, coordination, and movement.
-- The goal of most of the game modes is to capture territory, not kill the enemy. Killing enemies is a secondary objective, often required to achieve the primary objective. Don't lose sight of the primary objective because you want to get a kill.
-- The vast majority of this game is actually about NOT engaging the enemy, and then engaging them quickly and completely destroying them before they can respond. By not engaging the enemy, you and your team can move around them and secretly get into a position to destroy them.
-- Rather get 0 kills and take out an enemy FOB to prevent them from spawning than get almost any number of kills. I call this "cutting the head off the snake" or "pulling them out by their roots". Go for the critical hit, not the "hits" they will simply recover from very easily.
-- The secret to winning games is LOGISTICS. Meaning how fast can your team move around the map. This is done with FOB networks and vehicles and "spawn shifting" and smart rally placements. The game is not about outkilling your enemy, which may come naturally, but about outmaneuvering the enemy.
-- Squad is a points game disguised as a tactical game. If you have a good sniper that can kill 30 players and AT that can kill 4 vehicles while holding a flag, you might just win. Points matter. Points are called Tickets in this game.
-
-[Back to top](#content)
-
-
-## Tickets
-- To win a round, one of the teams must reduce the enemy's tickets to zero or have more tickets than the enemy by the end of the round (a round lasts up to 2 hours).
-- Tickets are essentially the team's available "reinforcements" during the battle, as the number of tickets a team has denotes the number of times a team's players can collectively respawn. If a team's tickets are reduced to zero or are lower than the enemy's by the end of the round, they lose the match.
-- Both teams are given a limited number of tickets.
-- Certain events during a match will result in either team gaining or losing tickets. Below you can see the ticket change on your and the opponent's team for certain events.
-
-| Your Team | Opposite Team | Event |
-| --------: | ------------: | :---- | 
-|         0 |             0 | Player goes into incapacitated state |
-|        -1 |             0 | Player dies or gives up |
-|        -2 |             0 | Commander dies or gives up |
-|        60 |           -10 | Capture a Control Point in game mode X |
-
-- Losing Vehicles - Ticket costs for your team
-    - [- 5] Logi, Transport
-    - [- 5] Light Attack and Recon Vehicles
-    - [- 5] Anti-Air
-    - [- 5] Helicopter
-    - [-10] Armor Hunters, APC, IFV
-    - [-15] Main Battle Tanks
-
-- The highest ticket costs are game mode specific. Therefore, please check the ticket section for each game mode to get the full picture. Ticket values may change in future updates. For further information, [check out the Squad Wiki](https://squad.gamepedia.com/Game_Modes) or [Recent Squad Updates](https://joinsquad.com/updates/).
-
-[Back to top](#content)
-
-
-## Control Points
-- Control Points (CP), also known as "flag" or "cap", are areas on the map that teams need to capture.
-- A CP is a certain limited area of the battlefield, there is not an actual "flag" in the ground.
-- The capping radius (or even shape) of a CP may differ for each CP on the map.
-- CPs can be either neutral or belong to one of the teams.
-- At least 3 players need to be within the capping radius of a CP to capture it. At the start of a round, a neutral CP can be capped by one player alone.
-- It takes 2 minutes to capture a flag.
-- If players from the opposite team are in the capping radius at the same time, players from the teams will cancel each other out. The team with more players in the radius will gradually take the CP.
-- When you are inside the capping radius of a CP, the Control Point widget will appear. The flag shows who owns the CP and a progress bar shows the current progress of capping or decapping. The widget also shows the name of the CP.
-    - Neutral CP show with a white bar,
-    - those being capped or owned by your team show a blue bar.
-    - A red bar indicates that the opposite team owns this CP (also indicated by the enemy's flag; e.g. Canadian flag).
-- The layout of the CP on the map may change for the same map from game to game. In some game modes, CP can only be capped in a specific sequence (e.g. AAS, RAAS).
-
-[Back to top](#content)
-
-
-## Flags
-- Main - The main base. This is where the game starts. Teams cannot capture the other team's main base. You cannot fire a weapon in the main base. You cannot fire into a base (it has an invisible shield that protects it). It is your team's safe harbor.
-- Neutral flag - Flag that has not been captured yet by either side. For example, the very first flag once you leave main.
-- Contested flag - Flag that has not been captured yet by either side and both teams are on the objective at the same time and try to capture it. The team with more people on the flag will capture it after 1-2 minutes. The middle flag often is contested by both teams at the same time.
-- Middle flag - Exists only in map layers with an uneven number of objectives. It's the flag, well, in the middle. This is usually where both teams clash full force.
-- Capped flag - A flag that has been successfully captured by a team.
-- Offensive flag - This is the next flag that your team is going to capture. It has a red knife symbol on your map.
-- Defensive flag - This is the flag your team already captured. You can see it being represented on the map by a blue shield symbol. You need to hold these flags. If you lose any defensive flags to the enemy, your team cannot capture additional flags. Should your team lose a defense flag, your team has to move back and recapture it. Sometimes squads are back capping, which means they are protecting the already captured flags from the enemy. Back capping only needs 1 person on the flag. However, if that one person is being killed by the enemy, you're losing this flag and your offensive cannot continue until you recapture this lost flag.
-
-[Back to top](#content)
-
-
-# Capping Mechanics
-- The examples below are mostly for AAS/RAAS.
-- To capture a point, players must stand within the point's capture area until it comes under their team's control.
-- The cap rate doesn't change with more people on the flag. One person captures as fast as 10 from the same team.
-- Once a flag is captured you can leave the area with all soldiers, but this is not advisable. Should an enemy squad stop by they can easily neutralize this flag. Therefore leave some soldiers behind (also called "back capping)". It's not the most exciting job to do, but it is important not to lose any already captured flags. Doing so will prevent your team from capturing any other flags until they recaptured the lost flag.
-- Neutral flags can be capped by 1 person (e.g the first flag once you leave main).
-- It takes 2 minutes to neutralize a flag that was previously captured by the enemy and then 2 more minutes to capture it.
-- It takes the same amount of time to go from captured (capped) to neutral as it does to go from neutral to captured (capped).
-- For flags that were captured by the enemy you'll need to have a minimum of 3 people and outnumber the enemy in the cap zone by 1 to neutralize it.
-- On contested points (those caps not yet fully captured by either team) you have to outnumber the enemy contesting the point. So, if the enemy enters the cap zone of a neutral flag while you're capping it, you need at least one more person than them to continue capping.
-- Any flag that's not a current objective for your team, you won't be able to capture. For example, you're not able to capture the flag after your current offensive flag. You first have to capture the offensive flag.
-- Your team can only capture the next flag if they already captured the previous flags (those that connect back to your main base). And you have to keep holding these back caps.
-- You need 3+ players to cap an active objective.
-- On most maps, your defensive flag has a small and hard-to-see blue bar under it that indicates the level of cap that it has. You can view this on the map to see whether your defense is holding or whether the enemy has started to cap your defensive point and what % is capped already.
-- Many people get confused by the indicator that shows up when you're inside a cap zone and capping the point. If the indicator bar is BLUE you are capping. The BLUE bar may be going down which indicates you are DEcapping what the enemy team has already capped. Many people panic and see the BLUE bar decreasing and think we are losing the cap, but that is not what is happening. If the BLUE bar goes white, no one is capping. If the BLUE bar goes RED, the enemy is capping. OWI needs to clarify this GUI element and make it more obvious as to what is happening.
-- You can cap a neutral point with 1 person, assuming that point has not been previously captured.
-- Capping any point that has previously been captured: you need at least 3 people in the cap zone, plus 1 more player than the enemy team has on that point.
-
-[Back to top](#content)
-
-
-## Ticket Bleed
-- The enemy team will start bleeding tickets if you successfully capture at least one objective on the enemy side of the flag lattice. For each objective on the enemy part of the map, controlled by your team, the enemy will lose 1 ticket per minute.
-- On map layers with an odd number of objectives, middle flags do not trigger ticket bleed. To introduce ticket bleed to the enemy, your team will need to capture at least one more flag past central. For example, if there are 5 objectives to capture in total, your team would need to capture 4 objectives to introduce ticket bleed to the enemy team.
-
-- For map layers with an even number of objectives, your team will need to capture more than half of them to trigger ticket bleed on the enemy team. For example, if there are 6 objectives to capture in total, your team would need to capture 4 objectives to introduce ticket bleed to the enemy team.
-- In the case of a "double-neutral" stalemate situation, all ticket bleed mechanics will be paused until the stalemate is resolved.
-- If one team manages to successfully capture all flags on the map, the opposing team will suffer a catastrophic ticket bleed of 60 tickets per minute to bring about the end of the round more quickly. This is the equivalent of 60 soldiers being wiped out per minute.
-
-[Back to top](#content)
-
-
-## Double Neutral
-- A double neutral occurs when the enemy neutralized your defensive flag and you neutralized their defensive flag. Now neither of you can finish your offensive capture until you have retaken your respective defensive flags.
-- Double neutrals are possible in AAS and RAAS. If you neutralize the offensive flag and then lose your flag, the offensive flag will still be neutralized for the enemy, even if you can't see it on the map anymore. I've seen teams completely give up that advantage and leave the flag open for the enemy team to recapture because they don't understand that they're still holding it hostage.
-- If the enemy team was starting to capture your neutralized flag before the double neutral was initiated, the defensive flag will continue to flash red, even though they're no longer able to manipulate the cap. Once a single friendly enters the cap range, the icon will stop flashing. This will be your guide for understanding when you've lost your hold on the enemy's flag. If that flag starts flashing red again, you've lost the double neutral and need to relocate.
-- One thing to add. It's most confusing on RAAS because when the enemy neutralizes your defense flag and you neutralize theirs, you won't see the attack flag that you have neutralized. It is still there, and you are on the flag blocking it. There's just no indication. This always leads to squads leaving the flag they just neutralized since they think it's no longer active. It is just hidden. As an SL I always tell my guys that the flag is still here and we need to stay on it to keep the flag neutralized. Pretty much every single game the rest of the team will run back to the defense flag to try and get it back. The enemy will do the same, so you end up swapping back your flags and you're back to where you were at the start. TLDR; On RAAS the flag icon will disappear on a double neutral, it's still there and as long as you stay in the cap zone, you're still keeping the double neutral.
-- To recap the double neutral flag you only need 3 friendlies in the flag, regardless of how many enemies there are.
-- When you are attacking a point and it goes neutral, quickly check your map and look at the blue bar under your defensive flag. If there is no progression towards neutral, you won't go double neutral. If the enemy has started capping your defensive flag as you neutralize your offensive flag, you will go double neutral assuming no team stalls the cap of the other team
-- Advice - Unless your situation is very stretched out and very likely to fall apart, focus your team on holding the double neutral while sending one squad to recap the neutral flag. They don't need to win firefights, only be sneaky, get in cap and stay alive. The rest of the team should focus on holding a secure perimeter around the offensive point. A common mistake teams make is everyone falls back from a double neutral, making it an easy recap and cap on the next point as an entire team moves between points.
-
-[Back to top](#content)
-
-
-************************************************************************
-# Game Modes
-- Squad can be played in different game modes.
-- Servers will rotate maps, and sometimes game modes, after every match.
-- The most common game modes are Advance and Secure, Random Advance and Secure, Skirmish, and Invasion.
-- Games can last up to 2 hours.
-- The team with 0 tickets or the least amount of tickets at the end of the game will lose.
-- Please note that game mode rules can change and changes may not be reflected in this guide by the time of the update.
-
-[Back to top](#content)
-
-
-## (Random) Advance and Secure
-- AAS/RAAS are control point modes. These modes are played on most servers.
-- The objective for both teams is to capture and hold Control Points (aka flags) in a preset order (or in a random order in RAAS). Capturing enemy flags penalizes the enemy team and rewards you with additional Tickets. The team that first runs out of tickets will lose.
-- AAS moves you along predetermined points that you can see at the start of a match, capture them. Stand near a location to capture it. You can see the progress bar at the top of the screen.
-- Two teams will start from opposite ends of the map in their main base, or in certain circumstances a limited forward spawn area. The team's objective is to capture and hold Control Points from the enemy team. Control Points can only be captured in a specific order that will appear on the map
-- Your team cannot capture a Control Point out of order, your team will need to capture and hold the previous flag. This is indicated by the Attack and Defense markers that appear over Control Points on your map (these markers look like a knife, respectively a shield on your map). - If both teams neutralize two opposing flags in the CP's line of sequence, it's a stalemate - neither team can take their next attack flag. - Only after a neutralized defense flag has been re-captured, the next attack flag can be captured.
-- As each team starts to cap neutral flags, it's not possible for enemies to block this capping process. For example: if one soldier is in the capture zone of their team's first flag and nine enemies are in that cap zone as well trying to block it, the flag will still be captured. Once they find him and kill him, the flag will (obviously) stop capping. This should severely reduce the "Rush Flags" meta, and shift the focus more towards the linear progression of moving from flag area to flag area, as well as having a proper supply train with FOBs and logistics. Blocking a flag is technically still possible if you eliminate the entire attacking force, but it will require more resources to do and is more likely to fail.
-- The team who runs out of tickets first loses. Therefore assets and FOBs play a big role in the ticket count of a team as well. Knowledge about the value of those assets can help you in correctly analyzing the situation of a team. Securing a flag while losing a lot of assets can harm your team's effort in winning a round.
-- Furthermore, keep in mind that individual scores do not affect the result of the match.
-- Gaining Tickets:
-    - [+20] for capturing neutral flags that have not been capped previously.
-    - [+50] for capturing flags that belong to the enemy.
-- Losing Tickets:
-    - [-20] when the enemy captures flags that belong to you.
-    - [-10] for losing a Forward Operating Base (FOB; "Radio").
-    - [- 1] by Infantry lost (bleed out).
-    - [- 5] by Light Vehicles, Transports or Logistics lost.
-    - [-10] by Armored Personnel Carriers (APC) or Infantry Fighting Vehicles (IFV) lost.
-    - [-15] by Main Battle Tank lost.
-- Ticket Bleed AAS/RAAS
-    - The enemy team will start bleeding tickets if you successfully capture at least one objective on the enemy side of the flag lattice. For each objective on the enemy part of the map, controlled by your team, the enemy will lose 1 ticket per minute.
-    - On map layers with an odd number of objectives, central objectives are considered a middle ground, and therefore do not trigger ticket bleed, to avoid causing King of the Hill fights for it. On such layers, your team will need to capture at least one more flag past central, for the enemy to start bleeding tickets.
-    - For map layers with an even number of objectives, your team will need to capture more than half of them to trigger ticket bleed on the enemy team.
-    - In the case of a "double-neutral" stalemate situation, all ticket bleed mechanics will be paused until the stalemate is resolved.
-    - Once your team captures all Control Points of the map, the enemy team will begin to Mercy Bleed. It's a fixed value of 60 Tickets over 60 seconds (the tickets tick down continuously every second). Mercy Bleed will stop if the enemy team manages to capture back the last Control Points.
-- Example:
-- Let's say there are 5 flags on the map (this doesn't include main bases, those aren't really flags).
-- If each team holds 2 flags, and the middle flag is neutral (white), nothing happens.
-- If one team captures the middle flag and now holds 3 flags to the other team's 2 flags. That will incur a penalty of 1 ticket loss every 30 seconds to the enemy team that holds fewer flags.
-- If you've got 6 flags in your match, and you hold 4 flags to their 2 then it doubles: now you make them bleed 2x tickets every 30 seconds (or about 1 every 15 seconds).
-- Every additional flag you own more than them, the bleed stacks.
-- So in a 6 flag match if you own all 6 flags and they own 0 the bleed is pretty intense. Matches end in only a few minutes.
-- Just keep in mind that a ticket loss every 15 seconds means the equivalent of losing a 9-person squad every 2 minutes 15 seconds. That's a squad spawning in and getting killed right away. If you only had 1 flag over them, it's 1 ticket every 30 seconds which is like a whole squad being wiped every 5 minutes. If you visualize ticket losses like that, you can understand why holding flags is so important. In addition to the bleed, capturing a point from the enemy gives you instantly 50 tickets and the enemy loses 20 tickets.
-- RAAS - Even though the next objective seems to show up randomly, [Squadlanes.com](https://squadlanes.com) can help to predict the next possible objective(s).
-
-[Back to top](#content)
-
-
-## Invasion
-- Invasion - one team attacks and the other defends, attackers need to capture quickly or they lose.
-- One Team has all flags from the start and a huge number of tickets. The other team is the attacker. They only have 200 tickets, but usually a major advantage due to having more vehicles. The attacking team gets 100 tickets per captured flag. Once the attacking team has captured a flag, it cannot be retaken by the defenders.
-- Defending team wins if the attacking team has 0 tickets left. The attacking team wins when they capture all flags or the defending team has 0 tickets left. This mode has a very well-defined front line as everyone is fighting for one flag.
-- Might also be good for a first game although the beginning of the round is very hectic for the defenders and usually attackers have a hard time in this mode.
-- The Mutaha Invasion v1 layer is the only game that plays during the night. 
-
-[Back to top](#content)
-
-
-## Skirmish
-- Like AAS but on a smaller map with fewer players. Sounds good to train, but gives the wrong impression about scale, distances, vehicles, etc. in the game. Would not recommend playing this game mode first as a new player.
-- Starting tickets are much lower than AAS and RAAS, generally, 100 tickets for each team. When a control point is first captured, that team gains 10 tickets instead of the 20 found in AAS. When a team captures an enemy control point, the ticket gain/loss is +20 / -20 instead of 30. This is due to the reduced number of tickets each team begins with. When a team reaches 0 tickets, that team loses the match.
-- Skirmish layers are useful for seeding servers or low population gameplay due to their small size. Engagements are much more frequent and matches end quicker.
-
-[Back to top](#content)
-
-
-## Territory Control (TC)
-- Territory Control (TC) consists of a grid of Hexes (hexagons), which function like capture zones.
-- The goal of the game mode is to either (A) have the other team run out of tickets or (B) capture 95% of all hexes. As ticket counts are generally high in this game mode, games tend to be very long and drawn out. 
-- It requires 1 person to capture an initially neutral zone.
-- It requires 3 people to capture an enemy zone. This is also true for hexes that were previously captured and then neutralized.
-- If the enemy tries to cap the hex at the same time as you, your team needs one more person than the enemy within the control point to cap it.
-- On initial spawn, a few of these hexes will already be captured for both sides and will be connected to neutral hexes which only require one player to capture. Capturable hexes will be slightly less opaque and have a blue border with a friendly owned hex. Enemy hexes will also show this border and less opaqueness but instead are tinted red.
-- The Anchor Hex is the starting point of the team's capture chain. This hex has an anchor icon on it. Other hexes must be connected to the Anchor Hex to not be cut off. Capturing the enemies Anchor Hex will prevent the enemy team from taking new territory and contesting any hex. 
-- Enemy hexes take 40 seconds to neutralize, and neutral hexes take 45 seconds to capture.
-- Capturing a hex unlocks all adjacent (bordering) hex zones for capture.
-- Bleed: 
-	- For every two hex zones captured beyond owning 60% of all hexes, the enemy will start bleeding 1 ticket per minute with a maximum of 5-6 tickets per minute (team must cap 10+ hexes or beyond 60% of all hexes). 
-	- Once a team captures "= 95% of all tiles, ticket bleed will increase to ~120 tickets per minute (has to be confirmed in-game or by OWI).
-	- Example: Al Basrah has 20 hexes in total. 60% = 12 hexes, 95% = 19 hexes.
-- Hex capture status is invisible until you capture an adjacent hex zone (fog of war).
-- Each team has a 'key territory' hex marked with a shield, at the base of their grid.
-- If any (group of) hexes owned by your team gets disconnected from that key territory (because the enemy captures hexes in between), you will not be able to attack bordering hexes from them until their connection to your key territory is restored.
-- If the enemy captures your key territory hex, all your remaining hexes lose their connection to the key territory, so you'll need to recapture your key territory hex to continue capturing enemy territory.
-- When your team captures 95% of all hexes, your team instantly wins.
-- Focus on enemy spawn points and not the hexes themselves. Cutting off spawn-points makes it easier to take hexes.
-
-[Back to top](#content)
-
-
-************************************************************************
 # Before Joining A Game
 
 - If you don't have a mic, get one. This game is all about communication. Also, know that text chat can be disabled. People may not see what you write (or they don't focus on text chat since they're busy attacking the enemy).
-- Get a call sign that can be easily pronounced. It makes communication easier and it can help others to remember you more easily if you're interested in making friends. It's not super important, but it can help in situations where your SL or another friendly needs to address you quickly. Also, it can help with immersion ("CHARGER HIT THAT TANK AT 2-3-0" has a different ring to it, then "Ah man, wow dude, how, what, what's your name... XxxSniperxxX_HD? COME BACK HERE ASAP!"). You can search for "military call sign list" or check out [this PDF](http://www.udxf.nl/MCL.pdf) to get some inspiration.
+- Get a call sign that can be easily pronounced. It makes communication easier and it can help others to remember you more easily if you're interested in making friends. It's not super important, but it can help in situations where your SL or another friendly needs to address you quickly. Also, it can help with immersion ("CHARGER HIT THAT TANK AT 2-3-0" has a different ring to it, then "Ah man, wow dude, how, what, what's your name... XxxSniperxxX_HD? COME BACK HERE ASAP!"). You can search for "military call sign list" or check out [this PDF](http://www.udxf.nl/MCL.pdf) to get some inspiration. Heck, it doesn't even have to be a military call sign. Any easily pronounceable name or word will do.
 - Try teamwork. It will make for a much better experience for everyone.
 - The game has a learning curve but it's super rewarding once you're in the groove of things.
 - Squad is about playing your role within a team. Sometimes that means rolling in kills, Squad-score, and glory. Sometimes that means sitting on a hill for 30 minutes watching the world go by. Remember: it’s not all about you. It's about the team.
@@ -1062,6 +869,212 @@ Fortunate Son - Creedence Clearwater Revival
 - In short, build a positive reputation among the community you play with.
 - This will take months/years to get to.
 - You can find people you played Squad with in Steam -" Profile -" Friends -" Recently Played With -" Add your new friend!
+
+[Back to top](#content)
+
+
+
+************************************************************************
+# Game Mechanics
+
+## What's this game about?
+- Squad is a team game of communication, coordination, and movement.
+- The goal of most of the game modes is to capture territory, not kill the enemy. Killing enemies is a secondary objective, often required to achieve the primary objective. Don't lose sight of the primary objective because you want to get a kill.
+- The vast majority of this game is actually about NOT engaging the enemy, and then engaging them quickly and completely destroying them before they can respond. By not engaging the enemy, you and your team can move around them and secretly get into a position to destroy them.
+- Rather get 0 kills and take out an enemy FOB to prevent them from spawning than get almost any number of kills. I call this "cutting the head off the snake" or "pulling them out by their roots". Go for the critical hit, not the "hits" they will simply recover from very easily.
+- The secret to winning games is LOGISTICS. Meaning how fast can your team move around the map. This is done with FOB networks and vehicles and "spawn shifting" and smart rally placements. The game is not about outkilling your enemy, which may come naturally, but about outmaneuvering the enemy.
+- Squad is a points game disguised as a tactical game. If you have a good sniper that can kill 30 players and AT that can kill 4 vehicles while holding a flag, you might just win. Points matter. Points are called Tickets in this game.
+
+[Back to top](#content)
+
+
+## Tickets
+- To win a round, one of the teams must reduce the enemy's tickets to zero or have more tickets than the enemy by the end of the round (a round lasts up to 2 hours).
+- Tickets are essentially the team's available "reinforcements" during the battle, as the number of tickets a team has denotes the number of times a team's players can collectively respawn. If a team's tickets are reduced to zero or are lower than the enemy's by the end of the round, they lose the match.
+- Both teams are given a limited number of tickets.
+- Certain events during a match will result in either team gaining or losing tickets. Below you can see the ticket change on your and the opponent's team for certain events.
+
+| Your Team | Opposite Team | Event |
+| --------: | ------------: | :---- | 
+|         0 |             0 | Player goes into incapacitated state |
+|        -1 |             0 | Player dies or gives up |
+|        -2 |             0 | Commander dies or gives up |
+|        60 |           -10 | Capture a Control Point in game mode X |
+
+- Losing Vehicles - Ticket costs for your team
+    - [- 5] Logi, Transport
+    - [- 5] Light Attack and Recon Vehicles
+    - [- 5] Anti-Air
+    - [- 5] Helicopter
+    - [-10] Armor Hunters, APC, IFV
+    - [-15] Main Battle Tanks
+
+- The highest ticket costs are game mode specific. Therefore, please check the ticket section for each game mode to get the full picture. Ticket values may change in future updates. For further information, [check out the Squad Wiki](https://squad.gamepedia.com/Game_Modes) or [Recent Squad Updates](https://joinsquad.com/updates/).
+
+[Back to top](#content)
+
+
+## Control Points
+- Control Points (CP), also known as "flag" or "cap", are areas on the map that teams need to capture.
+- A CP is a certain limited area of the battlefield, there is not an actual "flag" in the ground.
+- The capping radius (or even shape) of a CP may differ for each CP on the map.
+- CPs can be either neutral or belong to one of the teams.
+- At least 3 players need to be within the capping radius of a CP to capture it. At the start of a round, a neutral CP can be capped by one player alone.
+- It takes 2 minutes to capture a flag.
+- If players from the opposite team are in the capping radius at the same time, players from the teams will cancel each other out. The team with more players in the radius will gradually take the CP.
+- When you are inside the capping radius of a CP, the Control Point widget will appear. The flag shows who owns the CP and a progress bar shows the current progress of capping or decapping. The widget also shows the name of the CP.
+    - Neutral CP show with a white bar,
+    - those being capped or owned by your team show a blue bar.
+    - A red bar indicates that the opposite team owns this CP (also indicated by the enemy's flag; e.g. Canadian flag).
+- The layout of the CP on the map may change for the same map from game to game. In some game modes, CP can only be capped in a specific sequence (e.g. AAS, RAAS).
+
+[Back to top](#content)
+
+
+## Flags
+- Main - The main base. This is where the game starts. Teams cannot capture the other team's main base. You cannot fire a weapon in the main base. You cannot fire into a base (it has an invisible shield that protects it). It is your team's safe harbor.
+- Neutral flag - Flag that has not been captured yet by either side. For example, the very first flag once you leave main.
+- Contested flag - Flag that has not been captured yet by either side and both teams are on the objective at the same time and try to capture it. The team with more people on the flag will capture it after 1-2 minutes. The middle flag often is contested by both teams at the same time.
+- Middle flag - Exists only in map layers with an uneven number of objectives. It's the flag, well, in the middle. This is usually where both teams clash full force.
+- Capped flag - A flag that has been successfully captured by a team.
+- Offensive flag - This is the next flag that your team is going to capture. It has a red knife symbol on your map.
+- Defensive flag - This is the flag your team already captured. You can see it being represented on the map by a blue shield symbol. You need to hold these flags. If you lose any defensive flags to the enemy, your team cannot capture additional flags. Should your team lose a defense flag, your team has to move back and recapture it. Sometimes squads are back capping, which means they are protecting the already captured flags from the enemy. Back capping only needs 1 person on the flag. However, if that one person is being killed by the enemy, you're losing this flag and your offensive cannot continue until you recapture this lost flag.
+
+[Back to top](#content)
+
+
+# Capping Mechanics
+- The examples below are mostly for AAS/RAAS.
+- To capture a point, players must stand within the point's capture area until it comes under their team's control.
+- The cap rate doesn't change with more people on the flag. One person captures as fast as 10 from the same team.
+- Once a flag is captured you can leave the area with all soldiers, but this is not advisable. Should an enemy squad stop by they can easily neutralize this flag. Therefore leave some soldiers behind (also called "back capping)". It's not the most exciting job to do, but it is important not to lose any already captured flags. Doing so will prevent your team from capturing any other flags until they recaptured the lost flag.
+- Neutral flags can be capped by 1 person (e.g the first flag once you leave main).
+- It takes 2 minutes to neutralize a flag that was previously captured by the enemy and then 2 more minutes to capture it.
+- It takes the same amount of time to go from captured (capped) to neutral as it does to go from neutral to captured (capped).
+- For flags that were captured by the enemy you'll need to have a minimum of 3 people and outnumber the enemy in the cap zone by 1 to neutralize it.
+- On contested points (those caps not yet fully captured by either team) you have to outnumber the enemy contesting the point. So, if the enemy enters the cap zone of a neutral flag while you're capping it, you need at least one more person than them to continue capping.
+- Any flag that's not a current objective for your team, you won't be able to capture. For example, you're not able to capture the flag after your current offensive flag. You first have to capture the offensive flag.
+- Your team can only capture the next flag if they already captured the previous flags (those that connect back to your main base). And you have to keep holding these back caps.
+- You need 3+ players to cap an active objective.
+- On most maps, your defensive flag has a small and hard-to-see blue bar under it that indicates the level of cap that it has. You can view this on the map to see whether your defense is holding or whether the enemy has started to cap your defensive point and what % is capped already.
+- Many people get confused by the indicator that shows up when you're inside a cap zone and capping the point. If the indicator bar is BLUE you are capping. The BLUE bar may be going down which indicates you are DEcapping what the enemy team has already capped. Many people panic and see the BLUE bar decreasing and think we are losing the cap, but that is not what is happening. If the BLUE bar goes white, no one is capping. If the BLUE bar goes RED, the enemy is capping. OWI needs to clarify this GUI element and make it more obvious as to what is happening.
+- You can cap a neutral point with 1 person, assuming that point has not been previously captured.
+- Capping any point that has previously been captured: you need at least 3 people in the cap zone, plus 1 more player than the enemy team has on that point.
+
+[Back to top](#content)
+
+
+## Ticket Bleed
+- The enemy team will start bleeding tickets if you successfully capture at least one objective on the enemy side of the flag lattice. For each objective on the enemy part of the map, controlled by your team, the enemy will lose 1 ticket per minute.
+- On map layers with an odd number of objectives, middle flags do not trigger ticket bleed. To introduce ticket bleed to the enemy, your team will need to capture at least one more flag past central. For example, if there are 5 objectives to capture in total, your team would need to capture 4 objectives to introduce ticket bleed to the enemy team.
+
+- For map layers with an even number of objectives, your team will need to capture more than half of them to trigger ticket bleed on the enemy team. For example, if there are 6 objectives to capture in total, your team would need to capture 4 objectives to introduce ticket bleed to the enemy team.
+- In the case of a "double-neutral" stalemate situation, all ticket bleed mechanics will be paused until the stalemate is resolved.
+- If one team manages to successfully capture all flags on the map, the opposing team will suffer a catastrophic ticket bleed of 60 tickets per minute to bring about the end of the round more quickly. This is the equivalent of 60 soldiers being wiped out per minute.
+
+[Back to top](#content)
+
+
+## Double Neutral
+- A double neutral occurs when the enemy neutralized your defensive flag and you neutralized their defensive flag. Now neither of you can finish your offensive capture until you have retaken your respective defensive flags.
+- Double neutrals are possible in AAS and RAAS. If you neutralize the offensive flag and then lose your flag, the offensive flag will still be neutralized for the enemy, even if you can't see it on the map anymore. I've seen teams completely give up that advantage and leave the flag open for the enemy team to recapture because they don't understand that they're still holding it hostage.
+- If the enemy team was starting to capture your neutralized flag before the double neutral was initiated, the defensive flag will continue to flash red, even though they're no longer able to manipulate the cap. Once a single friendly enters the cap range, the icon will stop flashing. This will be your guide for understanding when you've lost your hold on the enemy's flag. If that flag starts flashing red again, you've lost the double neutral and need to relocate.
+- One thing to add. It's most confusing on RAAS because when the enemy neutralizes your defense flag and you neutralize theirs, you won't see the attack flag that you have neutralized. It is still there, and you are on the flag blocking it. There's just no indication. This always leads to squads leaving the flag they just neutralized since they think it's no longer active. It is just hidden. As an SL I always tell my guys that the flag is still here and we need to stay on it to keep the flag neutralized. Pretty much every single game the rest of the team will run back to the defense flag to try and get it back. The enemy will do the same, so you end up swapping back your flags and you're back to where you were at the start. TLDR; On RAAS the flag icon will disappear on a double neutral, it's still there and as long as you stay in the cap zone, you're still keeping the double neutral.
+- To recap the double neutral flag you only need 3 friendlies in the flag, regardless of how many enemies there are.
+- When you are attacking a point and it goes neutral, quickly check your map and look at the blue bar under your defensive flag. If there is no progression towards neutral, you won't go double neutral. If the enemy has started capping your defensive flag as you neutralize your offensive flag, you will go double neutral assuming no team stalls the cap of the other team
+- Advice - Unless your situation is very stretched out and very likely to fall apart, focus your team on holding the double neutral while sending one squad to recap the neutral flag. They don't need to win firefights, only be sneaky, get in cap and stay alive. The rest of the team should focus on holding a secure perimeter around the offensive point. A common mistake teams make is everyone falls back from a double neutral, making it an easy recap and cap on the next point as an entire team moves between points.
+
+[Back to top](#content)
+
+
+************************************************************************
+# Game Modes
+- Squad can be played in different game modes.
+- Servers will rotate maps, and sometimes game modes, after every match.
+- The most common game modes are Advance and Secure, Random Advance and Secure, Skirmish, and Invasion.
+- Games can last up to 2 hours.
+- The team with 0 tickets or the least amount of tickets at the end of the game will lose.
+- Please note that game mode rules can change and changes may not be reflected in this guide by the time of the update.
+
+[Back to top](#content)
+
+
+## (Random) Advance and Secure
+- AAS/RAAS are control point modes. These modes are played on most servers.
+- The objective for both teams is to capture and hold Control Points (aka flags) in a preset order (or in a random order in RAAS). Capturing enemy flags penalizes the enemy team and rewards you with additional Tickets. The team that first runs out of tickets will lose.
+- AAS moves you along predetermined points that you can see at the start of a match, capture them. Stand near a location to capture it. You can see the progress bar at the top of the screen.
+- Two teams will start from opposite ends of the map in their main base, or in certain circumstances a limited forward spawn area. The team's objective is to capture and hold Control Points from the enemy team. Control Points can only be captured in a specific order that will appear on the map
+- Your team cannot capture a Control Point out of order, your team will need to capture and hold the previous flag. This is indicated by the Attack and Defense markers that appear over Control Points on your map (these markers look like a knife, respectively a shield on your map). - If both teams neutralize two opposing flags in the CP's line of sequence, it's a stalemate - neither team can take their next attack flag. - Only after a neutralized defense flag has been re-captured, the next attack flag can be captured.
+- As each team starts to cap neutral flags, it's not possible for enemies to block this capping process. For example: if one soldier is in the capture zone of their team's first flag and nine enemies are in that cap zone as well trying to block it, the flag will still be captured. Once they find him and kill him, the flag will (obviously) stop capping. This should severely reduce the "Rush Flags" meta, and shift the focus more towards the linear progression of moving from flag area to flag area, as well as having a proper supply train with FOBs and logistics. Blocking a flag is technically still possible if you eliminate the entire attacking force, but it will require more resources to do and is more likely to fail.
+- The team who runs out of tickets first loses. Therefore assets and FOBs play a big role in the ticket count of a team as well. Knowledge about the value of those assets can help you in correctly analyzing the situation of a team. Securing a flag while losing a lot of assets can harm your team's effort in winning a round.
+- Furthermore, keep in mind that individual scores do not affect the result of the match.
+- Gaining Tickets:
+    - [+20] for capturing neutral flags that have not been capped previously.
+    - [+50] for capturing flags that belong to the enemy.
+- Losing Tickets:
+    - [-20] when the enemy captures flags that belong to you.
+    - [-10] for losing a Forward Operating Base (FOB; "Radio").
+    - [- 1] by Infantry lost (bleed out).
+    - [- 5] by Light Vehicles, Transports or Logistics lost.
+    - [-10] by Armored Personnel Carriers (APC) or Infantry Fighting Vehicles (IFV) lost.
+    - [-15] by Main Battle Tank lost.
+- Ticket Bleed AAS/RAAS
+    - The enemy team will start bleeding tickets if you successfully capture at least one objective on the enemy side of the flag lattice. For each objective on the enemy part of the map, controlled by your team, the enemy will lose 1 ticket per minute.
+    - On map layers with an odd number of objectives, central objectives are considered a middle ground, and therefore do not trigger ticket bleed, to avoid causing King of the Hill fights for it. On such layers, your team will need to capture at least one more flag past central, for the enemy to start bleeding tickets.
+    - For map layers with an even number of objectives, your team will need to capture more than half of them to trigger ticket bleed on the enemy team.
+    - In the case of a "double-neutral" stalemate situation, all ticket bleed mechanics will be paused until the stalemate is resolved.
+    - Once your team captures all Control Points of the map, the enemy team will begin to Mercy Bleed. It's a fixed value of 60 Tickets over 60 seconds (the tickets tick down continuously every second). Mercy Bleed will stop if the enemy team manages to capture back the last Control Points.
+- Example:
+- Let's say there are 5 flags on the map (this doesn't include main bases, those aren't really flags).
+- If each team holds 2 flags, and the middle flag is neutral (white), nothing happens.
+- If one team captures the middle flag and now holds 3 flags to the other team's 2 flags. That will incur a penalty of 1 ticket loss every 30 seconds to the enemy team that holds fewer flags.
+- If you've got 6 flags in your match, and you hold 4 flags to their 2 then it doubles: now you make them bleed 2x tickets every 30 seconds (or about 1 every 15 seconds).
+- Every additional flag you own more than them, the bleed stacks.
+- So in a 6 flag match if you own all 6 flags and they own 0 the bleed is pretty intense. Matches end in only a few minutes.
+- Just keep in mind that a ticket loss every 15 seconds means the equivalent of losing a 9-person squad every 2 minutes 15 seconds. That's a squad spawning in and getting killed right away. If you only had 1 flag over them, it's 1 ticket every 30 seconds which is like a whole squad being wiped every 5 minutes. If you visualize ticket losses like that, you can understand why holding flags is so important. In addition to the bleed, capturing a point from the enemy gives you instantly 50 tickets and the enemy loses 20 tickets.
+- RAAS - Even though the next objective seems to show up randomly, [Squadlanes.com](https://squadlanes.com) can help to predict the next possible objective(s).
+
+[Back to top](#content)
+
+
+## Invasion
+- Invasion - one team attacks and the other defends, attackers need to capture quickly or they lose.
+- One Team has all flags from the start and a huge number of tickets. The other team is the attacker. They only have 200 tickets, but usually a major advantage due to having more vehicles. The attacking team gets 100 tickets per captured flag. Once the attacking team has captured a flag, it cannot be retaken by the defenders.
+- Defending team wins if the attacking team has 0 tickets left. The attacking team wins when they capture all flags or the defending team has 0 tickets left. This mode has a very well-defined front line as everyone is fighting for one flag.
+- Might also be good for a first game although the beginning of the round is very hectic for the defenders and usually attackers have a hard time in this mode.
+- The Mutaha Invasion v1 layer is the only game that plays during the night. 
+
+[Back to top](#content)
+
+
+## Skirmish
+- Like AAS but on a smaller map with fewer players. Sounds good to train, but gives the wrong impression about scale, distances, vehicles, etc. in the game. Would not recommend playing this game mode first as a new player.
+- Starting tickets are much lower than AAS and RAAS, generally, 100 tickets for each team. When a control point is first captured, that team gains 10 tickets instead of the 20 found in AAS. When a team captures an enemy control point, the ticket gain/loss is +20 / -20 instead of 30. This is due to the reduced number of tickets each team begins with. When a team reaches 0 tickets, that team loses the match.
+- Skirmish layers are useful for seeding servers or low population gameplay due to their small size. Engagements are much more frequent and matches end quicker.
+
+[Back to top](#content)
+
+
+## Territory Control (TC)
+- Territory Control (TC) consists of a grid of Hexes (hexagons), which function like capture zones.
+- The goal of the game mode is to either (A) have the other team run out of tickets or (B) capture 95% of all hexes. As ticket counts are generally high in this game mode, games tend to be very long and drawn out. 
+- It requires 1 person to capture an initially neutral zone.
+- It requires 3 people to capture an enemy zone. This is also true for hexes that were previously captured and then neutralized.
+- If the enemy tries to cap the hex at the same time as you, your team needs one more person than the enemy within the control point to cap it.
+- On initial spawn, a few of these hexes will already be captured for both sides and will be connected to neutral hexes which only require one player to capture. Capturable hexes will be slightly less opaque and have a blue border with a friendly owned hex. Enemy hexes will also show this border and less opaqueness but instead are tinted red.
+- The Anchor Hex is the starting point of the team's capture chain. This hex has an anchor icon on it. Other hexes must be connected to the Anchor Hex to not be cut off. Capturing the enemies Anchor Hex will prevent the enemy team from taking new territory and contesting any hex. 
+- Enemy hexes take 40 seconds to neutralize, and neutral hexes take 45 seconds to capture.
+- Capturing a hex unlocks all adjacent (bordering) hex zones for capture.
+- Bleed: 
+	- For every two hex zones captured beyond owning 60% of all hexes, the enemy will start bleeding 1 ticket per minute with a maximum of 5-6 tickets per minute (team must cap 10+ hexes or beyond 60% of all hexes). 
+	- Once a team captures "= 95% of all tiles, ticket bleed will increase to ~120 tickets per minute (has to be confirmed in-game or by OWI).
+	- Example: Al Basrah has 20 hexes in total. 60% = 12 hexes, 95% = 19 hexes.
+- Hex capture status is invisible until you capture an adjacent hex zone (fog of war).
+- Each team has a 'key territory' hex marked with a shield, at the base of their grid.
+- If any (group of) hexes owned by your team gets disconnected from that key territory (because the enemy captures hexes in between), you will not be able to attack bordering hexes from them until their connection to your key territory is restored.
+- If the enemy captures your key territory hex, all your remaining hexes lose their connection to the key territory, so you'll need to recapture your key territory hex to continue capturing enemy territory.
+- When your team captures 95% of all hexes, your team instantly wins.
+- Focus on enemy spawn points and not the hexes themselves. Cutting off spawn-points makes it easier to take hexes.
 
 [Back to top](#content)
 
