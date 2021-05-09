@@ -268,7 +268,7 @@ Before you join a server as a new player
 [PulseEffects](https://github.com/wwmm/pulseeffects#installation)
 [PulseEffects-Legacy](https://aur.archlinux.org/packages/pulseeffects-legacy/)
 | Setting Name 				| Value |
---------------------------------------- | -------------
+--------------------------------------- | ------------- |
 Attack					| 0ms |
 Release					| 100ms |
 Threshold				| -31db (if you reduce this towards 0db (e.g. -12db) loud noises will be louder) |
