@@ -3,7 +3,7 @@
 #### Bookmark this page: [SquadFM.org](https://SquadFM.org/)
 - - - - - - - - - - - - - - -
 
-- This field manual contains various guides and how-tos for Squad players.
+- This field manual contains various guides and how-tos from experienced Squad players.
 - If you're a new player **WELCOME TO SQUAD!** Come and join us.
 - If you're a vet **THANK YOU FOR YOUR SERVICE** and for making Squad a great game.
 - To learn how this guide came to be, how to contribute or download it, head over to the [About](#about) chapter.
@@ -28,13 +28,13 @@ Before you join a server as a new player
     - [Protect Your Hearing](#protect-your-hearing)
     - [Show FPS, Find Hardware Bottlenecks](#show-fps-find-hardware-bottlenecks)
     - [Fix Performance Issues](#fix-performance-issues)
+        - [XMP Memory Profile](#xmp-memory-profile)
         - [Reset Settings](#reset-settings)
         - [Sudden FPS Drops/Stuttering](#sudden-fps-dropsstuttering)
         - [Clear Shader Cache](#clear-shader-cache)
         - [Steam File Verification](#steam-file-verification)
         - [Remove Mods](#remove-mods)
         - [Remove and reinstall Steam](#remove-and-reinstall-steam)
-        - [XMP Memory Profile](#xmp-memory-profile)
     - [OBS Setup](#obs-setup)
 - [Before Joining A Game](#before-joining-a-game)
     - [Training](#training)
@@ -289,8 +289,8 @@ Please use values that are comfortable for you. Check out [Protect Your Hearing]
 [VoiceMeeter Banana](https://vb-audio.com/Voicemeeter/banana.htm)
 
 ### Linux Audio Compressor
-[PulseEffects](https://github.com/wwmm/pulseeffects#installation)
-[PulseEffects-Legacy](https://aur.archlinux.org/packages/pulseeffects-legacy/)
+- [PulseEffects](https://github.com/wwmm/pulseeffects#installation)
+- [PulseEffects-Legacy](https://aur.archlinux.org/packages/pulseeffects-legacy/)
 
 | Setting Name 				| Value |
 | --------------------------------------- | ------------- |
@@ -324,6 +324,14 @@ Whichever matches the Frame is what's holding performance back. If Frame time is
 ## Fix Performance Issues
 
 Performance issues can occur after Squad was updated. The following tips can help to improve performance.
+
+
+### XMP Memory Profile
+- This is a setting that can be changed in your computers BIOS. It's usually not enabled by default.
+- If XMP is disabled your RAM is running at less speed than it's capable of (usually 2133 MHz). Enabling this can gain you 10-20 FPS.
+- Go into your BIOS and change the XMP to Profile 1. Save the settings and restart your computer.
+
+[Back to top](#content)
 
 
 ### Reset Settings
@@ -398,14 +406,6 @@ Performance issues can occur after Squad was updated. The following tips can hel
 - Uninstall all Steam games and then uninstall Steam.
 - Remove the Steam folder (under Linux /home/username/.local/share/Steam/). 
 - Then reinstall Steam and Squad.
-
-[Back to top](#content)
-
-
-### XMP Memory Profile
-- This is a setting that can be changed in your computers BIOS.
-- If XMP is disabled your RAM is running at less speed than it's capable of (usually 2133 MHz). Enabling this can gain you 10-20 FPS.
-- Go into your BIOS and change the XMP to Profile 1. Save the settings and restart your computer.
 
 [Back to top](#content)
 
@@ -1753,18 +1753,18 @@ The Squad Leader is a command and support role whose primary responsibility is t
 
 ## Creating a Squad
 - Don't create a squad you don't intend to lead.
-- If you want a certain thing out of your squad like "No Marksman" or "2 LATS, 2 Medics" then make sure to name your squad accordingly so if you don't have two LATs and two Medics then you can tell people on useless roles such as Automatic Rifleman or Marksman to switch off.
-- Don’t be afraid to say what kits you want. I like hearing "I need 2 Medics and 2 LATs and a Rifleman, please. No Marksman needed for this map sorry."
 - Make sure you pick the SL kit. Big must. The Squad Leader needs this kit to place FOBs and other structures.
+- If you want a certain thing out of your squad like "No Marksman" or "2 LATS, 2 Medics" then make sure to name your squad accordingly so if you don't have two LATs and 2 Medics then you can tell people on useless roles such as Automatic Rifleman or Marksman to switch off. Say for example "I need 2 Medics, 2 LATs and Riflemen, please. No Marksman needed for this map sorry".
+- You want to make sure you have a good mix of roles, and not just a bunch of Rifleman and a Medic. This is how your squad could look like: 1-2 Medics, 1 AR gunner, 1 LAT, 1-2 Grenadiers and the rest Rifleman. 
+- Consider only having one medic on your team, as the second medic only has iron sights. It often makes sense to add another kit with a scope to the squad instead, since iron sights are pretty useless outside of CQB. If in doubt, add another Rifleman kit, since it comes with an ammo bag.
 - Every squad should have at least a single Medic and AT. After your subordinates have chosen their roles, and you see none of them chose AT or/and a Medic then choose who will switch, by name (don't ask for volunteers).
 - Keep in mind Fire Support category (AR, LAT, Marksman) has a limited number of slots per squad, you might need to ask your AR or Marksman to switch because others won't be able to). Specialist category (Machine gun, HAT, Engineer) is limited to 2 for the whole team, if you see two HATs in your squad order one of them to switch.
 - Make sure every person in your squad has a microphone and uses it. Name your squad MIC REQ always. There is no point in joining a squad if you can't communicate with each other. It makes your life a billion times easier and your squad much more effective.
 - Do mic checks on the way out of spawn once all the comms are cleared. You can also get your fireteam leaders to do them if you're busy with command chat.
-- It is possible that a player is mute and is not able to communicate via voice. Do not kick players just because they don't have a mic. Kick players only if they aren't following orders or if they give you and the team a hard time. Also, leave your text chat on and check if squad members are trying to communicate with you via chat.
-- Never have just only one Medic on your team.
+- Do not kick players just because they don't have a mic. It is possible that a player is a mute and is not able to communicate via voice. Also, female gamers often get abusive comments when they use voice chat and prefer not to use their mic for that reason. Kick players only if they aren't following orders or if they give you and the team a hard time. Also, leave your text chat on and check if squad members are trying to communicate with you via chat.
 - Kick troublemakers. If they don't want to play with you, you don't want to play with them.
 - Don't be afraid to kick people from the squad. It is your discretion. Of course, use your own judgment and give them a few chances. Kicking people who don't listen or are disruptive or defiant will make your life easier. It will also ensure that people aren't questioning your orders excessively.
-- Squad composition and positioning - You want to make sure you have a good mix of roles, and not just a bunch of Rifleman and a Medic, this is how your squad should look: 2 Medics, 1 AR gunner, 2 Optics (ACOG), 1 LAT, 1-2 Grenadiers and the rest Rifleman You want to make sure you keep the AR gunner at the back and always have him stay in position and give support fire while moving up on the enemy. The enemy will usually think you're still there and be pinned by the AR gunner, you are good to leave a Medic with him as well. When you engage the enemy, have LAT and Grenadiers pop explosives at the enemy and then move up to flank. When moving, always have your Medics in the back and spread out among the squad, you don't want both of them getting taken out at once.
+- You want to make sure you keep the AR gunner at the back and always have him stay in position and give support fire while moving up on the enemy. The enemy will usually think you're still there and be pinned by the AR gunner. You are good to leave a Medic with him as well. When you engage the enemy, have LAT and Grenadiers pop explosives at the enemy and then move up to flank. When moving, always have your Medic(s) in the back and spread out among the squad, you don't want both of them getting taken out at once.
 
 [Back to top](#content)
 
@@ -1778,8 +1778,8 @@ The Squad Leader is a command and support role whose primary responsibility is t
 - Keeping a track of these 3 things will have your squad being very proactive and being able to adapt to most situations on the fly. Remember that you're not the only one responsible for the whole squad, the other 8 players are still human beings capable of their own decision-making. To put it very simply, your job is to get the squad into a spot where you're contesting either an objective or enemy forces/assets, point them in a direction, and make sure they have a place to spawn on.
 - Name your squad when you make it, something like MIC REQ INFANTRY gets the point across.
 - Claim a logi truck in the main base and go make a FOB.
-- Place your rally before you engage.
-- Rearm your rally, you only get one at a time.
+- Place your rally before you engage (requires a squadmate close by).
+- Rearm your rally, you only get one at a time (placing another rally costs 50 ammo)
 - Enemies can squash your rally if they walk nearby it.
 - There needs to be attacking and defending squads, pay attention to what other SLs are doing.
 - Nobody defending? Well, the enemies are going to notice that.
@@ -2041,7 +2041,8 @@ HAB location - needs some cover next to it (rotate with arrow keys to fit in tig
 ## Staying Sane
 - Kick troublemakers. No one is entitled to be in your squad and you're there to enjoy the game like anyone else.
 - Politeness goes a long way. Some jobs are plain boring, but getting a simple: "Thank you" as recognition is huge.
-- Ask for opinions or suggestions. Your squad is there stuck with you anyway and someone will be happy to help. Squad Leading is hard work. Enjoy yourself with a good beer or 6 or your beverage of choice.
+- Ask for opinions or suggestions. Your squad is there stuck with you anyway and someone will be happy to help. 
+- Squad Leading is hard work. Enjoy yourself with a good beer or 6 or your beverage of choice.
 - You determine the environment in your squad and the people that you want to lead. Don't let anyone walk over you, if you don't like the way someone acts, just get rid of them. No one is entitled to be in your squad or anyone else's if they're taking away from your enjoyment of the game as an SL. When you pick SL, you pick a certain amount of responsibility and gain the advantage that you can choose exactly who you play with within your squad. Use it. 7 people communicating and having a good time is a lot better than 9 people, out of which 2 are off doing their own thing, one is talking over SL and you're just getting pissed off at the game. You deserve to enjoy the game just like anyone else and dealing with horse shit behavior is not something I recommend doing too much.
 - When things go sour and you get pushed back constantly and can't seem to get your guys to win a single fight... It's not your fault in many cases, if you condense Squad Leading to its core, you're a glorified Rally Point dispenser. Your job is to get your squad to a more or less tactically advantageous spot, point your squad in a direction, and then as they're grown up goddamn men they can make micro-level decisions by themselves. And if you're keeping your boys in a relevant area and the killing is just not happening, then it's too bad, but you're only one man and need some help from the squad to make it into an effective force. There are 8 other guys/girls in there and you're all just as responsible. Doesn't matter if you point the tip of the spear to the heart of the beast if the tip is made of marshmallows.
 - Make them flank and call out important targets and positions where you need them to be (in very general terms). That's mostly enough. Micromanagement yields no benefits and is mostly annoying to both of you. They should know better where to be in a firefight. The only time you should call out individual members is when you need your vehicle for support somewhere or when you need a logi run or some shoveling needs to be done. Other than that, it's not worth the hassle - you should focus on keeping the morale up for the whole squad instead. Focus on the good things.
@@ -2758,8 +2759,9 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 - You can contribute to this guide on [Github](https://github.com/SquadFM/Squad-Field-Manual) or [Reddit](https://old.reddit.com/r/joinsquad/comments/m2rzjj/squad_field_manual_available_now/). You can also send me a message on [Steam](https://steamcommunity.com/id/Munster101/).
 - If you want to say "hi" my Squad in-game name is [Munster](https://steamcommunity.com/id/Munster101/).
 - To save this manual, right-click on this page in your browser and click on "Save Page As" to save this page as a .html file. You can also [download the complete Github repo](https://github.com/SquadFM/Squad-Field-Manual/archive/refs/heads/main.zip). The .zip file contains this manual as a text file. Links won't work unless you use a markdown editor with live-view.
-- This guide is still a work in progress, but I am trying to be less of a perfectionist and just wanted to get it out there. I hope you have fun reading it. 
-- **Tell someone about this manual.** Let's help others and improve this community.
+- This guide is still a work in progress, but I am trying to be less of a perfectionist and just wanted to get it out there. I hope you have fun reading it.
+- **Tell someone about this manual.** Let's help others improve their Squad skills and make this community better.
+- You can check when this guide was last updated on [Github](https://github.com/SquadFM).
 
 See you in Squad!
 
