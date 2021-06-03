@@ -2740,13 +2740,9 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 - Here are a few YouTube channels that you might like (in alphabetical order):
     - [Bastion Black Performance](https://www.youtube.com/channel/UCHuwc9VESIqSNQzkCwVePdQ/playlists) (This channel contains real-life small unit tactics. It's not Squad specific, but still interesting.)
     - [Captain](https://www.youtube.com/c/BHMCaptain/playlists)
-    - [Cwarfighter](https://www.youtube.com/channel/UCVqaQzElqtR_0A5oXk0uzBw/playlists)
     - [Gorlami14](https://www.youtube.com/c/Gorlami14/playlists)
     - [Jamusomama](https://www.youtube.com/channel/UC_1OWr9OVmmHk6y5NnLxzig/videos)
-    - [Karmakut](https://www.youtube.com/c/karmakut/playlists)
     - [MoiDawg](https://www.youtube.com/c/MoiDawg/playlists)
-    - [MrAtomicDuck](https://www.youtube.com/user/MrAtomicDuck/playlists)
-    - [Nano](https://www.youtube.com/c/Nanoytgaming/playlists)
 
 [Back to top](#content)
 
@@ -2760,7 +2756,7 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 - If you want to say "hi" my Squad in-game name is [Munster](https://steamcommunity.com/id/Munster101/).
 - To save this manual, right-click on this page in your browser and click on "Save Page As" to save this page as a .html file. You can also [download the complete Github repo](https://github.com/SquadFM/Squad-Field-Manual/archive/refs/heads/main.zip). The .zip file contains this manual as a text file. Links won't work unless you use a markdown editor with live-view.
 - This guide is still a work in progress, but I am trying to be less of a perfectionist and just wanted to get it out there. I hope you have fun reading it.
-- **Tell someone about this manual.** Let's help others improve their Squad skills and make this community better.
+- **Tell someone about this manual.** Let's help others to improve their Squad skills and make this community better.
 - You can check when this guide was last updated on [Github](https://github.com/SquadFM).
 
 See you in Squad!
