@@ -2006,7 +2006,7 @@ HAB location - needs some cover next to it (rotate with arrow keys to fit in tig
 
 ### Rush Tactic
 - Squads rush towards the enemy’s first few flags to cause a capping delay for the opposing side. 
-- This is possible in AAS and RAAS. For RAAS consult https://squadlanes.com, to find the enemy's team’s first few flags.
+- This is possible in AAS and RAAS. For RAAS consult [Squad Lanes](https://squadlanes.com), to find the enemy's team’s first few flags.
 - Note: V10 added the stealth cap mechanic which allows one team to continue capping, even if enemies are on their cap point. [From the V10 update notes](https://joinsquad.com/2018/02/05/alpha-10/):
     - Changes were made to AAS flag capture mechanics, where non-capturable flags will no longer be blockable by the enemy. 
     - For example: if one soldier is in the capture zone of their team’s first flag and nine enemies are in that cap zone as well trying to block it, the flag will still be captured. 
