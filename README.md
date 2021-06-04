@@ -117,6 +117,7 @@ Before you join a server as a new player
     - [Squad Tactics](#squad-tactics)
         - [Offensive Squad Tactics](#offensive-squad-tactics)
         - [Defensive Squad Tactics](#defensive-squad-tactics)
+        - [Rush Tactic](#rush-tactic)
     - [Guerilla/Recon Squad](#guerillarecon-squad)
     - [Strategy To Win Games](#strategy-to-win-games)
     - [How To Use Helicopters](#how-to-use-helicopters)
@@ -2003,6 +2004,33 @@ HAB location - needs some cover next to it (rotate with arrow keys to fit in tig
 [Back to top](#content)
 
 
+### Rush Tactic
+- Squads rush towards the enemy’s first few flags to cause a capping delay for the opposing side. 
+- This is possible in AAS and RAAS. For RAAS consult https://squadlanes.com, to find the enemy's team’s first few flags.
+- Note: V10 added the stealth cap mechanic which allows one team to continue capping, even if enemies are on their cap point. [From the V10 update notes](https://joinsquad.com/2018/02/05/alpha-10/):
+    - Changes were made to AAS flag capture mechanics, where non-capturable flags will no longer be blockable by the enemy. 
+    - For example: if one soldier is in the capture zone of their team’s first flag and nine enemies are in that cap zone as well trying to block it, the flag will still be captured. 
+    - Once they find him and kill him, the flag will (obviously) stop capping. 
+    - This should severely reduce the “Rush Flags” meta, and shift the focus more towards the linear progression of moving from flag area to flag area, as well as having a proper supply train with FOBs and logistics. 
+    - Blocking a flag is technically still possible if you eliminate the entire attacking force, but it will require more resources to do and is more likely to fail.
+
+
+#### Rushing The Enemy's Flags
+- You need a squad or two rushing to the enemy’s first few flags.
+- Infantry backed up by armor is a great way to do this. Take over the enemy’s first or second flag, don’t let any enemy players sneak in and cap.
+- This is a risky strategy but maybe a necessary one on some maps. If you run into smart counter-rushers they could wipe your squad. But if they know you’re going to rush they may not rush you as they’re concerned with having to counter-rush.
+- Keep in mind, rushes can be broken and wiped out; in most cases rather easily if teams plan for them. Rushes are high-risk, high-reward maneuvers, hinging on the idea that your rush-squad doesn't get wiped out by the enemy.
+
+
+#### Counter-Rushing 
+- Counter-rushing means to prevent the enemy from rushing your flags.
+- If you have intel or suspect that the enemy is rushing your first few flags, you have to protect them. If the enemy neutralizes any of your already captured flags, you won't be able to capture any more flags until the neutralized flag has been recaptured.
+- To prevent a successful enemy rush, send a whole squad each to your team’s first and second flag to fight off any enemies that are trying to slow your team’s cap progress down. 
+- Counter-rushing can be accomplished by a single “back-capper” that has to sneak into cap range and stealth cap. If this back-capper stays alive, they will cap the point even if a full enemy squad is on it as well. This is called stealth cap.
+
+[Back to top](#content)
+
+
 ## Guerilla/Recon Squad
 - Information is an extremely powerful weapon. Knowing where enemy FOBs are, knowing enemy vehicle positions, knowing about an incoming flanking squad can turn a game in your favor. This allows your team to distribute its forces more effectively and respond to threats faster.
 - If you're doing recon only, your squad/fireteam should probably never have more than 2 players in (R)AAS due to the manpower limits. Whoever is doing recon, make sure they have binos, a rifle with at least 4x optic, and can mark targets (either a squad lead or fireteam lead).
@@ -2080,6 +2108,7 @@ HAB location - needs some cover next to it (rotate with arrow keys to fit in tig
 - The Commander role could be used by a Squad Leader that still has a full squad fighting in offensive or defensive situations. This "frontlines" Commander would still be able to help augment the team through the use of his Commander’s actions and keeping each squad on task, but with a more direct engagement in the battle.
 - Another way to utilize the Commander role could be used by a Squad Leader focused on Logistics and Building rear defensive locations with a strong emphasis on intel gathering and reconnaissance.
 - If you (the commander) have a message to one SL, transmit it directly, and for the love of everything sacred say "Four, this is one" and wait for the green light to continue. Sometimes I (SL) can talk, sometimes you're talking over my poor scout party that's trying to give good intel for the fourth time and has to repeat it yet again, clogging up the frequency further.
+- Commanders have to be aware of the rush meta and how to prevent the enemy from rushing their teams' first few flags. See [Rush Tactic](#rush-tactic) for more information.
 
 [Back to top](#content)
 
@@ -2719,7 +2748,7 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 - [Mortar Calculator - SquadMortar](https://squadmortar.xyz/)
 - [Mortar Calculator - Minimalistic Mortar Calculator](https://mortar.sharkman.info/)
 - [Mortar Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=1224460390)
-- [Squadlanes.com](https://squadlanes.com)
+- [Squad Lanes](https://squadlanes.com)
 - [SgtHerhi's "How Not To Suck At ..." guides](https://old.reddit.com/r/joinsquad/comments/7f08ol/how_to_not_suck_at_offense/)
 - [Squad Forum](https://web.archive.org/web/20200224212716/http://forums.joinsquad.com)
 - [Squad Lingo](https://steamcommunity.com/sharedfiles/filedetails/?id=1194778443)
