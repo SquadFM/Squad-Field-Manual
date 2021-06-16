@@ -122,6 +122,7 @@ Before you join a server as a new player
     - [Strategy To Win Games](#strategy-to-win-games)
     - [How To Use Helicopters](#how-to-use-helicopters)
     - [Staying Sane](#staying-sane)
+    - [SL Cheat Sheet](#sl-cheat-sheet)
 - [Commander](#commander)
 - [Abbreviations, Lingo](#abbreviations-lingo)
 - [NATO Phonetic Alphabet](#nato-phonetic-alphabet)
@@ -1680,11 +1681,12 @@ If in doubt, rather say IFV than APC since an IFV poses a bigger threat and usua
 
 
 ### Helicopter
-- Weak spot to focus on: engine right below the main rotor
+- Weak spot to focus on: tail rotor (you'll need around 30-36 rifle shots to disable the tail rotor)
 - Weapons to use against this vic:
 	- HAT
 	- LAT
 	- 30mm
+        - Rifle (aim at tail rotor only)
 
 [Back to top](#content)
 
@@ -2083,6 +2085,13 @@ HAB location - needs some cover next to it (rotate with arrow keys to fit in tig
 - A decent Squad Leader just makes sure the basics get done well. Get the FOB/HAB down, keep the rally up, give the squad opportunities to get the fighting done.
 - Whenever you get a squad of finely chopped jello just piggyback off another squad. Because when individual manpower lacks, raw numbers compensate. "We're following and assisting squad 1" - because 19 people are way scarier than 4 guys who know what they're doing. And I'm all about that intimidation factor of making some Auto Rifleman realize his 50 round belt isn't enough and screams into the mic "full enemy team to the west" because let's be honest, when's the last time a Rifleman ever gave a proper enemy force count. Make it true for once ;)
 - You can only do so much. Don't stress too much if a game goes to shit. You're the arm that guides the spear. Sometimes the spear tip (squad members) is not made of steel. Sometimes it's wet noodles. And at that point when every teammate goes 0/10, your leadership is irrelevant. First and foremost Squad is a shooting game. If no one in the squad is shooting enemies, nothing gets done.
+
+[Back to top](#content)
+
+
+## SL Cheat Sheet
+
+[Print version here](https://github.com/SquadFM/Squad-Field-Manual/blob/main/SL%20Cheat%20Sheet.pdf)
 
 [Back to top](#content)
 
