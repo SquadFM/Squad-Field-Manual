@@ -2156,6 +2156,7 @@ HAB location - needs some cover next to it (rotate with arrow keys to fit in tig
 - Repair Station 500 (300 INS)
 
 [Image here](https://github.com/SquadFM/Squad-Field-Manual/blob/main/SL%20Cheat%20Sheet.png)
+
 [Print version here](https://github.com/SquadFM/Squad-Field-Manual/blob/main/SL%20Cheat%20Sheet.pdf)
 
 [Back to top](#content)
