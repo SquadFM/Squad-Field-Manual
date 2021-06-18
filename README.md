@@ -2104,6 +2104,58 @@ HAB location - needs some cover next to it (rotate with arrow keys to fit in tig
 
 ## SL Cheat Sheet
 
+### NEW SQUAD
+- Squad Names: INF, LOGI, BACKCAP, MIC REQ, TEAMWORK, HELI, ARMOR (use specific vic name like BRADLEY, BRDM; be aware of server rules, especially squad naming/vic claiming rules; keep an eye on what vics your squad tries to claim)
+- Kits: Medic, HAT/LAT, Rifleman, AR, Grenadier, CE
+- give FTL to squadmates (ask FTL to mark enemy positions on map)
+- coordinate strategy with other SLs
+- let squad know what the plan is
+
+### OBJECTIVES 
+- build FOBs (w/2+ exits per HAB; build 2-3 HABs around an objective), place rallys
+- capture/defend flags
+- find enemy FOBs
+- supply FOBs (fill Logi with 600 increments of build points for each HAB you want to build, rest ammo; e.g. 1800 build for 3 HABs and 1200 ammo per Logi truck)
+- setup mortars and tell squad to use mortar calculator (e.g. squadmc.ende.pro)
+
+### DO ALL THE TIME
+- place a RALLY before engagements (rally can be picked up and moved; new rally cost 50 ammo; place rally away from HABs; INS can spawn on buddy rallies)
+- check map; mark enemy positions on map
+- mark attack/defend order on map for fireteams
+- relay enemy armor positions to all SL
+- check if FOBs have enough ammo/build
+- keep your squad in the loop on overall progress, strategy updates, enemy vics
+- keep Logi’s running and supplying/building FOBs; don’t leave them unused in the field; share Logi with other SLs or RTB)
+- PTFO
+
+### COMMUNICATION w/Squad
+- relay the overall strategy; give frequent updates
+- give each fireteam a task (attack, defend, scout)
+- tell team not to shoot from HAB/rally if possible unless we're leaving the place for good
+- address people by name if you want their help
+- ask squad for help (e.g. FOB placement)
+- lone wolfs: ask to return to squad or kick 
+
+### COMMUNICATION w/other SLs, Commander
+- get APC/helo transport to objective
+- coordinate attack with other SLs (flank)
+- request airstrike/artillery 
+- ask other squads if they need support/supplies
+
+### BUILD FOBs
+- hide radio indoors, protected by HAB/ammo box
+- place HAB (2+ exits, easily accessible)
+- place ammo box
+- rotate deployables with arrow keys
+- INS can build 2 HABs per radio
+
+### Build Points
+- HAB 500 (100 INS)
+- Ammo Box 100
+- Mortar 300 (250 INS)
+- Repair Station 500 (300 INS)
+
+[Image here](https://github.com/SquadFM/Squad-Field-Manual/blob/main/SL%20Cheat%20Sheet.png)
 [Print version here](https://github.com/SquadFM/Squad-Field-Manual/blob/main/SL%20Cheat%20Sheet.pdf)
 
 [Back to top](#content)
