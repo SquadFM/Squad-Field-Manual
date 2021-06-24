@@ -11,7 +11,7 @@
 
 # NEW PLAYERS PLEASE READ
 Before you join a server as a new player
-- Please check out at least the chapters [Before Joining A Game](#before-joining-a-game) and [Rifleman](#rifleman),
+- Please check out at least the chapters [Before Joining A Game](#before-joining-a-game), [What's this game about?](#whats-this-game-about) and [Rifleman](#rifleman),
 - Practice on Jensen's Range (see [Training](#training)) and ideally some [Steam Workshop Maps](#steam-workshop-maps),
 - Take a look at various new player guides on YouTube (links below in the [YouTube Channels](#youtube-channels) chapter).
 - This game has its own language. Take a look at the [Abbreviations, Lingo](#abbreviations-lingo) chapter if you don't know what a term means.
@@ -405,7 +405,8 @@ Performance issues can occur after Squad was updated. The following tips can hel
 ### Remove Mods
 - Mods can cause Squad to crash after major updates.
 - Try to remove mods if you're experiencing issues that can't be resolved with any of the guides above.
-- To remove mods from Squad you need to unsubscribe from these mods in the Steam Workshop:
+- To remove mods, in Steam right click on Squad > Properties > Workshop and then unselect all mods.
+- Alternatively, to remove mods from Squad, you can unsubscribe from these mods in the Steam Workshop:
     - Go to library and click on "Squad".
     - Click on "Workshop" in the vertical menubar.
     - Hover over "Your Files" near your avatar and click on "Subscribed Items"
@@ -486,7 +487,7 @@ Performance issues can occur after Squad was updated. The following tips can hel
 - Logi Runs
     - Bring build and ammo supplies to the FOB.
     - Tell your SL that you volunteer for logi runs. Learn how to drive a truck first and how you can load/unload it.
-
+    - Logi runs are a great way to learn maps and have a positive impact on the game. No victory without supplies.
 [Back to top](#content)
 
 
@@ -2840,7 +2841,7 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 
 ## YouTube Channels
 - There are a lot of great videos online to learn more about every aspect of Squad.
-- Search for "squad new player guide", "squad sl guide", "squad tank guide", etc. on YouTube to find introductory videos.
+- Search for ["squad new player guide"](https://www.youtube.com/results?search_query=squad+new+player+guide), ["squad sl guide"](https://www.youtube.com/results?search_query=squad+sl+guide), ["squad tank guide"](https://www.youtube.com/results?search_query=squad+tank+guide), etc. on YouTube to find introductory videos.
 - Here are a few YouTube channels that you might like (in alphabetical order):
     - [Bastion Black Performance](https://www.youtube.com/channel/UCHuwc9VESIqSNQzkCwVePdQ/playlists) (This channel contains real-life small unit tactics. It's not Squad specific, but still interesting.)
     - [Captain](https://www.youtube.com/c/BHMCaptain/playlists)
@@ -2860,7 +2861,7 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 - If you want to say "hi" my Squad in-game name is [Munster](https://steamcommunity.com/id/Munster101/).
 - To save this manual, right-click on this page in your browser and click on "Save Page As" to save this page as a .html file. You can also [download the complete Github repo](https://github.com/SquadFM/Squad-Field-Manual/archive/refs/heads/main.zip). The .zip file contains this manual as a text file. Links won't work unless you use a markdown editor with live-view.
 - This guide is still a work in progress, but I am trying to be less of a perfectionist and just wanted to get it out there. I hope you have fun reading it.
-- **Tell someone about this manual.** Let's help others to improve their Squad skills and make this community better.
+- **Tell someone about this manual.** Let's help others to improve their Squad skills and improve this community.
 - You can check when this guide was last updated on [Github](https://github.com/SquadFM).
 
 See you in Squad!
