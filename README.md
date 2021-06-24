@@ -2841,7 +2841,7 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 
 ## YouTube Channels
 - There are a lot of great videos online to learn more about every aspect of Squad.
-- Search for ["squad new player guide"](https://www.youtube.com/results?search_query=squad+new+player+guide), ["squad sl guide"](https://www.youtube.com/results?search_query=squad+sl+guide), ["squad tank guide"](https://www.youtube.com/results?search_query=squad+tank+guide), etc. on YouTube to find introductory videos.
+- Search for ["squad new player guide"](https://www.youtube.com/results?search_query=squad+new+player+guide), ["squad rifleman guide"](https://www.youtube.com/results?search_query=squad+rifleman+guide), ["squad medic guide"](https://www.youtube.com/results?search_query=squad+medic+guide), ["squad sl guide"](https://www.youtube.com/results?search_query=squad+sl+guide), ["squad tank guide"](https://www.youtube.com/results?search_query=squad+tank+guide), etc. on YouTube to find introductory videos.
 - Here are a few YouTube channels that you might like (in alphabetical order):
     - [Bastion Black Performance](https://www.youtube.com/channel/UCHuwc9VESIqSNQzkCwVePdQ/playlists) (This channel contains real-life small unit tactics. It's not Squad specific, but still interesting.)
     - [Captain](https://www.youtube.com/c/BHMCaptain/playlists)
