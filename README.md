@@ -162,6 +162,7 @@ Before you join a server as a new player
 
 
 ### Game
+
 | Setting Name 				| Value |
 | ------------------------------------- | ------------- |
 | Field of View 			| 95 (a higher field of view will decrease the size of your rifle optic) |
@@ -190,6 +191,7 @@ Before you join a server as a new player
 
 
 ### Graphics
+
 | Setting Name 				| Value |
 | ------------------------------------- | ------------- |
 | Window Mode 				| Borderless (easier to alt-tab out of the game; seems to perform better) |
@@ -256,6 +258,7 @@ Please use values that are comfortable for you. Check out [Protect Your Hearing]
 
 
 ### Interface
+
 | Setting Name 				| Value |
 | ------------------------------------- | ------------- |
 | In-Game Help 				| On |
