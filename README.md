@@ -5,7 +5,7 @@
 
 - This field manual contains various guides and how-tos from experienced Squad players.
 - If you're a new player **WELCOME TO SQUAD!** Come and join us.
-- If you're a vet **THANK YOU FOR YOUR SERVICE** and for making Squad a great game.
+- If you're a Squad vet **THANK YOU** for making Squad a great game.
 - To learn how this guide came to be, how to contribute or download it, head over to the [About](#about) chapter.
 
 
