@@ -172,8 +172,8 @@ Before you join a server as a new player
 | Helicopter Sensitivity Pitch/Roll 	| 4 |
 | Use Zoom Sensitivity Scaling 		| Yes |
 | No Zoom 				| 1 |
-| 1x Zoom 				| 1 |
-| 4x Zoom 				| 0.5 |
+| 1x Zoom 				| 0.3 |
+| 4x Zoom 				| 0.3 |
 | Vehicle Sensitivity 			| No Zoom 1, 4x Zoom 0.5 |
 | Hold To Aim Down Sights 		| Toggle |
 | Lean Mode 				| Hold |
@@ -465,6 +465,9 @@ Performance issues can occur after Squad was updated. The following tips can hel
     - AdminDisableVehicleClaiming 1 (allows you to claim any vehicle)
     - AdminAlwaysValidPlacement 1 (allows you to place anything you want)
     - AdminSlomo 20 (speeds or slows in-game time; set to 1 for normal time)
+    - AdminCreateVehicle <vehicle> 
+        - for example to spawn a Leopard 2 type: AdminCreateVehicle /CanadianArmedForces/Vehicles/Leopard2/BP_2A6_Desert.BP_2A6_Desert_C
+        - find a complete list of spawnable vics here: https://squad.fandom.com/wiki/Server_Administration#Vehicle_Spawn_Commands
 - You can explore a map with Shift + P. Move around with your usual movement keys. Find more information below under [Admin Camera](#admin-camera).
 - Want to check out being a Squad Leader? Create a squad in the deployment menu (just name a squad and you'll be SL). Make sure to grab the SL kit from an ammo box. You can use map markers and place structure foundations (though you'll need a non-SL role to build them. The SL does not have a shovel).
 - Want to be a Commander and call in airstrikes? Create a squad first, then click on "Volunteer as Commander" and get your binos out, open your radial menu and click on "Request Tactical Support from Commander". Then go to the deployment screen and approve the request (right mouse click on the target area).
@@ -2813,31 +2816,37 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 # Sources and Resources
 
 - I tried to list as many sources as possible. 
-- I'd like to encourage you to read the [Squad Wiki](https://squad.gamepedia.com) for more detailed information on various topics.
+- I'd like to encourage you to read the [Squad Wiki](https://squad.fandom.com) for more detailed information on various topics.
 - Since Squad's predecessor Project Reality is a Battlefield 2 mod, you can also find information in Battlefield-related forums.
 - Watch YouTube videos. It's great to see experienced Squad players in action.
 
 [Back to top](#content)
 
 
-## Websites
-- [Squad Wiki](https://squad.gamepedia.com)
+## Sources
+- [Squad Wiki](https://squad.fandom.com)
+- [Squad Forum](https://forums.joinsquad.com/)
 - [Cheesy Tactical Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=571391558), [and here](https://drive.google.com/file/d/0B6sPT1ZeeQA3aGx3YWlHblFQVnM/edit), [and here](https://drive.google.com/file/d/0B_iNCOG63HtsSF9oN2NTOXVJNHc/view)
+- [SgtHerhi's "How Not To Suck At ..." guides](https://old.reddit.com/r/joinsquad/comments/7f08ol/how_to_not_suck_at_offense/)
+- [Usgu's Squad Manual, Nov 2015](http://cdn.akamai.steamstatic.com/steam/apps/393380/manuals/Squad_Alpha-Manual_1_2_0.pdf?t=1448234414)
+- [Usgu's Squad Manual, Feb 2016](https://steamcdn-a.akamaihd.net/steam/apps/393380/manuals/Squad_EA-Manual_1_1.pdf?t=1527101610)
+- [Mortar Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=1224460390)
+- [Squad Lingo](https://steamcommunity.com/sharedfiles/filedetails/?id=1194778443)
+- [Squad Forum (Old)](https://web.archive.org/web/20200224212716/http://forums.joinsquad.com)
+- [Squad Server Rules](https://squad.projectawesome.com/serverRules)
+- [Squad Sub-Reddit](https://old.reddit.com/r/joinsquad/)
+- [Battlefield Wiki](https://battlefield.fandom.com)
+
+[Back to top](#content)
+
+
+## Helpful Websites
 - [Mortar Calculator - SquadMC](https://squadmc.ende.pro/)
 - [Mortar Calculator - SquadMortar](https://squadmortar.xyz/)
 - [Mortar Calculator - Minimalistic Mortar Calculator](https://mortar.sharkman.info/)
-- [Mortar Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=1224460390)
 - [Squad Lanes](https://squadlanes.com)
-- [SgtHerhi's "How Not To Suck At ..." guides](https://old.reddit.com/r/joinsquad/comments/7f08ol/how_to_not_suck_at_offense/)
-- [Squad Forum](https://web.archive.org/web/20200224212716/http://forums.joinsquad.com)
-- [Squad Lingo](https://steamcommunity.com/sharedfiles/filedetails/?id=1194778443)
 - [Squad Maps](https://squadmaps.com/)
 - [Squad On Linux](https://www.protondb.com/app/393380)
-- [Squad Server Rules](https://squad.projectawesome.com/serverRules)
-- [Squad Sub-Reddit](https://old.reddit.com/r/joinsquad/)
-- [Usgu's Squad Manual, Nov 2015](http://cdn.akamai.steamstatic.com/steam/apps/393380/manuals/Squad_Alpha-Manual_1_2_0.pdf?t=1448234414)
-- [Usgu's Squad Manual, Feb 2016](https://steamcdn-a.akamaihd.net/steam/apps/393380/manuals/Squad_EA-Manual_1_1.pdf?t=1527101610)
-- [Battlefield Wiki](https://battlefield.fandom.com)
 
 [Back to top](#content)
 
@@ -2864,7 +2873,7 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 - If you want to say "hi" my Squad in-game name is [Munster](https://steamcommunity.com/id/Munster101/).
 - To save this manual, right-click on this page in your browser and click on "Save Page As" to save this page as a .html file. You can also [download the complete Github repo](https://github.com/SquadFM/Squad-Field-Manual/archive/refs/heads/main.zip). The .zip file contains this manual as a text file. Links won't work unless you use a markdown editor with live-view.
 - This guide is still a work in progress, but I am trying to be less of a perfectionist and just wanted to get it out there. I hope you have fun reading it.
-- **Tell someone about this manual.** Let's help others to improve their Squad skills and improve this community.
+- **Tell someone about the Squad Field Manual.** Help others to improve their Squad skills. Let's further improve this community.
 - You can check when this guide was last updated on [Github](https://github.com/SquadFM).
 
 See you in Squad!
