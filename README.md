@@ -363,8 +363,7 @@ Performance issues can occur after Squad was updated. The following tips can hel
 
 
 ### Sudden FPS Drops/Stuttering
-- If you get a bad framerate after loading into a map or changing graphics settings, try opening the console and typing in HighResShot 1. This command takes screenshots at a high resolution, which causes some sort of a soft graphical reload that can solve the performance issue.
-- If this doesn't bring improvement, increase the number by one (e.g. HighResShot 2, HighResShot 3, etc). Strangely, HighResShot 1, HighResShot 2, and HighResShot 4 fix this issue on my end. Whereas HighResShot 3 causes bad FPS drops. Your mileage may vary.
+- If you get a bad framerate after loading into a map or changing graphics settings, try opening the console and typing in "HighResShot 320x200" (without the ""). This command takes a screenshot, which causes some sort of a soft graphical reload that can solve the performance issue.
 - Every time you execute HighResShot, a screenshot is being saved into the folder below. If you set the "Screenshots" folder to read-only, you don't have to remember to delete these screenshots.
     - Under Linux: /home/username/.local/share/Steam/steamapps/compatdata/393380/pfx/drive_c/users/steamuser/Local Settings/Application Data/SquadGame/Saved/Screenshots/
     - Under Windows: %localappdata%\SquadGame\Saved\Screenshots\
@@ -395,11 +394,11 @@ Performance issues can occur after Squad was updated. The following tips can hel
 
 
 ### Steam File Verification
-- If you experience any performance issues, check the integrity of Squad's files.  
+- If you experience any performance issues, check the integrity of Squad's files.
 - In Steam go to Library:
     - Right-click on Squad and click on "Properties"
     - Click on the "Local Files" submenu 
-    - Click on "Verify integrity of game files"  
+    - Click on "Verify integrity of game files"
     - The process usually takes a few minutes to complete.
 
 [Back to top](#content)
