@@ -152,6 +152,9 @@ Before you join a server as a new player
     - Also, set the following /Temp/ directory to read-only: /home/username/.local/share/Steam/steamapps/compatdata/393380/pfx/drive_c/users/steamuser/Temp/
     - In Steam go to Library " right-click on Squad " Properties " in the settings pop-up go to Compatibility and check "Force the use of a specific Steam Play compatibility tool". Select the latest Proton version.
     - While you're here, set Automatic Updates to "High Priority" and set background downloads to "Pause".
+- In addition to Squad you can install the following tools to improve performance
+    - [Proton GE](https://github.com/GloriousEggroll/proton-ge-custom)
+    - [Feral Gamemode](https://github.com/FeralInteractive/gamemode)
 
 [Back to top](#content)
 
@@ -363,7 +366,8 @@ Performance issues can occur after Squad was updated. The following tips can hel
 
 
 ### Sudden FPS Drops/Stuttering
-- If you get a bad framerate after loading into a map or changing graphics settings, try opening the console and typing in "HighResShot 320x200" (without the ""). This command takes a screenshot, which causes some sort of a soft graphical reload that can solve the performance issue.
+- This appears to be a Linux specific bug that occurs when a new map loads. There's a thread on [Github](https://github.com/ValveSoftware/Proton/issues/938).
+- If you get a bad framerate after loading into a map or changing graphics settings, try opening the console and typing in "HighResShot 320x200" (without the " "). This command takes a screenshot, which causes some sort of a soft graphical reload that can solve the performance issue.
 - Every time you execute HighResShot, a screenshot is being saved into the folder below. If you set the "Screenshots" folder to read-only, you don't have to remember to delete these screenshots.
     - Under Linux: /home/username/.local/share/Steam/steamapps/compatdata/393380/pfx/drive_c/users/steamuser/Local Settings/Application Data/SquadGame/Saved/Screenshots/
     - Under Windows: %localappdata%\SquadGame\Saved\Screenshots\
