@@ -371,6 +371,10 @@ Performance issues can occur after Squad was updated. The following tips can hel
 - Every time you execute HighResShot, a screenshot is being saved into the folder below. If you set the "Screenshots" folder to read-only, you don't have to remember to delete these screenshots.
     - Under Linux: /home/username/.local/share/Steam/steamapps/compatdata/393380/pfx/drive_c/users/steamuser/Local Settings/Application Data/SquadGame/Saved/Screenshots/
     - Under Windows: %localappdata%\SquadGame\Saved\Screenshots\
+- Using the Linux tools below seems to improve performance and reduce these FPS drops.
+    - [Proton GE](https://github.com/GloriousEggroll/proton-ge-custom)
+    - [Feral Gamemode](https://github.com/FeralInteractive/gamemode)
+- Resolution Scale in Squads graphics options should not be set higher than 100, as a higher values appear to cause FPS drops that cannot be resolved with "HighResShot 320x200".
 
 [Back to top](#content)
 
