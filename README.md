@@ -22,7 +22,7 @@ Before you join a server as a new player
 # Content
 
 - [Installation, Setup](#installation-setup)
-    - [Installation](#installation)
+    - [Installation (Linux only)](#installation)
     - [Settings](#settings)
     - [Backup Your Settings](#backup-your-settings)
     - [Protect Your Hearing](#protect-your-hearing)
