@@ -50,6 +50,7 @@ Before you join a server as a new player
     - [Lyrics](#lyrics)
     - [Radio](#radio)
     - [Building Deployables](#building-deployables)
+    - [Supplying a FOB (aka Logi runs)](#supplying-a-fob-aka-logi-runs)
     - [Running Around](#running-around)
     - [Map](#map)
     - [Identifying The Enemy](#identifying-the-enemy)
@@ -2889,7 +2890,7 @@ See you in Squad!
 ```
      .--._____,
   .-='=='==-, "
- (O_o_o_o_o_O) Munster, 2021
+ (O_o_o_o_o_O) Munster, 2022
 ```
 
 [Back to top](#content)
