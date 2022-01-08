@@ -2852,7 +2852,7 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 - [Mortar Calculator - SquadMC](https://squadmc.ende.pro/)
 - [Mortar Calculator - SquadMortar](https://squadmortar.xyz/)
 - [Mortar Calculator - Minimalistic Mortar Calculator](https://mortar.sharkman.info/)
-- [Squad Lanes](https://squadlanes.com)
+- [Squad Lanes](https://squadlanes.com) - This site is a must if you play any RAAS layer
 - [Squad Maps](https://squadmaps.com/)
 - [Squad On Linux](https://www.protondb.com/app/393380)
 
