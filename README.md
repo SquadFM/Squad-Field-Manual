@@ -142,7 +142,7 @@ Before you join a server as a new player
 ************************************************************************
 # Installation, Setup
 
-## Installation
+## Installation (Linux only)
 - If you're using Windows you can skip this chapter. You can simply install the game in Steam and you're good to go.
 - Squad runs great on Linux too (through Steam and Proton). Since I play exclusively under Linux I wanted to share the setup process to make the life of other Linux users easier. I am using Manjaro, but the process should be the same on all distros.
     - Go to Steam and download Squad.
