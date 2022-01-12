@@ -6,7 +6,7 @@
 - This field manual contains various guides and how-tos from experienced Squad players.
 - If you're a new player **WELCOME TO SQUAD!** Come and join us.
 - If you're a Squad vet **THANK YOU** for making Squad a great game.
-- To learn how this guide came to be, how to contribute or download it, head over to the [About](#about) chapter.
+- **Please note:** There is more than one way to play Squad and strategies and tactics can be different from game to game and from player to player. Since this guide contains tips from various Squad players you may come across different recommendations for the same problem. Apply the best approach to your situation.
 
 
 # NEW PLAYERS PLEASE READ
@@ -1775,7 +1775,7 @@ The Squad Leader is a command and support role whose primary responsibility is t
 
 ## Squad Leader Meta
 - How to win a match? - Drain the enemy team's ticket count to zero.
-- What's the best way to do that? - Capturing flags yields a net 70 tickets for your team (-20 for the enemy, +50 for your team).
+- What's the best way to do that? - Capturing flags yields a net 70 tickets for your team (-10 for the enemy, +60 for your team).
 - How to capture a flag? - Members of your team need to control both the offensive and defensive flag.
 - What do they need to do that? - HABs!
 
@@ -2861,9 +2861,8 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 
 ## YouTube Channels
 - There are a lot of great videos online to learn more about every aspect of Squad.
-- Search for ["squad new player guide"](https://www.youtube.com/results?search_query=squad+new+player+guide), ["squad rifleman guide"](https://www.youtube.com/results?search_query=squad+rifleman+guide), ["squad medic guide"](https://www.youtube.com/results?search_query=squad+medic+guide), ["squad sl guide"](https://www.youtube.com/results?search_query=squad+sl+guide), ["squad tank guide"](https://www.youtube.com/results?search_query=squad+tank+guide), etc. on YouTube to find introductory videos.
+- Search for ["squad new player guide"](https://www.youtube.com/results?search_query=squad+new+player+guide), ["squad rifleman guide"](https://www.youtube.com/results?search_query=squad+rifleman+guide), ["squad medic guide"](https://www.youtube.com/results?search_query=squad+medic+guide), ["squad sl guide"](https://www.youtube.com/results?search_query=squad+sl+guide), ["squad tank guide"](https://www.youtube.com/results?search_query=squad+tank+guide), etc. on YouTube to find introductory videos. Since Squad was created by former Project Reality developers, you can also find tips in old PR videos that can be applied to Squad in many cases [project reality guide](https://www.youtube.com/results?search_query=project+reality+guide).
 - Here are a few YouTube channels that you might like (in alphabetical order):
-    - [Bastion Black Performance](https://www.youtube.com/channel/UCHuwc9VESIqSNQzkCwVePdQ/playlists) (This channel contains real-life small unit tactics. It's not Squad specific, but still interesting.)
     - [Captain](https://www.youtube.com/c/BHMCaptain/playlists)
     - [Gorlami14](https://www.youtube.com/c/Gorlami14/playlists)
     - [Jamusomama](https://www.youtube.com/channel/UC_1OWr9OVmmHk6y5NnLxzig/videos)
@@ -2875,14 +2874,10 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 ************************************************************************
 # About
 
-- When I first started playing Squad I was feeling overwhelmed. This game has a steep learning curve and I had no clue what to do during my first few games. The in-game training only teaches you so much. So I started this document to write down my learnings and those from other players. I never planned to share this guide, but as it grew in size I realized that others might benefit from it as well.
+- This game has a steep learning curve and I had no clue what to do during my first few games. The in-game training only teaches you so much. So I started this document to write down my learnings and those from other players. I never planned to share this guide, but as it grew in size I realized that others might benefit from it as well.
 - This guide contains the collected wisdom of many experienced Squad players from various sources. Their contributions are often copy-pasted into this guide. If you find content in this guide that you wrote I want to say "Thank you" for sharing your wisdom on the Squad Wiki, Reddit, in various manuals and strategy guides, the old Squad forum (offline now), Steam, YouTube, and other sources. You can find a list of most sources under ([Sources and Resources](#sources-and-resources)).
-- You can contribute to this guide on [Github](https://github.com/SquadFM/Squad-Field-Manual) or [Reddit](https://old.reddit.com/r/joinsquad/comments/m2rzjj/squad_field_manual_available_now/). You can also send me a message on [Steam](https://steamcommunity.com/id/Munster101/).
 - If you want to say "hi" my Squad in-game name is [Munster](https://steamcommunity.com/id/Munster101/).
 - To save this manual, right-click on this page in your browser and click on "Save Page As" to save this page as a .html file. You can also [download the complete Github repo](https://github.com/SquadFM/Squad-Field-Manual/archive/refs/heads/main.zip). The .zip file contains this manual as a text file. Links won't work unless you use a markdown editor with live-view.
-- This guide is still a work in progress, but I am trying to be less of a perfectionist and just wanted to get it out there. I hope you have fun reading it.
-- **Tell someone about the Squad Field Manual.** Help others to improve their Squad skills. Let's further improve this community.
-- You can check when this guide was last updated on [Github](https://github.com/SquadFM).
 
 See you in Squad!
 
