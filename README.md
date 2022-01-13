@@ -11,7 +11,7 @@
 
 # NEW PLAYERS PLEASE READ
 Before you join a server as a new player
-- Please check out at least the chapters [Before Joining A Game](#before-joining-a-game), [What's this game about?](#whats-this-game-about) and [Rifleman](#rifleman),
+- Check out at least the chapters [Before Joining A Game](#before-joining-a-game), [What's this game about?](#whats-this-game-about) and [Rifleman](#rifleman),
 - Practice on Jensen's Range (see [Training](#training)) and ideally some [Steam Workshop Maps](#steam-workshop-maps),
 - Take a look at various new player guides on YouTube (links below in the [YouTube Channels](#youtube-channels) chapter).
 - This game has its own language. Take a look at the [Abbreviations, Lingo](#abbreviations-lingo) chapter if you don't know what a term means.
@@ -465,8 +465,8 @@ Performance issues can occur after Squad was updated. The following tips can hel
 
 
 ## Training
-- Do the training. Then do it again.
-- Practice on Jensen's range and practice a lot! Try weapons, mortars, tanks, fly the helicopter, have fun and explore everything. Get used to rifle optics and see how far you can hit targets.
+- Complete the in-game training. Then do it again. 
+- Practice on Jensen's Range and practice a lot! Try weapons, mortars, tanks, fly the helicopter, have fun and explore everything. Get used to rifle optics and see how far you can hit targets.
 - If you want to train on a different map than Jensen's Range, open your console and type AdminChangeLayer. A list will show up with all maps and game modes and you can choose one of them. If the map has a timer that prevents you from getting into a vehicle or flying the helicopter open your console and type AdminSlomo 150, which will speed up time. You can set time back to normal with AdminSlomo 1.
 - Useful Console Commands:
     - AdminChangeLayer (and the map of your choice)
@@ -2861,7 +2861,7 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 
 ## YouTube Channels
 - There are a lot of great videos online to learn more about every aspect of Squad.
-- Search for ["squad new player guide"](https://www.youtube.com/results?search_query=squad+new+player+guide), ["squad rifleman guide"](https://www.youtube.com/results?search_query=squad+rifleman+guide), ["squad medic guide"](https://www.youtube.com/results?search_query=squad+medic+guide), ["squad sl guide"](https://www.youtube.com/results?search_query=squad+sl+guide), ["squad tank guide"](https://www.youtube.com/results?search_query=squad+tank+guide), etc. on YouTube to find introductory videos. Since Squad was created by former Project Reality developers, you can also find tips in old PR videos that can be applied to Squad in many cases [project reality guide](https://www.youtube.com/results?search_query=project+reality+guide).
+- Search for ["Squad new player guide"](https://www.youtube.com/results?search_query=squad+new+player+guide), ["Squad rifleman guide"](https://www.youtube.com/results?search_query=squad+rifleman+guide), ["Squad medic guide"](https://www.youtube.com/results?search_query=squad+medic+guide), ["Squad sl guide"](https://www.youtube.com/results?search_query=squad+sl+guide), ["Squad tank guide"](https://www.youtube.com/results?search_query=squad+tank+guide), etc. on YouTube to find introductory videos. Since Squad was created by former Project Reality developers, you can also find tips in old PR videos that can be applied to Squad in many cases - ["Project Reality guides"](https://www.youtube.com/results?search_query=project+reality+guide).
 - Here are a few YouTube channels that you might like (in alphabetical order):
     - [Captain](https://www.youtube.com/c/BHMCaptain/playlists)
     - [Gorlami14](https://www.youtube.com/c/Gorlami14/playlists)
