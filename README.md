@@ -29,6 +29,7 @@ Before you join a server as a new player
     - [Show FPS, Find Hardware Bottlenecks](#show-fps-find-hardware-bottlenecks)
     - [Fix Performance Issues](#fix-performance-issues)
         - [XMP Memory Profile](#xmp-memory-profile)
+        - [NVIDIA Image Scaling](#nvidia-image-scaling)
         - [Reset Settings](#reset-settings)
         - [Sudden FPS Drops/Stuttering](#sudden-fps-dropsstuttering)
         - [Clear Shader Cache](#clear-shader-cache)
@@ -355,6 +356,19 @@ Performance issues can occur after Squad was updated. The following tips can hel
 
 [Back to top](#content)
 
+
+### NVIDIA Image Scaling
+[NVIDIA Image Scaling](https://nvidia.custhelp.com/app/answers/detail/a_id/5280/~/how-to-enable-nvidia-image-scaling) is a driver-based spatial upscaler and sharpener for GeForce GPUs for all games. This is a good tool to gain a considerable amount of FPS if needed.
+- Enable NVIDIA image scaling in [GeForce Experience](https://www.nvidia.com/en-us/geforce/geforce-experience/). [[image](https://i.imgur.com/qG4P6mR.png)]
+    - Choose either 85% / 77% / 67%. It is not recommended to go below 67%.
+    - Take note of the resolution under the percentages, you will need to set your game resolution to this custom one.
+    - Set sharpness to your own liking. A value between 20-50% is recommended.
+- In the NVIDIA Control Panel > Manage 3D Settings > Image Scaling, tick the checkbox 'Overlay Indicator'. [[image](https://i.imgur.com/SHRBY0c.png)]
+- In Squad its Graphic Settings, set Window Mode to Fullscreen and Resolution to one of the custom resolutions as seen in NVIDIA GeForce Experience.
+
+If everything is configured correctly you should see green NIS text in the upper left corner of your screen.
+
+[Back to top](#content)
 
 ### Reset Settings
 - Some updates may change menu settings, graphic options, etc., and sometimes it is best to start with a clean slate. 
