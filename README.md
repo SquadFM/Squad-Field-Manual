@@ -26,8 +26,9 @@ Before you join a server as a new player
     - [Settings](#settings)
     - [Backup Your Settings](#backup-your-settings)
     - [Protect Your Hearing](#protect-your-hearing)
-    - [Show FPS, Find Hardware Bottlenecks](#show-fps-find-hardware-bottlenecks)
     - [Fix Performance Issues](#fix-performance-issues)
+        - [Show FPS, Find Hardware Bottlenecks](#show-fps-find-hardware-bottlenecks)
+        - [Increase FPS With Image Upscaling](#increase-fps-with-image-upscaling)
         - [XMP Memory Profile](#xmp-memory-profile)
         - [Reset Settings](#reset-settings)
         - [Sudden FPS Drops/Stuttering](#sudden-fps-dropsstuttering)
@@ -324,10 +325,15 @@ Please use values that are comfortable for you. Check out [Protect Your Hearing]
 | Knee					| 0db |
 | Makeup					| 0db |
 
+
+
 [Back to top](#content)
 
 
-## Show FPS, Find Hardware Bottlenecks
+## Fix Performance Issues
+Performance issues can occur after Squad was updated. The following tips can help to improve performance.
+
+### Show FPS, Find Hardware Bottlenecks
 In the console type:
 - stat FPS - to see frames per second
 - stat Unit - to see if either the CPU or GPU are holding back performance. Stat Unit will display Frame, Game, Draw and GPU information.
@@ -344,8 +350,28 @@ Whichever matches the Frame is what's holding performance back. If Frame time is
 [Back to top](#content)
 
 
-## Fix Performance Issues
-Performance issues can occur after Squad was updated. The following tips can help to improve performance.
+### Increase FPS With Image Upscaling
+
+Image upscaling is a somewhat new feature of nVidia and AMD GPUs and can be used to run games in a lower resolution (therefore getting more FPS), and at the same time upscaling the image to look like a higher resolution (it will upscale the image to your screen's native resolution). This should be helpful for players especially with older GPUs to get more FPS in Squad.
+
+#### Windows
+Since I use Linux exclusively, I would appreciate help from the community. Please let me know if these steps are sufficient to use image upscaling in Squad. Also, this is a good place to thank Kevin who brought this topic to my attention.
+- [nVidia users should be able to use image upscaling with these instructions](https://nvidia.custhelp.com/app/answers/detail/a_id/5280/~/how-to-enable-nvidia-image-scaling)
+- [AMD user should be able to use this guide.](https://wccftech.com/heres-how-to-get-amd-fsr-running-in-any-game-using-lossless-scaling-tool/)
+
+#### Linux
+AMD FidelityFX Super Resolution (FSR) is an image upscaling algorithm that works with AMD and nVidia GPUs. 
+- You'll need to install ProtonGE on your Linux distro to use FSR. [Find installation instructions here.](https://github.com/GloriousEggroll/proton-ge-custom) After ProtonGE was installed, you'll need to change a few things in Steam.
+- In Steam > Library > right click on Squad > Properties > Compatibility: select Proton-GE
+- In Steam > Library > right click on Squad > Properties > General > set the below launch options:
+WINE_FULLSCREEN_FSR=1 WINE_FULLSCREEN_FSR_STRENGTH=0 %command%
+- One note on "WINE_FULLSCREEN_FSR_STRENGTH=0" - you can change the value from 0-5, whereas 0 sharpens the image the most, and 5 the least. I found 0 to improve image quality the most. You can also remove "WINE_FULLSCREEN_FSR_STRENGTH=0" completely and FSR will use a standard value (which I believe is 2).
+- Start Squad, go to Settings > Graphics and set Window Mode to "Fullscreen" (FSR will not work with borderless or windowed mode; this is the case in all games)
+- Then set a resolution that is lower than your monitors native resolution in Squad's graphics settings (e.g., if your screen's native resolution is 1920x1080, set the in-game resolution for example to 1280x720).
+- [Here's an image that shows recommended resolutions for different native screen resolutions.](https://gpuopen.com/wp-content/uploads/2021/07/fsr_qualitytable_1200px.jpg) The closer the in-game resolution is to your screen's native resolution, the better the quality of the upscaled image will be. I have a 2560x1440p screen and 1920x1080p upscaled looked almost like 1440p ingame resolution. On the other hand 1280x720p upscaled to 1440p was quite blurry.
+- If you want to find out if FSR is working, check if your screen is displaying its native resolution. You can also use [MangoHud](https://github.com/flightlessmango/MangoHud) to display the resolution among other things (GPU% and CPU%, memory usage and more).
+
+[Back to top](#content)
 
 
 ### XMP Memory Profile
@@ -1745,6 +1771,7 @@ If in doubt, rather say IFV than APC since an IFV poses a bigger threat and usua
 - In the beginning of the game ferry a squad to the mid-flag and help them with your supplies to setup a FOB.
 - During a game bring supplies to the front. Again, coordinate with other SLs where supplies are needed the most. 
 - Always take the initiative and communicate with other SLs/Commander. Ask what they need and where they need it. But always try keep your Heli safe. 
+- Increase your in-game FOV or use TrackIR/Opentrack for additional situational awareness. 
 - Flying 101
     - Collector at 45% = hovering
     - Pitch at 12-15% up/down = max speed without losing altitude (if the pitch is at 80-90 degrees the heli will crash)
