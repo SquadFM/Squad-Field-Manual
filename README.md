@@ -355,8 +355,15 @@ Whichever matches the Frame is what's holding performance back. If Frame time is
 Image upscaling is a somewhat new feature of nVidia and AMD GPUs and can be used to run games in a lower resolution (therefore getting more FPS), and at the same time upscaling the image to look like a higher resolution (it will upscale the image to your screen's native resolution). This should be helpful for players especially with older GPUs to get more FPS in Squad.
 
 #### Windows
-Since I use Linux exclusively, I would appreciate help from the community. Please let me know if these steps are sufficient to use image upscaling in Squad. Also, this is a good place to thank Kevin who brought this topic to my attention.
-- [nVidia users should be able to use image upscaling with these instructions](https://nvidia.custhelp.com/app/answers/detail/a_id/5280/~/how-to-enable-nvidia-image-scaling)
+Special thanks to Kevin who brought this topic to my attention and who provided the NVIDIA guide below.
+- [NVIDIA Image Scaling](https://nvidia.custhelp.com/app/answers/detail/a_id/5280/~/how-to-enable-nvidia-image-scaling) is a driver-based spatial upscaler and sharpener for GeForce GPUs for all games. This is a good tool to gain a considerable amount of FPS if needed.
+- Enable NVIDIA image scaling in [GeForce Experience](https://www.nvidia.com/en-us/geforce/geforce-experience/). [[image](https://i.imgur.com/qG4P6mR.png)]
+    - Choose either 85% / 77% / 67%. It is not recommended to go below 67%.
+    - Take note of the resolution under the percentages, you will need to set your game resolution to this custom one.
+    - Set sharpness to your own liking. A value between 20-50% is recommended.
+- In the NVIDIA Control Panel > Manage 3D Settings > Image Scaling, tick the checkbox 'Overlay Indicator'. [[image](https://i.imgur.com/SHRBY0c.png)]
+- In Squad its Graphic Settings, set Window Mode to Fullscreen and Resolution to one of the custom resolutions as seen in NVIDIA GeForce Experience.
+- If everything is configured correctly you should see green NIS text in the upper left corner of your screen.
 - [AMD user should be able to use this guide.](https://wccftech.com/heres-how-to-get-amd-fsr-running-in-any-game-using-lossless-scaling-tool/)
 
 #### Linux
