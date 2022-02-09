@@ -202,20 +202,26 @@ Before you join a server as a new player
 | Window Mode 				| Borderless (easier to alt-tab out of the game; seems to perform better) |
 | Resolution	 			| 2560x1440 (set your screen's native resolution, if your PC can handle it) |
 | Resolution Scale 			| 125 (if your PC can handle it, makes spotting far enemies easier) |
-| V Sync 				| Off |
 | Max FPS Menu 				| 60 |
-| Max FPS In-Game 			| 80 (or set your screens native refresh rate) |
-| AA Quality 				| Off (less blur) |
-| AA Samples 				| - |
+| Max FPS In-Game 			| 60 (or set your screens native refresh rate) |
+| V Sync 				| Off |
+| Support GPU Occlusion 		| Off |
+| Graphics Quality			| Custom |
+| Enable AA 				| Yes |
+| AA Quality 				| Medium |
+| AA Samples 				| 4 |
+| Dynamic Mesh Quality			| Low |
+| Low Quality Environment		| Off |
+| Material Quality			| Low |
+| Enable Tesselation			| Off |
+| Texture Quality 			| Medium |
+| Anisotropic Filtering 		| 8 |
+| Uncap Texture Poolsize 		| Off |
 | Shadow Quality 			| Low |
 | Contact Shadows 			| Off |
-| Far Shadows 				| Off (otherwise reduces FPS like crazy) |
-| Texture Quality 			| Low |
-| Anisotropic Filtering 		| 2 |
-| Uncap Texture Poolsize 		| Off |
-| Particle Quality 			| Low |
 | AO Quality 				| Low |
 | Screen Space AO 			| Off |
+| Particle Quality 			| Low |
 | Post Processing Quality 		| Low |
 | Lens Flares 				| Off |
 | Motion Blur 				| 0 |
@@ -238,18 +244,18 @@ Please use values that are comfortable for you. Check out [Protect Your Hearing]
 | Effects Volume 			| 30% |
 | UI Volume 				| 0% |
 | Music Volume 				| 0% |
-| Out of Game Volume 			| 100% |
+| Out of Game Volume 			| 50% |
 | Audio Input Device 			| Default Device |
-| Command Voice Volume 			| 200% (Hearing voice communication is very important in this game) |
-| Command Voice Balance 		| -50 (mostly left ear) |
-| Squad Voice Volume 			| 200% (you might want to lower this value) |
+| Command Voice Volume 			| 100% |
+| Command Voice Balance 		| -80 (mostly left ear) |
+| Squad Voice Volume 			| 100% |
 | Squad Voice Volume 			| 80% (mostly right ear) |
-| Local Voice Volume 			| 140% (you might want to lower this value) |
+| Local Voice Volume 			| 100% |
 | Priority Speaker Ducking 		| 50% |
 | Radio Filter 				| On |
 | Command Beeps 			| On |
 | Squad Beeps 				| On |
-| Only Apply Balance When Leading	| Off |
+| Only Apply Balance When Leading	| Yes |
 
 [Back to top](#content)
 
