@@ -144,19 +144,28 @@ Before you join a server as a new player
 # Installation, Setup
 
 ## Installation (Linux only)
-- If you're using Windows you can skip this chapter. You can simply install the game in Steam and you're good to go.
-- Squad runs great on Linux too (through Steam and Proton). Since I play exclusively under Linux I wanted to share the setup process to make the life of other Linux users easier. I am using Manjaro, but the process should be the same on all distros.
-    - Go to Steam and download Squad.
-    - Start Squad and you'll get an EAC (Easy Anti Cheat) error. Click on OK and exit Squad.
-    - Download Easy Anti Cheat from [Valve's Github repo](https://github.com/ValveSoftware/Proton/files/4839724/easyanticheat_wine_x64.tar.gz) - This is Valve's official repo and you won't get banned for playing under Linux.
-    - Extract the files to: /home/username/.local/share/Steam/steamapps/compatdata/393380/pfx/drive_c/users/steamuser/Application Data/EasyAntiCheat/55/
-    - Set the /55/ directory to read-only
-    - Also, set the following /Temp/ directory to read-only: /home/username/.local/share/Steam/steamapps/compatdata/393380/pfx/drive_c/users/steamuser/Temp/
-    - In Steam go to Library " right-click on Squad " Properties " in the settings pop-up go to Compatibility and check "Force the use of a specific Steam Play compatibility tool". Select the latest Proton version.
-    - While you're here, set Automatic Updates to "High Priority" and set background downloads to "Pause".
-- In addition to Squad you can install the following tools to improve performance
-    - [Proton GE](https://github.com/GloriousEggroll/proton-ge-custom)
-    - [Feral Gamemode](https://github.com/FeralInteractive/gamemode)
+
+If you're using Windows you can skip this chapter. You can simply install the game in Steam and you're good to go.
+
+Squad runs great on Linux too (through Steam and Proton). Since I play exclusively under Linux I wanted to share the setup process to make the life of other Linux users easier. I am using Manjaro, but the process should be the same on all distros.
+
+- Go to Steam and download Squad.
+- Start Squad and you'll get an EAC (Easy Anti Cheat) error. Click on OK and exit Squad.
+- Download Easy Anti Cheat from [Valve's Github repo](https://github.com/ValveSoftware/Proton/files/4839724/easyanticheat_wine_x64.tar.gz) - This is Valve's official repo and you won't get banned for playing under Linux.
+- Extract the files to:
+  * If you installed Steam from Flatpak: ~/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/compatdata/393380/pfx/drive_c/users/steamuser/Application Data/EasyAntiCheat/55/
+  * Otherwise: ~/.local/share/Steam/steamapps/compatdata/393380/pfx/drive_c/users/steamuser/Application Data/EasyAntiCheat/55/
+- Set the /55/ directory to read-only
+- Also, set the following /Temp/ directory to read-only:
+  * If you installed Steam from Flatpak: ~/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/compatdata/393380/pfx/drive_c/users/steamuser/Temp/
+  * Otherwise: ~/.local/share/Steam/steamapps/compatdata/393380/pfx/drive_c/users/steamuser/Temp/
+- In Steam go to Library " right-click on Squad " Properties " in the settings pop-up go to Compatibility and check "Force the use of a specific Steam Play compatibility tool". Select the latest Proton version.
+- While you're here, set Automatic Updates to "High Priority" and set background downloads to "Pause".
+
+In addition to Squad you can install the following tools to improve performance:
+
+- [Proton GE](https://github.com/GloriousEggroll/proton-ge-custom)
+- [Feral Gamemode](https://github.com/FeralInteractive/gamemode)
 
 [Back to top](#content)
 
