@@ -154,7 +154,7 @@ Before you join a server as a new player
         - If you installed Steam from Flatpak: `~/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/compatdata/393380/pfx/drive_c/users/steamuser/Application Data/EasyAntiCheat/55/`
     - Set the /55/ directory to read-only
     - Also, set the following /Temp/ directory to read-only: 
-        - `/home/username/.local/share/Steam/steamapps/compatdata/393380/pfx/drive_c/users/steamuser/Temp/
+        - `/home/username/.local/share/Steam/steamapps/compatdata/393380/pfx/drive_c/users/steamuser/Temp/`
         - If you installed Steam from Flatpak: `~/.var/app/com.valvesoftware.Steam/data/Steam/steamapps/compatdata/393380/pfx/drive_c/users/steamuser/Temp/`
     - In Steam go to Library " right-click on Squad " Properties " in the settings pop-up go to Compatibility and check "Force the use of a specific Steam Play compatibility tool". Select the latest Proton version.
     - While you're here, set Automatic Updates to "High Priority" and set background downloads to "Pause".
