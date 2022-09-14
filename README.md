@@ -494,7 +494,7 @@ WINE_FULLSCREEN_FSR=1 WINE_FULLSCREEN_FSR_STRENGTH=0 %command%
 # Before Joining A Game
 
 - If you don't have a mic, get one. This game is all about communication. Also, know that text chat can be disabled. People may not see what you write (or they don't focus on text chat since they're busy attacking the enemy).
-- Get a call sign that can be easily pronounced. It makes communication easier and it can help others to remember you more easily if you're interested in making friends. It's not super important, but it can help in situations where your SL or another friendly needs to address you quickly. Also, it can help with immersion ("CHARGER HIT THAT TANK AT 2-3-0" has a different ring to it, then "Ah man, wow dude, how, what, what's your name... XxxSniperxxX_HD? COME BACK HERE ASAP!"). You can search for "military call sign list" or check out [this site](https://henney.com/chm/callsign.htm) to get some inspiration. Heck, it doesn't even have to be a military call sign. Any easily pronounceable name or word will do.
+- Get a call sign that can be easily pronounced. It makes communication easier and it can help others to remember you more easily if you're interested in making friends. It's not super important, but it can help in situations where your SL or another friendly needs to address you quickly. You can search for "military call sign list" or check out [this site](https://henney.com/chm/callsign.htm) to get some inspiration. It doesn't even have to be a military call sign. Any easily pronounceable name or word will do.
 - Try teamwork. It will make for a much better experience for everyone.
 - The game has a learning curve but it's super rewarding once you're in the groove of things.
 - Squad is about playing your role within a team. Sometimes that means rolling in kills, Squad-score, and glory. Sometimes that means sitting on a hill for 30 minutes watching the world go by. Remember: it’s not all about you. It's about the team.
@@ -621,9 +621,7 @@ WINE_FULLSCREEN_FSR=1 WINE_FULLSCREEN_FSR_STRENGTH=0 %command%
 
 
 ## I Cannot Speak (I Am A Mute)
-- If you're a mute we want you to join Squad nonetheless! We won't leave anyone behind! You're one of us!
-- If anything, send a quick message to your squad when you join that you can't use your voice due to medical reasons.
-- You can add [MEDICALLY MUTE] to your name to let people know that you won't be talking.
+- Send a quick message to your squad when you join that you can't use your voice due to medical reasons.
 - If you run into an asshole, let the admins know.
 - Play Medic for absolutely no need to talk. Most other classes other than Command or scouting don't really need talking unless you see something.
 - While speaking is helpful, even more important is following orders and playing as a squad.
