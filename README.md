@@ -2918,7 +2918,6 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 
 - This game has a steep learning curve and I had no clue what to do during my first few games. The in-game training only teaches you so much. So I started this document to write down my learnings and those from other players. I never planned to share this guide, but as it grew in size I realized that others might benefit from it as well.
 - This guide contains the collected wisdom of many experienced Squad players from various sources. Their contributions are often copy-pasted into this guide. If you find content in this guide that you wrote I want to say "Thank you" for sharing your wisdom on the Squad Wiki, Reddit, in various manuals and strategy guides, the old Squad forum (offline now), Steam, YouTube, and other sources. You can find a list of most sources under ([Sources and Resources](#sources-and-resources)).
-- If you want to say "hi" my Squad in-game name is [Munster](https://steamcommunity.com/id/Munster101/).
 - To save this manual, right-click on this page in your browser and click on "Save Page As" to save this page as a .html file. You can also [download the complete Github repo](https://github.com/SquadFM/Squad-Field-Manual/archive/refs/heads/main.zip). The .zip file contains this manual as a text file. Links won't work unless you use a markdown editor with live-view.
 
 See you in Squad!
