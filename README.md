@@ -1082,10 +1082,12 @@ Fortunate Son - Creedence Clearwater Revival
 ## Ticket Bleed
 - The enemy team will start bleeding tickets if you successfully capture at least one objective on the enemy side of the flag lattice. For each objective on the enemy part of the map, controlled by your team, the enemy will lose 1 ticket per minute.
 - On map layers with an odd number of objectives, middle flags do not trigger ticket bleed. To introduce ticket bleed to the enemy, your team will need to capture at least one more flag past central. For example, if there are 5 objectives to capture in total, your team would need to capture 4 objectives to introduce ticket bleed to the enemy team.
-
 - For map layers with an even number of objectives, your team will need to capture more than half of them to trigger ticket bleed on the enemy team. For example, if there are 6 objectives to capture in total, your team would need to capture 4 objectives to introduce ticket bleed to the enemy team.
 - In the case of a "double-neutral" stalemate situation, all ticket bleed mechanics will be paused until the stalemate is resolved.
 - If one team manages to successfully capture all flags on the map, the opposing team will suffer a catastrophic ticket bleed of 60 tickets per minute to bring about the end of the round more quickly. This is the equivalent of 60 soldiers being wiped out per minute.
+- Ticket Bleed was removed from RAAS layers on all flags except when all flags have been captured (which still has -60 tickets per minute mercy bleed). This is intended to incentivize more dynamic movement along flag lattice, affording teams that have been pushed off a middle flag more time to stabilize, reconstitute and strategically plan a counterattack. https://joinsquad.com/2023/03/14/squad-update-v4-3-release-notes/
+- -10 ticket loss was removed when a flag is lost for the AAS, RAAS and Skirmish game modes. Currently, teams that lose a flag are already at a large detriment due to – having lost ground/key strategic land areas; likely having lost one or more FOBs in the area (each FOB is -20 tickets); likely have lost several infantry tickets (give ups); losses of any additional vehicles/logis (costing tickets) or disabled vehicles at the lost flag (which now cannot resupply or quickly rebuild FOBs). This change is intended to make losing flags less of a blow to the overall battle. https://joinsquad.com/2023/03/14/squad-update-v4-3-release-notes/
+
 
 [Back to top](#content)
 
