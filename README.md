@@ -1,6 +1,5 @@
 # SQUAD FIELD MANUAL
 ## Tactics, Techniques, and Procedures
-- - - - - - - - - - - - - - -
 
 - This field manual contains various guides and how-tos from experienced Squad players.
 - If you're a new player **WELCOME TO SQUAD!** Come and join us.
