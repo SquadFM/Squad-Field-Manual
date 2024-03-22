@@ -1,6 +1,5 @@
 # SQUAD FIELD MANUAL
 ## Tactics, Techniques, and Procedures
-#### Bookmark this page: [SquadFM.org](https://SquadFM.org/)
 - - - - - - - - - - - - - - -
 
 - This field manual contains various guides and how-tos from experienced Squad players.
