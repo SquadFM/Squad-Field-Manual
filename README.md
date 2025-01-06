@@ -2907,7 +2907,6 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 - Here are a few YouTube channels that you might like (in alphabetical order):
     - [Captain](https://www.youtube.com/c/BHMCaptain/playlists)
     - [Gorlami14](https://www.youtube.com/c/Gorlami14/playlists)
-    - [Jamusomama](https://www.youtube.com/channel/UC_1OWr9OVmmHk6y5NnLxzig/videos)
     - [MoiDawg](https://www.youtube.com/c/MoiDawg/playlists)
 
 [Back to top](#content)
