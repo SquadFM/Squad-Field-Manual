@@ -2922,11 +2922,4 @@ Jump to: [0-9](#0-9), [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](
 
 See you in Squad!
 
-
-```
-     .--._____,
-  .-='=='==-, "
- (O_o_o_o_o_O) Munster, 2024
-```
-
 [Back to top](#content)
